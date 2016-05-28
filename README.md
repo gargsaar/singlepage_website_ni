@@ -1,2 +1,2 @@
 # singlepage_website_ni
-Template - single page website for personal portfolio 
+Template for a single page personal portfolio website. 
