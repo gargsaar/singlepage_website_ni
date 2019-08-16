@@ -3,13 +3,7 @@ layout: post
 title:  "The Three Phases Of My Life"
 date:   2018-06-30
 ---
-> My Ice Breaker speech at Toastmasters, June 2018
-
-*Mr. Toastmaster of the Day, fellow toastmasters and honored guests, good evening!*
-
-While preparing my speech, I did research about the origin of Ice Breaker and I found out that 
-
-You know in 17th century in the UK, during winter, the sea water often freezes. So, before a ship could travel down to the trading port, a special ship called "Ice Breaker" went into the iced water to literally break the ice. Hence the ice breaker was needed for them to get down to business. 
+In 17th century in the UK, during winter, the sea water often freezes. So, before a ship could travel down to the trading port, a special ship called "Ice Breaker" went into the iced water to literally break the ice. Hence the ice breaker was needed for them to get down to business. 
 
 Today, I'll break my fear of expressing myself with my first blog post that will tell you the story of my life.
 
