@@ -3,7 +3,7 @@ layout: post
 title:  "How to stay employable in the age of automation"
 date:   2019-01-17
 ---
-“A man who can be replaced by a machine will be.”
+*“A man who can be replaced by a machine will be.”*
 
 Yesterday, I met Ashish during an Uber ride. Few months back he used to clean cars and didn't know how to use a smartphone or drive a car. Its amazing how he has upgraded his skills and become an Uber driver as for him I am sure this wouldn't have been easy. According to him driving is much less stressful and earns him more. He is a true example of how people transform themselves for their betterment.
 
@@ -17,8 +17,8 @@ The whole purpose of technology evolution is that things should not remain the s
 
 For better or for worse the change is imminent. Being an optimist I believe the change is going to be for better. To stay relevant in the future or win the battle of employability against machines, humanity as a whole, will have to upgrade like Ashish. To achieve a sanguine future, we will have to constantly evolve and learn new skills which I believe is the only way out.
 
-"If you are willing to learn, no one can stop you. If you are not, no one can help you."
+*"If you are willing to learn, no one can stop you. If you are not, no one can help you."*
 
 {% highlight ruby %}
-Originally published at: https://www.linkedin.com/pulse/how-stay-employable-age-machine-learning-sarthak-garg/
+Originally published at: (https://www.linkedin.com/pulse/how-stay-employable-age-machine-learning-sarthak-garg/)
 {% endhighlight %}
