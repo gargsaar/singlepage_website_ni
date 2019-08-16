@@ -11,7 +11,7 @@ This style of leadership is pretty common where the culture is very hierarchical
 
 A Parent Leader following the Paternalistic Leadership style leads as if he/she is the parent in the family. They exhibit controlling and caring attitude at the same time and offer guidance and protection. In exchange all they want is loyalty and respect. Their style is not simply authoritarian, but authority with a long-term vested interest in all the members at play. 
 
-*Some of the characterstics of a parent leader as are follows.*
+*Some of the characterstics of a parent leader are:*
 
 A Parent Leader leads the organization/team like they are a family. For example, if you are hosting a housewarming party, they are surely going to show up. They hate feeling of left out and there is nothing worse when they are not involved.
 
