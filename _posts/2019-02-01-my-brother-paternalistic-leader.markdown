@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "My youner brother is a leader"
+title:  "My younger brother is a leader"
 date:   2019-02-01
 ---
 One day while researching on different styles of leaderships, I learned about paternalistic style of leadership.
@@ -21,6 +21,6 @@ They makes decisions based on intuition and prefers things to be done “their w
 
 A Parent Leader delegates duties, but not authority. They hold the final authority and while they will expect others to do their part.
 
-Sound like someone you know?
+*Sound like someone you know?*
 
 I think anyone can be a parent leader. If the purpose of your life is to live for your family, you are a parent leader. People usually fail not because of the circumstances or the lack of a better approach. More often than not they fail because they don’t have the right leader to carry them through the thick and thin while achieving their dreams. Parent leaders like my brother are those who burn themselves to let others go that extra mile.
