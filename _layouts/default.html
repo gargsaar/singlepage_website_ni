@@ -1,28 +1,22 @@
 <!DOCTYPE html>
-	<html>
-		<head>
-			<title>{{ page.title }}</title>
-			<!-- link to my stylesheet -->
-			<link rel="stylesheet" type="text/css" href="/iStandpoint/assets/css/my.css">
-		</head>
-		<body>
-			<nav>
-	    		<ul>
-	        		<li><a href="/iStandpoint">Home</a></li>
-		        	<li><a href="/iStandpoint/about_me.html">About</a></li>
-	        		<li><a href="/cv">CV</a></li>
-	        		<li><a href="/iStandpoint/blog">Blog</a></li>
-	    		</ul>
-			</nav>
-			<div class="container">
+<html lang="en">
+	
+	{% include head.html %}
+	
+	<body>
+		<div class="container">
+			
+			{% include header.html %}
 			
 			{{ content }}
 			
-			</div><!-- /.container -->
-			<footer>
-	    		<ul>
-	        		<li><a href="mailto:gargsaar@gmail.com">email</a></li>
-				</ul>
-			</footer>
-		</body>
-	</html>
+			{% include footer.html %}
+		
+		</div> <!-- /container -->
+	
+	
+		{% include scripts.html %}
+	
+	</body>
+
+</html>
