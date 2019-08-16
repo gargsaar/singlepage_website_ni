@@ -34,8 +34,13 @@ I don’t have a Mercedes, but the very fact that I can see, hear, & speak makes
 I believe that I need to live it and make make it count. Do everything I want to do. Make it immortal by doing something that my memory remains. And for that I need to keep walking!
 
 Before winding up I want say a few lines: 
+
 *You know my name, and my story,*
+
 *my fancies and my shining glory,*
+
 *You know what I’ve done, and what I’ve been through,*
+
 *life has been beautiful so far,*
-*But what next it will bring, nobody has a clue!!*
+
+*What next it will bring, nobody has a clue!!*
