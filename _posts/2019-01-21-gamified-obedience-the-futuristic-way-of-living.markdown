@@ -16,3 +16,7 @@ If you are thinking it only happens in TV serials, no this is happening in real.
 The Chinese government is pitching the system as a desirable way to measure and enhance "trust" nationwide and to build a culture of "sincerity". The new system reflects a cunning paradigm shift. As we've noted, instead of trying to enforce stability or conformity with a big stick and a good dose of top-down fear, the government is attempting to make obedience feel like gaming. It is a method of social control dressed up in some points-reward system where there will be only one rule or the overriding principle: "If trust is broken in one place, restrictions are imposed everywhere". It's gamified obedience.
 
 The big question is what do you think of this? Are you in for gamified obedience?
+
+{% highlight ruby %}
+Originally published at: https://www.linkedin.com/pulse/gamified-obedience-futuristic-way-living-sarthak-garg/
+{% endhighlight %}
