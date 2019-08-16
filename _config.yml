@@ -24,7 +24,7 @@ github_username:  gargsaar
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-modernist
+theme: jekyll-theme-minima
 plugins:
   - jekyll-feed
 
