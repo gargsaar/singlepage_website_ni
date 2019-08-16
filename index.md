@@ -11,6 +11,6 @@ I'm a product manager at <em>Nucleus Software</em>.
 
 I enjoy creative writing and running!
 
-> I'm also available for hire as a freelance content writer, Usability Expert, Web/Mobile app Development, or Digital Marketing.
+> I'm also available for hire as a freelance content writer.
 
 
