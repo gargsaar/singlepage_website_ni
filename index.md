@@ -9,7 +9,7 @@ description: Sarthak Garg is a Product Manager and Creative Writer, living and w
 </div><!-- /.blurb -->
 	
 	
-<div itemscope itemtype="http://data-vocabulary.org/Person" class="col-sm-8">
+<div>
 	<p>I enjoy <span itemprop="title">creative writing</span> and <span itemprop="title">running</span>!</p>
 </div>
 
