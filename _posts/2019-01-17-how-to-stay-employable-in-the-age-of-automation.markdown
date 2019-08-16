@@ -19,6 +19,4 @@ For better or for worse the change is imminent. Being an optimist I believe the 
 
 *"If you are willing to learn, no one can stop you. If you are not, no one can help you."*
 
-{% highlight ruby %}
-Originally published at: (https://www.linkedin.com/pulse/how-stay-employable-age-machine-learning-sarthak-garg/)
-{% endhighlight %}
+> Originally published at: https://www.linkedin.com/pulse/how-stay-employable-age-machine-learning-sarthak-garg/
