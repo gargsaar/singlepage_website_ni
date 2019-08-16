@@ -18,5 +18,5 @@ The Chinese government is pitching the system as a desirable way to measure and 
 The big question is what do you think of this? Are you in for gamified obedience?
 
 {% highlight ruby %}
-Originally published at: https://www.linkedin.com/pulse/gamified-obedience-futuristic-way-living-sarthak-garg/
+Originally published at: (https://www.linkedin.com/pulse/gamified-obedience-futuristic-way-living-sarthak-garg/)
 {% endhighlight %}
