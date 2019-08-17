@@ -21,7 +21,7 @@ So by the virtue of being nice, I ended up doing arrange marriage as opposed to 
 
 *Last and the current Phase – I call it “Keep Walking”*
 
-I am one of those who is mortally afraid of death. There are a couple of reasons that makes death so terrifying. Like what will happen to my loved ones when I am gone. But the thought that scares the shit of me is - have I done enough that I can die today? This thought bring a sense of urgency in my life and provide me a purpose. 
+I am one of those who is mortally afraid of death. There are a couple of reasons that makes death so terrifying. Like what will happen to my loved ones when I am gone. But the thought that scares the shit out of me is - have I done enough that I can die today? This thought bring a sense of urgency in my life and provide me a purpose. 
 
 I don’t have a Mercedes, but the very fact that I can see, hear, & speak makes me feel fortunate when I think of those who can’t. I have a fortunate life, but just one life, so I have to make it count. Do everything I want to do. Make it immortal by doing something that my memory remains. And for that I need to keep walking!
 
