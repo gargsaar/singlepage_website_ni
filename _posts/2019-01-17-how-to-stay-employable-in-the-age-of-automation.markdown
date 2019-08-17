@@ -3,7 +3,7 @@ layout: post
 title:  "How to stay employable in the age of automation"
 date:   2019-01-17
 ---
-*“A man who can be replaced by a machine will be.”*
+*“A man who can be replaced by a machine, will be.”*
 
 Yesterday, I met Ashish during an Uber ride. Few months back he used to clean cars and didn't know how to use a smartphone or drive a car. Its amazing how he has upgraded his skills and become an Uber driver as for him I am sure this wouldn't have been easy. According to him driving is much less stressful and earns him more. He is a true example of how people transform themselves for their betterment.
 
