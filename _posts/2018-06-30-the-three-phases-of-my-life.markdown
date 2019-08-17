@@ -11,7 +11,7 @@ My life has been divided into 3 parts. I call them “The three phases of my lif
 
 William Shakespeare said “All the world's a stage, and all the men and women merely players: they have their exits and their entrances;” 
 
-I made my entry in this world once upon a time. I was born in a city about 60 kms from Delhi. I was the first boy of my generation, so my grandma was extremely happy with the news of my birth. She was so excited that she ran with all enthusiasm to see me in the hospital room. She pushed the door of the room with full power without realising that my gynecologist was standing just behind it. Gyne was a slim trim, young lady. She got frightened with grandma’s sudden attack on her and fell on the ground. She broke her nose and the news of my birth became a breaking news!
+I made my entry in this world once upon a time. I was born in a city about 60 kms from Delhi. I was the first boy of my generation, so my grandma was extremely happy with the news of my birth. She was so excited that she ran with all enthusiasm to see me in the hospital room. She pushed the door of the room with full power without realising that, Ms Myra, my gynecologist was standing just behind the door. Ms Myra was a thin and elegant young lady. Frightened with grandma’s sudden attack on her, she fell flat on the ground. She broke her nose and the news of my birth became a breaking news!
 
 *Phase 2 – I call it “Nice Guy”*
 
