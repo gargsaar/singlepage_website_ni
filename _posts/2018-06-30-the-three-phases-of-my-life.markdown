@@ -3,7 +3,7 @@ layout: post
 title:  "The Three Phases Of My Life"
 date:   2019-08-16
 ---
-In 17th century in the UK, during winter, the sea water often freezes. So, before a ship could travel down to the trading port, a special ship called "Ice Breaker" went into the iced water to literally break the ice. Hence an ice breaker was needed for them to get down to business. Today, I'll break my ice with this blog post. 
+In 17th century in the UK, during winter, the sea water often freezes. So, before a ship could travel down to the trading port, a special ship called "Ice Breaker" went into the iced water to literally break the ice. Hence an ice breaker was needed for them to get down to business. Today, I'll break the ice to devel in to the frozen history of my life . 
 
 My life has been divided into 3 parts. I call them “The three phases of my life”.
 
