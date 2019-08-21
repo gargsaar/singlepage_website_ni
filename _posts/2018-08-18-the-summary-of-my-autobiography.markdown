@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Summary Of My Autobiography"
-date:   2019-08-16
+date:   2019-08-18
 ---
 I'll be a proud man the day I'll publish autobiography. It will be the most satisfying accomplishment. A dream which seems far from reality, but will be a reality one day. 
 
