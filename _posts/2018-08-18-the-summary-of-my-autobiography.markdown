@@ -3,7 +3,7 @@ layout: post
 title:  "The Summary Of My Autobiography"
 date:   2019-08-18
 ---
-I'll be a proud man the day I'll publish autobiography. It will be the most satisfying accomplishment. A dream which seems far from reality, but will be a reality one day. 
+I'll be a proud man the day I'll publish my autobiography. It will be the most satisfying accomplishment. A dream which seems far from reality, but will be a reality one day. 
 
 Today, let me wear my creative hat and write the summary of to be written autobiography. I'll title it 'Life of a Creative Engineer'.
 
