@@ -11,7 +11,7 @@ And how often you think about the pain and atrocities from which an underwear ha
 
 I think an underwear is the most innocent object we come across in our lives. Imagine a brand new underwear out of the packet. It is so fresh, full of energy. But look at the innocence. This new underwear, it doesn't even know where it will get into. 
 
-It enters there, and the suffering begins. Terribly fatal bacterias, deadly microbes, horrifying odour, suffocated hairy surroundings, astronomic jolt of farts, it undergoes every inhumane cruelty possible. In-fact it lives with relentless negativity all the time. And some insane humans don't even change it everyday.    
+It enters there and the suffering begins. Terribly fatal bacterias, deadly microbes, horrifying odour, suffocated hairy surroundings, astronomic jolt of farts, it undergoes every inhumane cruelty possible. In-fact it lives with relentless negativity all the time. And some insane humans don't even change it everyday.    
 
 This happens to an underwear for years. An underwear which was initially conserving momentum because of the energy, after few years becomes powerless. It looses charm and gets holes in it. But we humans still don't stop. 
 
