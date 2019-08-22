@@ -3,8 +3,8 @@ name: Sarthak Garg
 email: gargsaar@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Personal blog and portfolio website for SARTHAK GARG
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/iStandpoint/" # the subpath of your site, e.g. /blog
+url: "http://gargsaar.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: gargsaar
 github_username:  gargsaar
 
