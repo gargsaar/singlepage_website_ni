@@ -2,6 +2,10 @@
 layout: post
 title:  "How to prioritize product features"
 date:   2019-05-26
+header-style: text
+lang: en
+tags:
+  - Product Management
 ---
 Deciding what features to do in your next product release can be difficult. Being product owners it is our responsibility to decide the highest value features. In this post I've shared a concept helpful in prioritizing features for agile product development.
 
