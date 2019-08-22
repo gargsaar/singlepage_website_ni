@@ -1,12 +1,64 @@
+# Site settings
 title: iStandpoint
+SEOTitle: iStandpoint | Sarthak Blog
 name: Sarthak Garg
 email: gargsaar@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Personal blog and portfolio website for SARTHAK GARG
+description: >- Personal blog and portfolio website for SARTHAK GARG | Product Manager | Creative Writer | Runner | Freelancer
+keywords: blog, Sarthak blog, iStandpoint, creative writing, content writer, runner, product manager, Sarthak Garg, Sarthak
 baseurl: "/iStandpoint/" # the subpath of your site, e.g. /blog
 url: "http://gargsaar.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+
+#Social Media Settings
 twitter_username: gargsaar
 github_username:  gargsaar
 
+# Publish posts or collection documents with a future date.
+future: true
+
 # Build settings
+# from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
+highlighter: rouge
+permalink: pretty
+paginate: 10
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md","README.zh.md"]
+anchorjs: true  # if you want to customize anchor. check out line:181 of `post.html`
+# If you have timezone issue (e.g. #68) in China, uncomment to use this:
+#timezone: CN  
+
+# Markdown settings
+# replace redcarpet to kramdown,
+# although redcarpet can auto highlight code, the lack of header-id make the catalog impossible, so I switch to kramdown
+# document: http://jekyllrb.com/docs/configuration/#kramdown
 markdown: kramdown
+kramdown:
+  input: GFM                            # use Github Flavored Markdown !important
+  syntax_highlighter_opts:
+    span:
+      line_numbers: false
+    block:
+      line_numbers: true
+      start_line: 1
+
+# Gems
+# from PR#40, to support local preview for Jekyll 3.0
+# make sure you have this gem installed
+# `$ gem install jekyll-paginate`
+plugins: [jekyll-paginate]
+
+# Sidebar settings
+sidebar: true                           # whether or not using Sidebar.
+sidebar-about-description: "Be the change in the world you want to see"
+sidebar-avatar: /assets/images/Profile_Pic-277x300.jpg     # use absolute URL, seeing it's used in both `/` and `/about/`
+
+
+# Featured Tags
+featured-tags: true                     # whether or not using Feature-Tags
+featured-condition-size: 1              # A tag will be featured if the size of it is more than this condition value
+
+
+# Progressive Web Apps
+chrome-tab-theme-color: "#000000"
+service-worker: true
+
+# MathJax rendering for layout:page (e.g. post preview)
+page-mathjax: false
