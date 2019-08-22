@@ -1,7 +1,13 @@
 ---
 layout: post
 title:  "The Summary Of My Autobiography"
+subtitle: 'Watching "Escape from the Ivory Tower: The Haskell Journey"'
 date:   2019-08-18
+author: "Sarthak"
+header-style: text
+lang: en
+tags:
+  - Creative Writing
 ---
 I'll be a proud man the day I'll publish my autobiography. It will be the most satisfying accomplishment. A dream which seems far from reality, but will be a reality one day. 
 
