@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "The Summary Of My Autobiography"
-subtitle: 'The three phases of my life'
 date:   2019-08-18
 header-style: text
 lang: en
