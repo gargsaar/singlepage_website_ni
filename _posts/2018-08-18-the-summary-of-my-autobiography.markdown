@@ -7,6 +7,7 @@ lang: en
 tags:
   - Creative Writing
   - General
+  - Humor
 ---
 I'll be a proud man the day I'll publish my autobiography. It will be the most satisfying accomplishment. A dream which seems far from reality, but will be a reality one day. 
 
