@@ -48,8 +48,8 @@ plugins: [jekyll-paginate]
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Be the change in the world you want to see"
-sidebar-avatar: /assets/images/Profile_Pic-277x300.jpg     # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "Only thing real is Love"
+sidebar-avatar: /iStandpoint/assets/images/Profile_Pic-277x300.jpg     # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 # Featured Tags
