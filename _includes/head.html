@@ -36,16 +36,16 @@
 	<title>{% if page.title %}{{ page.title }} - {{ site.SEOTitle }}{% else %}{{ site.SEOTitle }}{% endif %}</title>
 	
 	<!-- Web App Manifest -->
-    	<link rel="manifest" href="{{ site.baseurl }}/pwa/manifest.json">
+    	<link rel="manifest" href="/pwa/manifest.json">
 	
 	<!-- favicon-->
-	<link rel="shortcut icon" href="{{ site.baseurl }}assets/images/favicon.png">
+	<link rel="shortcut icon" href="/assets/images/favicon.png">
 	
 	<!-- Canonical URL -->
     	<link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
 	
 	<!-- Bootstrap Core CSS -->
-	<link href="{{"/assets/css/bootstrap.css" | prepend: site.baseurl }}" rel="stylesheet">
+	<link href="/assets/css/bootstrap.css" rel="stylesheet">
 	
 	<!-- Custom CSS -->
     	<link rel="stylesheet" href="{{ "/assets/css/hux-blog.min.css" | prepend: site.baseurl }}">
