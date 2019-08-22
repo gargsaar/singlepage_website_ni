@@ -23,6 +23,6 @@ For all the nice guys out there and ladies who are single, I want say that nice 
 
 Part 3 will talk about my struggles and glory. It will narrate how I shaped my life to make it immortal. What I did so that my memories remained. It will be an inspiration for those who think they are fortunate to have a life in which they can see, hear and speak. It will be for those want to make their life count.
 
-I'm sure it will be an interesting read. When the journey has begun, no destination is too far. 
+I'm sure it will be an interesting read. When the journey has begun, no destination is far. 
 
 
