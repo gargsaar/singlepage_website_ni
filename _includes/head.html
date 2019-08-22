@@ -3,14 +3,21 @@
 	<meta name="viewport" width="device-width, initial-scale=1.0">
 	<meta name="description" content="{{ page.description }}">
 	<meta name="author" content="Sarthak Garg">
-	<!-- favicon
-	<link rel="shortcut icon" href="/img/ico/favicon.png">
-	-->
-	<title>{{ page.title }} | Sarthak Garg | Product Manager, Creative Writer</title>		
+	
+	<!-- favicon-->
+	<link rel="shortcut icon" href="{{ site.baseurl }}assets/images/favicon.png">
+	
+	<title>{{ page.title }} | Sarthak Garg | Product Manager, Creative Writer</title>
+	
 	<!-- styles -->
-	<link href="/iStandpoint/assets/css/bootstrap.css" rel="stylesheet">
-	<link href="/iStandpoint/assets/css/jumbotron-narrow.css" rel="stylesheet">
-	<link href="/iStandpoint/assets/css/style.css" rel="stylesheet">
+	<link href="{{"/assets/css/bootstrap.css" | prepend: site.baseurl }}" rel="stylesheet">
+	
+	
+	
+	<!-- Custom CSS -->
+    	<link rel="stylesheet" href="{{ "/assets/css/hux-blog.min.css" | prepend: site.baseurl }}">
+	<link href="{{"/assets/css/style.css" | prepend: site.baseurl }}" rel="stylesheet">
+	<link href="{{"/assets/css/jumbotron-narrow.css" | prepend: site.baseurl }}" rel="stylesheet">
   	<!--<link rel="stylesheet" type="text/css" href="/iStandpoint/assets/css/my.css">-->
 	
 	<!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
