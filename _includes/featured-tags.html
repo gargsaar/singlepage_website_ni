@@ -19,7 +19,7 @@
                 <a data-sort="{{ site.posts.size | minus: tag[1].size | prepend: '0000' | slice: -4, 4 }}" 
                     href="{{ site.baseurl }}/archive/?tag={{ tag[0] | url_encode }}"
                     title="{{ tag[0] }}"
-                    rel="{{ tag[1].size }}">{{ tag[0] }}</a>
+                    rel="{{ tag[1].size }}">{{ tag[0] }}</a><sup>{{tag[1].size}}</sup>
         {% endif %}{% endfor %}
         {% endcapture %}
         {{ tags | split:'</a>' | sort | join:'</a>' }}
