@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "My younger brother is a leader"
+title:  "My wife is a leader"
 date:   2019-02-01
 ---
 One day while researching on different styles of leaderships, I learned about paternalistic style of leadership.
 
-In our lives we often come across people who do a lot for us, but we don't realise. Talking about myself, my younger brother is one such person in my life. He is somebody who is the go-to person in our family for getting things done, moral and emotional support, and all kinds of advices. He is a good example of a Paternalistic Leader.  
+In our lives we often come across people who do a lot for us, but we don't realise. Talking about myself, my wife is one such person in my life. She is somebody who is the go-to person in our family for getting things done, moral and emotional support, and all kinds of advices. She is a true example of a Paternalistic Leader.  
 
-A Parent Leader following the Paternalistic Leadership style leads as if he/she is the parent in the family. They exhibit controlling and caring attitude at the same time. They aim to offer guidance and protection, and in exchange, all they want is loyalty and respect. Their style is not simply authoritarian, but authority with a long-term vested interest in all the members at play. 
+Being a Parent Leader following the Paternalistic Leadership style, she leads as if she is the parent in the family. She exhibits controlling and caring attitude at the same time. Her aim is to offer guidance and protection to her loved ones, and in exchange, all she wants is loyalty and respect. Her style is not simply authoritarian, but authority with a long-term vested interest in all the members at play. 
 
 This style of leadership is pretty common where the culture is very hierarchical and group oriented, in regions such as Asia, the Middle East, and Latin America, or you can say about 67% of the world’s population.
 
@@ -23,4 +23,4 @@ A Parent Leader delegates duties, but not authority. They hold the final authori
 
 *Sound like someone you know?*
 
-I think anyone can be a parent leader. If the purpose of your life is to live for your family, you are a parent leader. People usually fail not because of the circumstances or the lack of a better approach. More often than not they fail because they don’t have the right leader to carry them through the thick and thin while achieving their dreams. Parent leaders, like my brother, are those who burn themselves to let others go that extra mile.
+I think anyone can be a parent leader, e.g, you, your mother, father, close friend, younger brother or sister, teacher,..., anybody. If the purpose of your life is to live for your family, you are a parent leader. People usually fail not because of the circumstances or the lack of a better approach. More often than not they fail because they don’t have the right leader to carry them through the thick and thin while achieving their dreams. Parent leaders, like my wife, are those who burn themselves to let others go that extra mile.
