@@ -1,9 +1,8 @@
 ---
 layout: post
 title:  "The Summary Of My Autobiography"
-subtitle: 'Watching "Escape from the Ivory Tower: The Haskell Journey"'
+subtitle: 'The three phases of my life'
 date:   2019-08-18
-author: "Sarthak"
 header-style: text
 lang: en
 tags:
