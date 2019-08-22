@@ -2,9 +2,6 @@
 layout: default
 ---
 
-<!-- Page Header -->
-{% include intro-header.html type='page' %}
-
 <!-- Main Content -->
 <div class="container">
 	<div class="row">
@@ -23,8 +20,6 @@ layout: default
                 <!-- Featured Tags -->
                 {% include featured-tags.html %}
 
-                <!-- Friends Blog -->
-                {% include friends.html %}
             </div>
         {% else %}
 
@@ -53,32 +48,7 @@ layout: default
                 <!-- Short About -->
                 {% include short-about.html %}
 
-                <!-- Friends Blog -->
-                {% include friends.html %}
     		</div>
         {% endif %}
 	</div>
 </div>
-
-{% if site.page-mathjax %}
-<!-- Add support for Mathjax by Voleking-->
-<!-- If you want to see formulars well in post preview, Maybe you should add this.-->
-<!-- However, most of the time formulars may not appear in the post preview, you can delete it.-->
-<script type="text/x-mathjax-config">
-  MathJax.Hub.Config({
-    TeX: {
-      equationNumbers: {
-        autoNumber: "AMS"
-      }
-    },
-    tex2jax: {
-      inlineMath: [ ['$','$'] ],
-      displayMath: [ ['$$','$$'] ],
-      processEscapes: true,
-    }
-  });
-</script>
-<script type="text/javascript"
-        src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
-</script>
-{% endif %}
