@@ -1,26 +1,66 @@
 ---
 layout: default
 ---
-<div class="notes">
-		<div class="note single">
-			<h1 class="title">{{ page.title }}</h1>
-			
-			<h2 class="date"><info datetime="{{ page.date }}">
-			</info></h2>
-			<!-- Post content -->
-			<div class="notebody">
-				{{ content }}
-			</div>
-			<!-- Post info -->
-			<div class="noteinfo">
-			<!-- include some categories and tags maybe? -->
-			</div>
+<!-- Post Content -->
+<article>
+    <div class="container">
+        <div class="row">
 
-			<hr>
+    <!-- Post Container -->
+            <div class="
+                col-lg-8
+                col-md-10
+                post-container">
+			{{ content }}
+                <hr style="visibility: hidden;">
+                <ul class="pager">
+                    {% if page.previous.url %}
+                    <li class="previous">
+                        <a href="{{ page.previous.url | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{page.previous.title}}">
+                        Previous<br>
+                        <span>{{page.previous.title}}</span>
+                        </a>
+                    </li>
+                    {% endif %}
+                    {% if page.next.url %}
+                    <li class="next">
+                        <a href="{{ page.next.url | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{page.next.title}}">
+                        Next<br>
+                        <span>{{page.next.title}}</span>
+                        </a>
+                    </li>
+                    {% endif %}
+                </ul>
+                <hr style="visibility: hidden;">
+            </div>  
 
-			<!-- Post comments -->
-			<div class="notecomments">
-				<!--{% include disqus.html %}-->
-			</div>
-		</div><!-- / .note .single -->
-</div><!-- /.notes -->
+    <!-- Side Catalog Container -->
+        {% if page.catalog %}
+            <div class="
+                col-lg-2 col-lg-offset-0
+                visible-lg-block
+                sidebar-container
+                catalog-container">
+                <div class="side-catalog">
+                    <hr class="hidden-sm hidden-xs">
+                    <h5>
+                        <a class="catalog-toggle" href="#">CATALOG</a>
+                    </h5>
+                    <ul class="catalog-body"></ul>
+                </div>
+            </div>
+        {% endif %}
+
+    <!-- Sidebar Container -->
+            <div class="
+                col-lg-8 col-lg-offset-2
+                col-md-10 col-md-offset-1
+                sidebar-container">
+
+                <!-- Featured Tags -->
+                {% include featured-tags.html bottom=true %}
+		    
+            </div>
+        </div>
+    </div>
+</article>
