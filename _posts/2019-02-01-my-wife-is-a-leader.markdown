@@ -6,6 +6,7 @@ header-style: text
 lang: en
 tags:
   - General
+  - Creative Writing
 ---
 One day while reading about different styles of leaderships, I got to know there is something called 'Paternalistic' style of leadership.
 
