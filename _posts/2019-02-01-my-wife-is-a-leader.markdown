@@ -2,6 +2,10 @@
 layout: post
 title:  "My wife is a leader"
 date:   2019-02-01
+header-style: text
+lang: en
+tags:
+  - General
 ---
 One day while reading about different styles of leaderships, I got to know there is something called 'Paternalistic' style of leadership.
 
