@@ -1384,10 +1384,10 @@ img::-moz-selection {
 .tags a,
 .tags .tag {
   display: inline-block;
-  border: 1px solid rgba(255, 255, 255, 0.8);
+  border: 1px solid #232121;
   border-radius: 999em;
   padding: 0 10px 0 10px;
-  color: #ffffff;
+  color: #232121;
   line-height: 24px;
   font-size: 12px;
   text-decoration: none;
