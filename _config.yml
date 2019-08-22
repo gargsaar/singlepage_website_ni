@@ -1,12 +1,12 @@
 # Site settings
 title: iStandpoint
-SEOTitle: iStandpoint | Sarthak Blog
+SEOTitle: Sarthak Blog
 name: Sarthak Garg
 email: gargsaar@gmail.com
 description: Personal blog and portfolio website for SARTHAK GARG | Product Manager | Creative Writer | Runner | Freelancer
 keywords: blog, Sarthak blog, iStandpoint, creative writing, content writer, runner, product manager, Sarthak Garg, Sarthak
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://sarthakgarg.com/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://sarthakgarg.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 #Social Media Settings
 twitter_username: gargsaar
@@ -48,8 +48,8 @@ plugins: [jekyll-paginate]
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Only thing real is Love"
-sidebar-avatar: /iStandpoint/assets/images/Profile_Pic-277x300.jpg     # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "Only thing real is Love."
+sidebar-avatar: /assets/images/Profile_Pic-277x300.jpg     # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 # Featured Tags
