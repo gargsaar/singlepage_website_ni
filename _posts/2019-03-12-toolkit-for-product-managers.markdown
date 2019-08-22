@@ -2,6 +2,12 @@
 layout: post
 title:  "Toolkit for Product Managers"
 date:   2019-03-12
+header-style: text
+lang: en
+tags:
+  - Product Management
+  - General
+  - Technical
 ---
 Product Management wouldn't be easy enough if we were not blessed with availability of so many useful free online applications/ tools. All what you need is a Browser and you are on a roll. 
 
