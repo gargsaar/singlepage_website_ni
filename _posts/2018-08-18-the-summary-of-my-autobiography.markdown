@@ -15,7 +15,7 @@ Imagined the summary of my to be written autobiography.
 
 ---------
 
-The dream I saw a few years ago has become a reality. I'm holding my autobiography in my hand. It’s like holding a baby. Today, I've become a father again. In-fact, a very proud one.
+The dream I saw a few years ago has become a reality. I'm holding my autobiography in my hand. It’s like holding a baby. Today, I've become a father again. A very proud one.
 
 Every word of it has come straight from my heart and reflects me, including the title, 'A Nice Guy Who Didn’t Finish Last'. My autobiography has my life journey divided into three parts. 
 
