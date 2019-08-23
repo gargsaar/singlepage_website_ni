@@ -34,5 +34,3 @@ For all the nice guys out there and ladies who are single, I want say that nice 
 Part Three talks about my struggles and glory. It narrates how I shaped my life to make it immortal. What I did so that my memories remained. 
 
 I'm sure this book will be an inspiration for those who think they are fortunate to have a life in which they can see, hear and speak. The book is for those want to make their life count.
-
-
