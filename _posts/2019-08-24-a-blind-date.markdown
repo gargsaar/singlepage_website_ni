@@ -36,6 +36,6 @@ Next day we reached her house on time. I like this thing about modern families�
 
 With every stair the love inside me grew. I imagined us like a Romeo and Juliet. My imagination itched my desires and an unusual electric current floated in my body. I couldn’t wait to be with her.
 
-I reached her room and opened the door. To my surprise, she was not alone. She was with Riya, her best friend, and my school mate who had a crush on me.
+I entered her room. To my surprise, she was not alone. She was with Riya, her best friend, and my school mate who had a crush on me.
 
 I had the best blind date possible. It was a date with just not one, but two beautiful girls. One who liked me and the other whom I liked.
