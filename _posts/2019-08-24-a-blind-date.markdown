@@ -16,7 +16,7 @@ The mutual acquaintance in my case was Vijay uncle, formally known as Mr. Vijay 
 
 For him, I was a prospect. I think his algorithm assessed the state of my mind. A frustrated young lad, in the second year of his job, looking for a change in his life. I was not enjoying my job. All it required was using the left side of the brain. No creativity. In-fact, I never liked engineering. 
 
-When art students were being taught about romance, love which they used in their lives, we, engineers, were taught about chemical bonding. And that too in a class where the only girl was not willing to look at us. How were we suppose to understand the concept of bonding. On one hand the lucky oxygen atom was involved in a twosome with two hydrogen atoms, and I struggled to find even a single girl. In-fact, I was so single that if my friends were asked about an example for a singular noun, they would say 'Aditya Shaurya'. 
+When art students were being taught about romance, love which they used in their lives; we, engineers, were taught about chemical bonding. And that too in a class where the only girl was not willing to look at us. How were we suppose to understand the concept of bonding. On one hand the lucky oxygen atom was involved in a twosome with two hydrogen atoms, and I struggled to find even a single girl. As a matter of fact, I was so single that if my friends were asked about an example for a singular noun, they would say 'Aditya Shaurya'. 
 
 On a bright Saturday morning, Vijay uncle came to our house. He sat next to my dad on the Chesterfield sofa, a signature object in our luxury living room. 
 
