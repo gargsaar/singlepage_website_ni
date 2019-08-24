@@ -11,8 +11,6 @@ tags:
 ---
 Imagined the summary of my to be written autobiography.
 
-
-
 ---------
 
 The dream I saw a few years ago has become a reality. I'm holding my autobiography in my hand. It’s like holding a baby. Today, I've become a father again. A very proud one.
