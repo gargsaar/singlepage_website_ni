@@ -27,7 +27,7 @@ There will be few challenges as well in adoption of Enterprise Mobility. Some of
 
 3. Porting: Porting of Enterprise Web Applications to Mobile Apps with support to standard operating systems like iOS, Android, Blackberry, Windows Mobile etc. 
 
-4. Compatability: Mobile applications need to be compatible within the operating systems available in the enterprise mobility space.
+4. Compatibility: Mobile applications need to be compatible within the operating systems available in the enterprise mobility space.
 
 Also, it will not be wise to create mobile apps for all the enterprise applications. Most of the enterprise data structures are not designed with mobility in mind. They are built for providing access through BI tools such as Sharepoint, Cognos, Business Objects etc. In-memory databases solve the problem of speed of delivery to the end point but they also require giant servers with huge amount of RAM to allow in-memory operations. Infrastructure investments will become cost-intensive in order to provide acceptable rendering times to mobile users.
 
