@@ -32,11 +32,11 @@ The meeting got fixed for tomorrow, at her house. 
 
 The entire night I was on Facebook and Instagram. Her curly hair, blue eyes, mulberry silk like skin, and perfectly chiselled body with enticing curves didn’t allow my mind to take my eyes off her. My frustrated heart started beating again as if it got an elixir of life. You know a thing about singular nouns, they fall in love instantly. I too was in love. 
 
-Next day we reached her house on time. I like this thing about modern families - they are very open minded. My parents stayed back in an equally luxurious living room and I was asked to go up to her room.
+Next day, we reached her house on time. I like this thing about modern families - they are very open minded. My parents stayed back in an equally luxurious living room, and I was asked to go up to her room.
 
-With every stair the love inside me grew. I imagined us togethert. My imagination itched my desires and an unusual electric current floated in my body. I couldn’t wait to be with her.
+With every stair the love inside me grew. I started imagining us together. My imagination itched my desires so much that an unusual electric current floated in my body. I couldn’t wait to be with her.
 
-I entered her room. The room had colorful walls nicely decorated with family photos. A bright sunlight pierced through the floral curtains which along with a pleasant aroma was just enough to upbeat the mood.
+I entered her room. The room had colorful and vibrant. All the walls were nicely decorated with paintings and photos. A bright sunlight pierced through the floral curtains which along with a pleasant aroma was just enough to upbeat the mood.
 
 To my surprise, she was not alone. She was with Riya, her best friend, and my school mate who had a crush on me.
 
