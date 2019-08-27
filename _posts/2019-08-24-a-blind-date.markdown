@@ -40,4 +40,4 @@ I entered her room. The room had colorful and vibrant. Walls were nicely decorat
 
 To my surprise, she was not alone. She was with Riya, her best friend, and my school mate who had a crush on me.
 
-I had the best blind date possible. It was a date with just not one, but two beautiful girls. One who liked me and the other whom I liked.
+Next half an hour was the best time of my life. I had the best blind date possible. It was a date with just not one, but two beautiful girls. One who liked me and the other whom I liked.
