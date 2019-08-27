@@ -36,7 +36,7 @@ Next day, we reached her house on time. I like this thing about modern families
 
 With every stair the love inside me grew. I started imagining us together. My imagination itched my desires so much that an unusual electric current floated in my body. I couldn’t wait to be with her.
 
-I entered her room. The room had colorful and vibrant. All the walls were nicely decorated with paintings and photos. A bright sunlight pierced through the floral curtains which along with a pleasant aroma was just enough to upbeat the mood.
+I entered her room. The room had colorful and vibrant. Walls were nicely decorated with paintings and photos. A bright sunlight pierced through the floral curtains which along with a pleasant aroma was just enough to upbeat the mood.
 
 To my surprise, she was not alone. She was with Riya, her best friend, and my school mate who had a crush on me.
 
