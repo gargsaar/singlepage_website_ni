@@ -12,7 +12,7 @@ tags:
 
 Wikipedia says, a blind date is a social engagement between two people who have not previously met, usually arranged by a mutual acquaintance. 
 
-The mutual acquaintance in my case was Vijay uncle, formally known as Mr. Vijay Makhani. He was an engineering by qualification and a matchmaker by profession. Why he left his engineering job to be a matchmaker was a mystery. Maybe he took Queen Elizabeth a little too seriously who once said, "at its heart, engineering is about using science to find creative and practical solutions." And he did exactly that. People said he had developed some kind of algorithm to analyse people and match profiles. No wonder, why he had an unprecedented record of successful marriages.
+The mutual acquaintance in my case was Vijay uncle, formally known as Mr. Vijay Makhani. He was an engineering by qualification and a matchmaker by profession. Why he left his engineering job to be a matchmaker was a mystery. Maybe he took Queen Elizabeth a little too seriously who once said, "at its heart, engineering is about using science to find creative and practical solutions." And he did exactly that. People said, he had developed some kind of algorithm to analyse and match profiles. No wonder, why he had an unprecedented record of successful marriages.
 
 For him, I was a prospect. I think his algorithm assessed the state of my mind. A frustrated young lad, in the second year of job, looking for a change in his life. I was not enjoying my job. All it required was using the left side of the brain. No creativity. In-fact, I never liked engineering. 
 
@@ -36,7 +36,7 @@ Next day, we reached her house on time. I like this thing about modern families
 
 With every stair the love inside me grew. I started imagining us together. My imagination itched my desires so much that an unusual electric current floated in my body. I couldn’t wait to be with her.
 
-I entered her room. The room had colorful and vibrant. Walls were nicely decorated with paintings and photos. A bright sunlight pierced through the floral curtains which along with a pleasant aroma was just enough to upbeat the mood.
+I entered her room. The room had colorful walls were nicely decorated with paintings and family photos. A bright sunlight pierced through the floral curtains which along with a pleasant aroma was just enough to upbeat the mood.
 
 To my surprise, she was not alone. She was with Riya, her best friend, and my school mate who had a crush on me.
 
