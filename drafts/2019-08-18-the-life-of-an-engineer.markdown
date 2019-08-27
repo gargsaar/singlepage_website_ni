@@ -20,3 +20,13 @@ Monkey one has no problem in hanging on the tree, in-fact this is what monkeys d
 In four years of engineering, what have you learned, except - how to use google chrome incognito, and how to get rid of google history. 
 
 That is why I always say engineering should be virginieering.
+
+------
+
+I made my entry in this world once upon a time. I was the first boy of my generation. My grandma was extremely happy with the news of my birth. She was so excited that she ran with all enthusiasm to see me in the hospital room. She was a strong woman. She pushed the door of the room with full power without realising that Dr. Kirti Vyas, my gynecologist, was standing behind the door. Dr. Kirti was a thin and elegant young lady. Frightened with grandma’s sudden attack, she fell flat on the ground. She broke her nose. Unfortunate for her, but the news of my birth became a breaking news!
+
+-----
+
+I was very popular in college. I used to give support, do favours, do everything consistent with the general meaning of the term nice. In-fact, I was so nice that I never took any advantage of a drunken female friend while escorting her back from parties to her bed, no matter how much she insisted. I was the perfect boyfriend material who never ended up being a boyfriend. For all the nice guys out there and ladies who are single, I want say that nice guys may not end up being boyfriends, but trust me, they are very good husband material.
+
+-----
