@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Life of an Underwear"
+title:  "Life without an Underwear"
 date:   2019-08-11
 header-style: text
 lang: en
