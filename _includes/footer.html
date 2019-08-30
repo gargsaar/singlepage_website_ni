@@ -21,5 +21,28 @@
     </div>
 </footer>
 
+<!-- jQuery -->
+<script src="{{ "/assets/js/jquery.min.js " | prepend: site.baseurl }}"></script>
 
+<!-- Bootstrap Core JavaScript -->
+<!-- Currently, only navbar scroll-down effect at desktop still depends on this -->
+<script src="{{ "/assets/js/bootstrap.min.js " | prepend: site.baseurl }}"></script>
+
+<!-- Custom Theme JavaScript -->
+<script src="{{ "/assets/js/hux-blog.min.js " | prepend: site.baseurl }}"></script>
+
+<!-- ARCHIVE JavaScript -->
+{% if page.title == 'Archive' %}
+<!-- jquery.tagcloud.js -->
+<script>
+    async('{{ "/assets/js/jquery.tagcloud.js" | prepend: site.baseurl }}',function(){
+        $.fn.tagcloud.defaults = {
+            //size: {start: 1, end: 1, unit: 'em'},
+            color: {start: '#bbbbee', end: '#2f93b4'},
+        };
+        $('#tag_cloud a').tagcloud();
+    })
+</script>
+<script src='{{ "/assets/js/archive.js " | prepend: site.baseurl }}'></script>
+{% endif %}
 
