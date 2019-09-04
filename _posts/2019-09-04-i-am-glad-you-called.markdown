@@ -47,6 +47,6 @@ Drenched in love, he didn’t want the call to end.
 
 Quickly, he asked, "How is Samira?"
 
-"She is exactly like you." was the reply and she end the call.
+"She is exactly like you." was the reply and she ended the call.
 
 *Some mistakes can never be forgiven, specially when they are done by somebody you love the most.*
