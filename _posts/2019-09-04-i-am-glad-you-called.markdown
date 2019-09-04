@@ -49,4 +49,4 @@ Quickly, he asked, "How is Samira?"
 
 She replied, "She is exactly like you." and disconnected the phone.
 
-Some mistakes can never be forgiven, specially when they are done by somebody you love the most.
+*Some mistakes can never be forgiven, specially when they are done by somebody you love the most.*
