@@ -1,14 +1,13 @@
 ---
 layout: post
-title:  "I'm glad you called (Short Story)"
+title:  "I'm Glad You Called"
 date:   2019-09-04
 header-style: text
 lang: en
 tags:
-  - Creative Writing
-  - General
-  - Empathy
   - Short Story
+  - Creative Writing
+  - Empathy
 ---
 Rahul works with IBM in New York. It has been 6 years since he moved to the US right after his graduation. He is a bachelor and lives with his parents. Today is his birthday. He has planned to take his mom and dad out for dinner after a long time. He doesn't speak to them much. Like every year, he tried reaching out to Tina as the fight thing on his birthday morning. She didn't pick up his phone. Last they spoke was 6 years back on their graduation day.
 
