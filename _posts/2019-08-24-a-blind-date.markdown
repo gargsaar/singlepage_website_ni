@@ -1,16 +1,14 @@
 ---
 layout: post
-title:  "A Blind Date (Short Story)"
+title:  "A Blind Date"
 date:   2019-08-24
 header-style: text
 lang: en
 tags:
-  - Creative Writing
-  - General
-  - Humor
   - Short Story
+  - Creative Writing
+  - Humor
 ---
-
 Wikipedia says, a blind date is a social engagement between two people who have not previously met, usually arranged by a mutual acquaintance. 
 
 The mutual acquaintance in my case was Vijay uncle, formally known as Mr. Vijay Makhani. He was an engineering by qualification and a matchmaker by profession. Why he left his engineering job to be a matchmaker was a mystery. Maybe he took Queen Elizabeth a little too seriously who once said, "at its heart, engineering is about using science to find creative and practical solutions." And he did exactly that. People said, he had developed some kind of algorithm to analyse and match profiles. No wonder, why he had an unprecedented record of successful marriages.
