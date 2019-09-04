@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "A Blind Date"
+title:  "A Blind Date (Plot Setting)"
 date:   2019-08-24
 header-style: text
 lang: en
@@ -8,6 +8,7 @@ tags:
   - Creative Writing
   - General
   - Humor
+  - Short Story
 ---
 
 Wikipedia says, a blind date is a social engagement between two people who have not previously met, usually arranged by a mutual acquaintance. 
@@ -36,8 +37,8 @@ Next day, we reached her house on time. I like this thing about modern families
 
 With every stair the love inside me grew. I started imagining us together. My imagination itched my desires so much that an unusual electric current started floating in my body. I couldn’t wait to be with her.
 
-I entered her room. The room had colourful walls nicely decorated with family photos. A bright sunlight pierced through the floral curtains which along with a pleasant aroma was just enough to upbeat the mood.
+I entered her room. The room had colourful walls nicely decorated with family photos. A bright sunlight pierced through the floral curtains which along with a pleasant aroma was just enough to upbeat my mood.
 
-To my surprise, she was not alone. She was with Riya, her best friend, and my school mate who had a crush on me.
+To my surprise, she was not alone. She was with Riya. Her best friend, and my school mate who had a crush on me.
 
 Next half-an-hour was a beautiful time in my life. I had the best blind date possible. It was a date with just not one, but two beautiful girls. One who liked me and the other whom I liked.
