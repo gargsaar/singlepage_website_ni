@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "A Blind Date (Plot Setting)"
+title:  "A Blind Date"
 date:   2019-08-24
 header-style: text
 lang: en
