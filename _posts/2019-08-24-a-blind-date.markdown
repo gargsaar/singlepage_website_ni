@@ -19,13 +19,13 @@ When art students were being taught about romance and love which they used in th
 
 On a bright Saturday morning, Vijay uncle came to our house. He sat next to my dad on the chesterfield sofa, a signature object in our luxury living room. 
 
-In his gentle voice, he asked, "Aditya, do you work with Acme Engineering." 
+In a gentle voice he asked, "Aditya, do you still work with Acme Engineering?" 
 
-Uninterested, I replied, "Yes, Uncle." 
+"Yes Uncle. Is anything wrong with them?" I asked, as if I care. 
 
-Eying an opportunity, he said, "Why don't you meet Myra. She also works there."
+"No, no. Nothing wrong with them. I just wanted to say - why don't you meet Myra. She also works there." he said, eying an opportunity.
 
-"Sure", was my reply with a smile.
+"Sure", was my reply with a smile on face and a laddoo in heart.
 
 The meeting got fixed for tomorrow, at her house. 
 
@@ -33,10 +33,10 @@ The entire night I was on Facebook and Instagram. Her curly hair, blue eyes, mu
 
 Next day, we reached her house on time. I like this thing about modern families - they are very open minded. My parents stayed back in an equally luxurious living room, and I was asked to go up to her room.
 
-With every stair the love inside me grew. I started imagining us together. My imagination itched my desires so much that an unusual electric current started floating in my body. I couldn’t wait to be with her.
+The next seventy seconds were the most difficult minutes of my life. With every stair, the love inside was growing. My heart was about to come out. I was imagining us together. My imagination itched my desires so much that an unusual electric current started floating in my body. I couldn’t wait to be with her.
 
 I entered her room. The room had colourful walls nicely decorated with family photos. A bright sunlight pierced through the floral curtains which along with a pleasant aroma was just enough to upbeat my mood.
 
-To my surprise, she was not alone. She was with Riya. Her best friend, and my school mate who had a crush on me.
+To my surprise, she was not alone. She was with Riya. Her best friend, and my school mate who had a crush on me. The laddoo in my heart splitted into two.
 
-Next half-an-hour was a beautiful time in my life. I had the best blind date possible. It was a date with just not one, but two beautiful girls. One who liked me and the other whom I liked.
+Next half-an-hour was a beautiful time in my life. I had the best blind date possible. It was a date with just not one, but two gorgeous girls. One who liked me and the other whom I liked.
