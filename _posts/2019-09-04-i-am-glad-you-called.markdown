@@ -35,7 +35,7 @@ A thought of forgiveness appeared in her heart for a second. But the wound he ha
 
 In a strong voice she continued, "Rahul, time is a great healer. I've moved on in life and learned how to live alone. Samira wanted to speak to you. I had promised her that she will speak to her Papa on her 5th birthday, and it's her birthday today. I never break my promise unlike you."
 
-The new born hope that had appeared in his heart after seeing her call for the first time in 6 years, disappeared in a jiffy. He craved for her even more, like a child who catcall at a store when its parents deny to buy a toy they can't afford.
+The new born hope, which had appeared in his heart after seeing her call for the first time in 6 years, disappeared in a jiffy. He craved for her even more, like a child who catcall for a toy its parents can't afford.
 
 Ruefully he said, "I was helpless. Mom and dad were about to commit suicide. I had to choose between you and them, and I made a mistake."
 
