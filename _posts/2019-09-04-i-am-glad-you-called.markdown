@@ -11,11 +11,12 @@ tags:
 ---
 Rahul works with IBM, New York. It has been 6 years since he moved to the US right after his graduation. He is a bachelor and lives with his parents. It's his birthday today. He has planned to take his mom and dad out for a dinner after a long time. He doesn't speak to them much. Like every year, he tried calling Tina as the first thing in the morning. She didn't answer the call. 
 
-Tina lives in Mumbai with her daughter Samira. Back in college, Tina and Rahul were like eyes of your face, always together, no matter where you see. Tina always stood for her dignity. She was fearless and welcomed the future in all of it’s unknown mystery. Rahul was shy and timid. Unlike Tina, he could’t go against his parents. As opposite attracts, they too got attracted and fell in love.
+Tina lives in Mumbai with her daughter Samira. Back in college, Tina and Rahul were like eyes of a face, always together. Tina  always stood for her dignity and decisions. She was fearless and welcomed the future in all of it’s unknown mystery. Rahul was loving, indecisive and timid. He couldn't go against his parents. As opposite attracts, they too got attracted and fell in love.
 
-When he was about to leave for office, around 10AM, his phone rang. It was Tina. A promising smile emerged on his face. Last they spoke was 6 years back on their graduation day. 
+When he was about to leave for office, around 10AM, his phone rang. It was Tina. A promising smile emerged on his face. 
+Last they spoke was 6 years back on their graduation day. His heart started beating faster. 
 
-His heart started beating faster. In absolute surprise, he pressed the green button.
+In absolute surprise, he pressed the green button.
 
 "Hi Rahul," she said in a low and soothing voice.
 
@@ -33,13 +34,13 @@ He continued, "I feel sorry every day, every moment for 6 years now. Please forg
 
 She tried to console, "don’t cry, it's your birthday."
 
-A thought of forgiveness appeared in her heart for a second. But the wound he had given to her was too deep and not willing to heal.
+A thought of forgiveness appeared in her heart for a second. But the wound he had given to her was too deep. It was not willing to heal.
 
-In a strong voice she continued, "Rahul, time is a great healer. I've moved on in life and learned how to live alone. Samira wanted to speak to you. It's her birthday. I had promised her that she will speak to her Papa on her 5th birthday, and I never break promises."
+In a strong voice she said, "Rahul, time is a great healer. I've moved on in life and learned how to live alone. Samira wanted to speak to you. It's her birthday. I had promised her that she will speak to her Papa on her 5th birthday, and I never break promises."
 
 The new born hope, which had appeared in his heart after seeing her call for the first time in 6 years, disappeared in a jiffy. He craved for her even more, like a child who catcall for a toy its parents can't afford.
 
-Ruefully he said, "I was helpless. Mom and dad were about to commit suicide. I had to choose between you and them, and I made a mistake."
+Ruefully he replied, "I was helpless. Mom and dad were about to commit suicide. I had to choose between you and them, and I made a mistake."
 
 "It wasn’t just a mistake Rahul. You ruined my life." She replied angrily.
 
@@ -59,8 +60,8 @@ Soaked in love, he didn’t want the call to end.
 
 Quickly, he asked, "how is Samira?"
 
-"What do you expect from someone who even shares your birth date. She is exactly like you." she replied and ended the call.
+"What you expect of someone who shares your birth date. She is exactly like you." she replied and ended the call.
 
-He knew that she will never come back, yet he was happy. He was glad that she had called.
+His heart wept. He knew that she will never come back, and now, it was even more difficult for him to live without Samira. Yet he smiled. "Atleast she called," he thought and moved on.
 
 *Some mistakes can never be forgiven, specially when they are done to somebody you love the most.*
