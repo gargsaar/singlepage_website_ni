@@ -11,7 +11,7 @@ tags:
 ---
 Wikipedia says, a blind date is a social engagement between two people who have not previously met, usually arranged by a mutual acquaintance. 
 
-The mutual acquaintance in my case was Vijay uncle, formally known as Mr. Vijay Makhani. He was an engineering by qualification and a matchmaker by profession. Why he left his engineering job to be a matchmaker was a mystery. Maybe he took Queen Elizabeth a little too seriously who once said, "at its heart, engineering is about using science to find creative and practical solutions." And he did exactly that. People said, he had developed some kind of algorithm to analyse and match profiles. No wonder, why he had an unprecedented record of successful marriages.
+The mutual acquaintance in my case was Vijay uncle, formally known as Mr. Vijay Makhani. He was an engineering by qualification and a matchmaker by profession. Why he left his engineer job to be a matchmaker was a mystery. Maybe he took Queen Elizabeth a little too seriously who once said, "at its heart, engineering is about using science to find creative and practical solutions." And he did exactly that. People said, he had developed some kind of algorithm to analyse and match profiles. No wonder, why he had an unprecedented record of successful marriages.
 
 For him, I was a prospect. I think his algorithm assessed the state of my mind. A frustrated young lad, in the second year of job, looking for a change in his life. I was not enjoying my job. All it required was using the left side of the brain. No creativity. In-fact, I never liked engineering. 
 
@@ -25,17 +25,17 @@ In a gentle voice he asked, "Aditya, do you still work with Acme Engineering?" 
 
 "No, no. Nothing wrong with them. I just wanted to say - why don't you meet Myra. She also works there." he said, eying an opportunity.
 
-"Sure", was my reply with a smile on face and a laddoo (a sphere-shaped sweets originated in the Indian subcontinent) in heart.
+"Sure," I replied with a smile on face and a laddoo in heart.
 
 The meeting got fixed for tomorrow, at her house. 
 
-The entire night I was on Facebook and Instagram. Her curly hair, blue eyes, mulberry silk like skin, and perfectly chiselled body with enticing curves didn’t allow my mind to take my eyes off her. My frustrated heart started beating again as if it got an elixir of life. You know a thing about singular nouns, they fall in love instantly. I too was in love. 
+The entire night I was on Facebook and Instagram. Her curly brown hair, big eyes, and chiselled body with enticing curves didn’t allow my mind to take my eyes off her. My frustrated heart started beating again as if it got an elixir of life. You know a thing about singular nouns, they fall in love instantly. I too was in love! 
 
 Next day, we reached her house on time. I like this thing about modern families - they are very open minded. My parents stayed back in an equally luxurious living room, and I was asked to go up to her room.
 
-Next seventy seconds were the most difficult seconds of my life. With every stair, the love inside was growing. My heart was about to come out. I was imagining us together. My imagination itched my desires so much that an unusual electric current started floating in my body. I couldn’t wait to be with her.
+Next seventy seconds were the most difficult seconds of my life. With every stair, the love inside me grew. As I imagined us together, my heart almost came out.  My imagination itched my desires so much that an unusual electric current floated in my body. I couldn’t wait to be with her.
 
-I entered her room. The room had colourful walls nicely decorated with family photos. A bright sunlight pierced through the floral curtains which along with a pleasant aroma was just enough to upbeat my mood.
+I entered her room. The room was colourful and bright. Walls were nicely decorated with family photos all around. A bright sunlight pierced through the floral curtains which along with a pleasant aroma was just enough to upbeat my mood.
 
 To my surprise, she was not alone. She was with Riya. Her best friend, and my school mate who had a crush on me. The laddoo in my heart split into two.
 
