@@ -11,7 +11,7 @@ tags:
 ---
 Rahul works with IBM, New York. It has been 6 years since he moved to the US right after his graduation. He is a bachelor and lives with his parents. It's his birthday today. He has planned to take his mom and dad out for a dinner after a long time. He doesn't speak to them much. Like every year, he tried calling Tina as the first thing in the morning. She didn't answer the call. 
 
-Tina lives in Mumbai with her daughter Samira. Back in college, Tina and Rahul were like eyes of a face, always together. Tina  always stood for her dignity and decisions. She was fearless and welcomed the future in all of it’s unknown mystery. Rahul was loving, indecisive and timid. He couldn't go against his parents. As opposite attracts, they too got attracted and fell in love.
+Tina lives in Mumbai with her daughter Samira. Back in college, Tina and Rahul were like eyes of a face, always together. Tina  always stood for her dignity and decisions. She was fearless and welcomed the future in all of it’s unknown mystery. Rahul was bright, emotional, and timid. He couldn't go against his parents. As opposite attracts, they too got attracted and fell in love.
 
 When he was about to leave for office, around 10AM, his phone rang. It was Tina. A promising smile emerged on his face. 
 Last they spoke was 6 years back on their graduation day. His heart started beating faster. 
@@ -38,7 +38,7 @@ A thought of forgiveness appeared in her heart for a second. But the wound he ha
 
 In a strong voice she said, "Rahul, time is a great healer. I've moved on in life and learned how to live alone. Samira wanted to speak to you. It's her birthday. I had promised her that she will speak to her Papa on her 5th birthday, and I never break promises."
 
-The new born hope, which had appeared in his heart after seeing her call for the first time in 6 years, disappeared in a jiffy. He craved for her even more, like a child who catcall for a toy its parents can't afford.
+The new born hope in his heart, which had appeared after seeing her call for the first time in 6 years, disappeared in a jiffy. He craved for her even more, like a child who catcall for a toy its parents can't afford.
 
 Ruefully he replied, "I was helpless. Mom and dad were about to commit suicide. I had to choose between you and them, and I made a mistake."
 
