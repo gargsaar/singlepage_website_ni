@@ -59,6 +59,6 @@ Quickly, he asked, "How is Samira?"
 
 "She is exactly like you," she replied and ended the call.
 
-He knew that she won’t come back and he has lost her. Yet he was happy, just because she had called.
+He knew that she will never come back. Yet he was happy, just because she had called.
 
 *Some mistakes can never be forgiven, specially when they are done to somebody you love the most.*
