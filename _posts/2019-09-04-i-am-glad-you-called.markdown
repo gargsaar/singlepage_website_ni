@@ -14,7 +14,8 @@ Rahul works with IBM, New York. It has been 6 years since he moved to the US rig
 Tina lives in Mumbai with her daughter Samira. Back in college, Tina and Rahul were like eyes of a face, always together. Tina  always stood for her dignity and decisions. She was fearless and welcomed the future in all of it’s unknown mystery. Rahul was bright, emotional, and timid. He couldn't go against his parents. As opposite attracts, they too got attracted and fell in love.
 
 When he was about to leave for office, around 10AM, his phone rang. It was Tina. A promising smile emerged on his face. 
-Last they spoke was 6 years back on their graduation day. His heart started beating faster. 
+
+Last time they spoke was 6 years back on their graduation day. 
 
 In absolute surprise, he pressed the green button.
 
@@ -26,7 +27,7 @@ In absolute surprise, he pressed the green button.
 
 He didn’t reply. After a pause, he said, "Tina, I'm sorry."
 
-A tear rolled down from his eye. He started crying. He didn’t utter a word for the next few minutes, just cried. She too felt the emotions.
+A tear rolled down from his eye. He didn’t utter a word for the next few minutes. She too felt the emotions.
 
 He recomposed himself, and said the same thing, "I'm sorry."
 
@@ -44,7 +45,7 @@ Ruefully he replied, "I was helpless. Mom and dad were about to commit suicide. 
 
 "It wasn’t just a mistake Rahul. You ruined my life." She replied angrily.
 
-She continued, "I was just 20 when you had pregnant me with your child. It wasn’t my baby alone, but only I suffered. I know you love me, but you choose to you love your parents more. That was your decision, now it’s my turn. Sorry, I can't forgive you."
+She continued, "I was just 20 when I was pregnant. It wasn’t my baby alone, but only I suffered. I know you love me, but you choose to you love your parents more. That was your decision, now it’s my turn. Sorry, I can't forgive you."
 
 He couldn’t say a word more.
 
@@ -52,7 +53,7 @@ Next, it was Samira on phone.
 
 In a cute voice she said, "Papa, happy birthday."
 
-In crying voice he replied, "Happy birthday to you too, Samira."
+Chocked, he replied, "Happy birthday to you too, Samira."
 
 Tina took the phone back in a flash and said, "Rahul, it's getting dark here, we need to go."
 
