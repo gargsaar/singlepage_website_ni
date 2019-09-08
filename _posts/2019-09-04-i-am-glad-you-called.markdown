@@ -43,7 +43,7 @@ The new born hope in his heart, which had appeared after seeing her call for the
 
 Ruefully he replied, "I was helpless. Mom and dad were about to commit suicide. I had to choose between you and them, and I made a mistake."
 
-"It wasn’t just a mistake Rahul. You ruined my life." She replied angrily.
+"It wasn’t just a mistake, you ruined my life." She replied angrily.
 
 She continued, "I was just 20 when I was pregnant. It wasn’t my baby alone, but only I suffered. I know you love me, but you choose to you love your parents more. That was your decision, now it’s my turn. Sorry, I can't forgive you."
 
@@ -63,6 +63,6 @@ Quickly, he asked, "how is Samira?"
 
 "What you expect of someone who shares your birth date. She is exactly like you." she replied and ended the call.
 
-His heart wept. He knew that she will never come back, and now, it was even more difficult for him to live without her. Yet he smiled. "Atleast she called," he thought and moved on.
+His heart wept. He knew that she will never come back, and now, it was even more difficult for him to live without her. Yet he smiled. Atleast she called, he thought and moved on.
 
 *Some mistakes can never be forgiven, specially when they are done to somebody you love the most.*
