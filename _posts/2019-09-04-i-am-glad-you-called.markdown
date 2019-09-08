@@ -45,7 +45,7 @@ Ruefully he replied, "I was helpless. Mom and dad were about to commit suicide. 
 
 "It wasn’t just a mistake, you ruined my life." She replied angrily.
 
-She continued, "I was just 20 when I was pregnant. It wasn’t my baby alone, but only I suffered. I know you love me, but you choose to you love your parents more. That was your decision, now it’s my turn. Sorry, I can't forgive you."
+She continued, "I was just 20 when I was pregnant. It wasn’t my baby alone, but only I suffered. I know you love me, but you choose to love your parents more. That was your decision, now it’s my turn. Sorry, I can't forgive you."
 
 He couldn’t say a word more.
 
