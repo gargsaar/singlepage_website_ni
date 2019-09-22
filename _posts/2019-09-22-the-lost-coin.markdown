@@ -13,7 +13,7 @@ It was a Saturday morning. Maa was ready with the paratha, an Indian bread fil
 
 I could finish only one by the time he had finished three. I wanted to have one more, but he would not wait. Maa looked at me. I thought she would throw the rolling pin to break his head into two. She did nothing. She wanted my permission to ask him if he could wait, as it was just a matter of minutes. I said 'No'. I didn’t want her to get a scold because of me.
 
-There were two more reasons I said no to her. One, I didn’t want to walk for 2 kilometres as I needed to preserve energy for the football match. Two, it was the only time when I could learn how to drive Chetak. Our scooter, his only thing I was interested in.
+I said no to her for two more reasons: I didn’t want to walk for 2 kilometres as I needed to preserve energy for the football match; and it was the only time when I could learn how to drive Chetak. Our scooter, his only thing I was interested in.
 
 Engrossed in Chetak, I reached school in no time. Chetak stopped at the school gate. I got down and it went off in a jiffy. I hoped that Baba would wish me luck for the match, but I knew, it was a half-hearted hope.
 
