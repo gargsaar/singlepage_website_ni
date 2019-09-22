@@ -60,3 +60,5 @@ He came in and sat next to me. He took out the coin from his pocket and gave it 
 "I got it from your grandpa. It was the only thing I had of him. I knew I'll have to let it go one day. Let it be today. Take care of it." he said and left the room.
 
 An unanticipated tear rolled down my eye. For a moment, I wanted to hug him.
+
+*Love is a feeling that has no standard language. Every person has its own way of reflection.*
