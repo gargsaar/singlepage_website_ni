@@ -11,13 +11,13 @@ tags:
 ---
 It was a Saturday morning. Maa was ready with the paratha, an Indian bread filled with onion. Doing the same thing for 10 years now, she had perfected the art. Baba wanted onion parathas every morning. Even Dadi, who was enjoying omelette in heaven, didn't know when was the last time he ate anything else. I liked omelette, but who cared what I liked.
 
-I could finish only one by the time he had finished three. I wanted to have one more, but he would not wait. She looked at me. I thought she would throw the rolling pin to break his head into two. She did nothing. She wanted to ask him if he could wait, as it was just a matter of minutes. I said 'No'. I didn’t want her to get a scold because of me.
+I could finish only one by the time he had finished three. I wanted to have one more, but he would not wait. Maa looked at me. I thought she would throw the rolling pin to break his head into two. She did nothing. She wanted my permission to ask him if he could wait, as it was just a matter of minutes. I said 'No'. I didn’t want her to get a scold because of me.
 
-There were two more reasons I said no to her. One, I didn’t want to walk for 2 kilometres as I needed to preserve energy for the football match. Two, it was the only time when I could learn how to drive Chetak. Our scooter. His only thing I was interested in.
+There were two more reasons I said no to her. One, I didn’t want to walk for 2 kilometres as I needed to preserve energy for the football match. Two, it was the only time when I could learn how to drive Chetak. Our scooter, his only thing I was interested in.
 
 Engrossed in Chetak, I reached school in no time. Chetak stopped at the school gate. I got down and it went off in a jiffy. I hoped that Baba would wish me luck for the match, but I knew, it was a half-hearted hope.
 
-Just a step after, I turned back to realise that there was a coin on the road. A kind that I had never seen before. In bold letters, it said KUWAIT.
+Just a step further, I turned back to realise that there was a coin on the road. A kind that I had never seen before. In bold letters, it said KUWAIT.
 
 We lost the match, but I was elated. Maa was flummoxed. Baba was sherlock. He was looking for something since he came home that evening. He had unsettled the house. She tried to inquire, a couple of times, but all in vain. 
 
