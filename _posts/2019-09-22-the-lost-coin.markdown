@@ -6,8 +6,7 @@ header-style: text
 lang: en
 tags:
   - Short Story
-  - Creative Writing
-  - Empathy
+  - Fiction
 ---
 It was a Saturday morning. Maa was ready with the paratha, an Indian bread filled with onion. Doing the same thing for ten years now, she had perfected the art. Baba wanted onion parathas every morning. Even Dadi, who was enjoying omelette in heaven, didn't know when was the last time he ate anything else. I liked omelette, but who cared what I liked.
 
