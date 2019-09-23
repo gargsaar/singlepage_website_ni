@@ -5,7 +5,7 @@ date:   2019-01-17
 header-style: text
 lang: en
 tags:
-  - Motivation
+  - Technology
   - General
 ---
 *“A man who can be replaced by a machine, will be.”*
