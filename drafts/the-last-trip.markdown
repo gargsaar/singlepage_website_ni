@@ -1,20 +1,16 @@
-Aakriti's leave request finally got approved. She was taking off from work after a long time. She wanted to go on a seven days trip to Kasol, all alone. She was an overprotected young girl whose life revolved around a handful of people who were loving, caring, and contented. She was frustated by her mediocre life. She wanted to experience the ugly side of humanity.
+Aakriti's leave request finally got approved. She was taking off from work after a long time. She was an overprotected young girl whose life revolved around a handful of people who were loving, caring, and contented. Fed of her mediocre life, she wanted to experience the ugly side of humanity, so she decided to go to Kasol, alone.
 
-Tarun was both happy and worried for her. She had never gone outstation without him in last 7 years.
+Tarun was both happy and worried. He wasn't sure how Aakriti will manage without him. She had never gone outstation without him in last 7 years. "Are you sure you don’t want your bodyguard?" Tarun said, in a loving voice.
 
-"Are you sure you don’t want your bodyguard?" Tarun said, in a loving voice.
+She gave her pullover the last turn to fold it compactly. She adjusted it in an overfilled, Swaine Adeney Brigg’s Windsor leather bag that Tarun got for her from New York, last month, on her 25th birthday. She walked towards Tarun who was seated on a wingback accent chair. She sat on his lap. She could see the fear in his eyes. She kissed him.
 
 "Baby, I'll be fine." she reassured, convincingly.
 
-"Ya, I know you will be. It's just you are going without me for the first time, so I'm a little worried."
+"Ya, I know you will be. It's just you are not even taking your phone along, so I'm a little worried."
 
-"Don’t be. Remember, I'm your Lara Croft."
+"Don’t be. It's just seven day."
 
-"Ya, but the real world is not a video game."
-
-She could see the fear in his eyes. She 
-
-Tarun knew Aakriti may not get this chance again to break her dogma that contentdness is malediction. He wanted her to realise the importance of her prosperous, cosy life. He wanted her to agnize that she was lucky. Even if she gets the chance, it will be too late. 
+Tarun knew Aakriti may not get this chance again to break her dogma that contentdness is malediction. His parents had started playing mind games to force them into the trap of parenthood, so that they can enjoy with their grandchild. But he knew, this trip was very important for Aakriti. This was the only was that she could realise the importance of her prosperous, cosy life. And agnize, how lucky she was to have a comfortable life.
 
 Aakriti didn't plan her trip. No prior travel bookings or hotel arrangements. 
 
