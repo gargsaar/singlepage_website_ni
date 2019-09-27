@@ -17,3 +17,7 @@ Tarun wanted Aakriti to break her dogma that contentdness is malediction. Soon a
 For an otherwise detailed planner, it wasn't easy for her to not plan for the trip. She didn't check for travel options, hotel, or weather. The only thing she googled was "India's most dangerous place", and 'Bastar' became her destination.
 
 In the heist, she understood the universal purpose of life. It was to obtain an unshakable spirit or in plain words, lasting joyfulness. Most people think their career, family, or job titles are the reasons for their living. But those are not the ultimate purpose of life but rather short or mid-term goals.
+
+---
+
+Animals are familiar with objective entities outside them, such as trees, rocks and rivers, and subjective experiences within them, such as fear, joy and desire. Humans, in addition, are concious of money, gods, nations and corporations. The Cognitive ability enables humans  to start talking about things that existed only in their own imagination. These fictious ideas helps in collaborationa and effective cooperation. Today, corporations are fictional legal entities that own property, lend money, hire employees and initiate economic enterprises. 
