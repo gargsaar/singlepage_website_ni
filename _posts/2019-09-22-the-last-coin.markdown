@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Lost Coin"
+title:  "The Last Coin"
 date:   2019-09-22
 header-style: text
 lang: en
@@ -8,7 +8,7 @@ tags:
   - Short Story
   - Fiction
 ---
-It was a Saturday morning. Maa was ready with the paratha, an Indian bread filled with onion. Doing the same thing for ten years now, she had perfected the art. Baba wanted onion parathas every morning. Even Dadi, who was enjoying omelette in heaven, didn't know when was the last time he ate anything else. I liked omelette, but who cared what I liked.
+It was a Monday morning. Maa was ready with the paratha, an Indian bread filled with onion. Doing the same thing for ten years now, she had perfected the art. Baba wanted onion parathas every morning. Even Dadi, who was enjoying omelette in heaven, didn't know when was the last time he ate anything else. I liked omelette, but who cared what I liked.
 
 I could finish only one paratha by the time he had finished three. I wanted to have one more, but he would not wait. Maa looked at me. I thought she wanted to throw the rolling pin to break his head into two. She did nothing. She wanted my permission to ask him if he could wait, as it was just a matter of minutes. I said 'No'. I didn’t want her to get a scold because of me.
 
@@ -48,9 +48,13 @@ His search became fervent. He yelled at Maa for the third time. She never said a
 
 She shouted, "who will put the things back in order, your father?"
 
-He ran towards her with a rage in his eyes. I came in between. I opened my fist to show him the coin. I didn’t give it to him. His hand hit my cheek. I still didn’t give it to him. The second hit was even harder. I still didn’t give it to him. Ashamed of the defeat, he had no other option. He turned towards her. Frightened by the next thing that could have happen, I gave it to him. 
+He ran towards her with a rage in his eyes. I came in between. I opened my fist to show him the coin. I didn’t give it to him. His hand hit my cheek. I still didn’t give it to him. The second hit was even harder. It squeezed out the red liquid from my nose. I still didn’t give it to him. Humiliated, he turned towards Maa. Frightened by the next thing that could have happen, I gave the coin to him. 
 
-For the first time in my life I had something I never wanted to give to anybody, not even Dadi. And certainly not to him. I hated him the most.
+The anger inside me burst into a fury. I screamed on his face. He didn't give a damn. I felt miserable. I was helpless.
+
+For the first time in my life I had something I never wanted to give to anybody, not even Dadi. I couldn’t understand how can a coin be more dearer to anybody than his wife or son. I couldn’t understand the reason for his animus disposition towards us. Why he hates us so much?
+
+The thing that I understand was -  I hate him the most.
 
 The night got dark, but I was still awake. Suddenly, the door of my room opened. I expected Maa, but it was him. 
 
