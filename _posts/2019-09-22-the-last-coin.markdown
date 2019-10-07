@@ -36,7 +36,7 @@ That evening was unusual. Maa sat silently in a corner. I threw my bag on the so
 
 "Why is Baba sherlock?" I muttered in an attempt to change the topic. 
 
-"Only God knows: why he has come so early and what he is searching." 
+"Only God knows, why he has come so early and what he is searching." 
 
 Baba had unsettled the house. She tried to inquire a couple of times, but all in vain. 
 
@@ -82,20 +82,20 @@ He came in and sat next to me. He took out the coin from his pocket and gave it 
 
 “I know how it feels when you don't know from where you will get your meal when have not eaten for three days. Your grandpa gave this coin to me on his deathbed in a hope to revive our fortune.” A smile emerged on his face as he remembered his father.
 
-He continued, “I was just 16. I began my work at eight in the morning and went on until nine in the evening, for 20 years now to give you food, clothe and shelter. But now I realize that in the strugle of life - I forgot to give you love.”
+He continued, “I began my work at eight in the morning and went on until nine in the evening for 20 years now to give you food, clothe and shelter. But now I realize that in the strugle of life I forgot to give you love.”
 
 He eyes were wet. 
 
-He came closer and said, "One is auspicious as it lay the beginning, and Kuwaiti dinar is the richest currency in the world, so this coin is very special. Your grandpa believed it will change things and so do I. This is the only thing I have of my father, but now I am giving it to you.”
+He came closer and said, "One is auspicious as it lays the beginning, and Kuwaiti dinar is the richest currency in the world, so this coin is very special. Your grandpa believed it can change things, and so do I. This is the only thing I have of him, but now I am giving it to you.”
 
 He placed the coin on my palm, and closed the fingers. 
 
-"I hope it will change things between us. Let's embark a new begining. Take care my love." he said and left the room.
+"I hope it will change the things between us. Let's embark a new begining. Take care my love." he said and left the room.
 
 I collapsed into my bed, sobbing, thinking...I was so wrong. 
 
-An unanticipated tear rolled down my eye. Love is a feeling that has no standard language and every person has its own way of reflection. That moment, I felt the love. For a moment, I wanted to hug him.
+Unanticipated tears rolled down my eyes. Love is a feeling that has no standard language and every person has its own way of reflection. That moment, I felt the love.
 
 Sooner when the emotional impulse receded, the past tried to became the present and itched the agonies of his deeds. But I had the option to forgive the evil to accept the good. And I preferred to forgive.
 
-"I was wrong, he cares." I thought, and slept the best sleep of my life.
+"I was wrong, he cares. I wanted to hug him." I thought, and slept the best sleep of my life.
