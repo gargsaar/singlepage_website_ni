@@ -30,7 +30,7 @@ That evening was unusual. Maa sat silently in a corner, gazing Baba continuously
 
 "How was the competition?" she asked without looking at me.
 
-"We lost," I said, casually.
+"We lost!" I said, casually.
 
 "Then why are you so happy?" She stared at me, bamboozled.
 
@@ -44,11 +44,11 @@ She tried again, "what are you searching?"
 
 She knew the answer won’t come easily, so she tried again.
 
-"A coin," This time he replied in hope for a help.
+"A coin" This time he replied in hope for a help.
 
 "What coin?"
 
-"A Kuwaiti Dinar"
+"Kuwaiti Dinar"
 
 "What dinar?"
 
@@ -78,18 +78,14 @@ He came in and sat next to me.
 
 "We were not as we are today when I was of your age. You won't know how it feels when you don't know from where you will get your meal when have not eaten for three days. I know. ” he said.
 
-“Your grandpa gave this coin to me on his deathbed in a hope to revive our fortune. One is auspicious as it lays the beginning, and Kuwaiti dinar is the richest currency in the world, so this coin is very special. Your grandpa believed it can change things, and so it did. This coin has brought us luck.” A smile emerged on his face as he remembered his father.
+“Your grandpa gave this coin to me on his deathbed in a hope to revive our fortune. 'One' lays the beginning and 'Kuwaiti Dinar' is the richest currency in the world, so this coin is very special. Your grandpa believed it can change things and so it did. This coin brought us luck.” A smile emerged on his face as he remembered his father.
 
-He continued, “I have worked from eight in the morning and until nine in the evening for 20 years now to give you food, clothe and shelter. But now I realize that in the strugle of life I forgot to give you love.”
+He continued, “I have worked from eight in the morning and until nine in the evening for 20 years now to give you food, clothes, and shelter. But now I realize that in the strugle of life I forgot to give you love.”
 
-He eyes were wet. 
+He came closer, his eyes were wet. "This is the only thing I have of my father. I am giving it to you in a hope it will change things between us. Let's embark a new begining.” He placed the coin on my palm, closed the fingers, and kissed me on the forehead.
 
-He came closer. "This is the only thing I have of my father. I am giving it to you in I hope it will change things between us. Let's embark a new begining.” He placed the coin on my palm, closed the fingers, and kissed me on the forehead.
+"Good night my love, take care" he said and left the room.
 
-"Good night my love, take care." he said and left the room.
+I collapsed into my bed, sobbing, thinking...I was so wrong. Unanticipated tears rolled down my eyes. Love is a feeling that has no standard language and every person has its own way of reflection. That moment, I felt the love. Sooner when the emotional impulse receded, the past tried to became the present. It itched the agonies of his deeds. But I had the option to forgive the evil to accept the good. And I chose to forgive.
 
-I collapsed into my bed, sobbing, thinking...I was so wrong. 
-
-Unanticipated tears rolled down my eyes. Love is a feeling that has no standard language and every person has its own way of reflection. That moment, I felt the love. Sooner when the emotional impulse receded, the past tried to became the present. It itched the agonies of his deeds. But I had the option to forgive the evil to accept the good. And I chose to forgive.
-
-"I was wrong that he didn’t care. I wish I hughed him," I thought, and slept the best sleep of my life.
+"I was wrong that who cared. He did. I wished I had hughed him." I thought and slept the best sleep of my life.
