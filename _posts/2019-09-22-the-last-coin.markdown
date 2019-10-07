@@ -98,5 +98,4 @@ An unanticipated tear rolled down my eye. Love is a feeling that has no standard
 
 Sooner when the emotional impulse receded, the past tried to became the present and itched the agonies of his deeds. But I had the option to forgive the evil to accept the good. And I preferred to forgive.
 
-"I was wrong. He cares." I thought, and slept the best sleep of my life.
-
+"I was wrong, he cares." I thought, and slept the best sleep of my life.
