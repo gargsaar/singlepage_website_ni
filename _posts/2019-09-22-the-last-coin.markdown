@@ -80,24 +80,24 @@ The night got dark, but I was still awake. Suddenly, the door of my room opened.
 
 He came in and sat next to me. 
 
-"We were not as we are when I was of your age. You won't know how it feels when you don't know from where you will get your meal when have not eaten for three days. I know. ” he said.
+"We were not as we are today when I was of your age. You won't know how it feels when you don't know from where you will get your meal when have not eaten for three days. I know. ” he said.
 
-“Your grandpa gave this coin to me on his deathbed in a hope to revive our fortune. This coin has brought us luck.” A smile emerged on his face as he remembered his father.
+“Your grandpa gave this coin to me on his deathbed in a hope to revive our fortune. One is auspicious as it lays the beginning, and Kuwaiti dinar is the richest currency in the world, so this coin is very special. Your grandpa believed it can change things, and so it did. This coin has brought us luck.” A smile emerged on his face as he remembered his father.
 
-He continued, “I began my work at eight in the morning and went on until nine in the evening for 20 years now to give you food, clothe and shelter. But now I realize that in the strugle of life I forgot to give you love.”
+He continued, “I have worked from eight in the morning and went until nine in the evening for 20 years now to give you food, clothe and shelter. But I realize that in the strugle of life I forgot to give you love.”
 
 He eyes were wet. 
 
-He came closer and said, "One is auspicious as it lays the beginning, and Kuwaiti dinar is the richest currency in the world, so this coin is very special. Your grandpa believed it can change things, and so do I. This is the only thing I have of him, but now I am giving it to you.”
+He came closer and said, "This is the only thing I have of him, but now I am giving it to you. I hope it will change the things between us. Let's embark a new begining.”
 
-He placed the coin on my palm, and closed the fingers. 
+He placed the coin on my palm, closed the fingers, and kissed me on the forehead.
 
-"I hope it will change the things between us. Let's embark a new begining. Take care my love." he said and left the room.
+"Good night my love, take care." he said and left the room.
 
 I collapsed into my bed, sobbing, thinking...I was so wrong. 
 
 Unanticipated tears rolled down my eyes. Love is a feeling that has no standard language and every person has its own way of reflection. That moment, I felt the love.
 
-Sooner when the emotional impulse receded, the past tried to became the present and itched the agonies of his deeds. But I had the option to forgive the evil to accept the good. And I preferred to forgive.
+Sooner when the emotional impulse receded, the past tried to became the present. It itched the agonies of his deeds. But I had the option to forgive the evil to accept the good. And I preferred to forgive.
 
-"I was wrong, he cares. I wanted to hug him." I thought, and slept the best sleep of my life.
+I was wrong. He cared. "I wanted to hug him," I thought, and slept the best sleep of my life.
