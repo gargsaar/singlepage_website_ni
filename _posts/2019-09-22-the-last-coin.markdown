@@ -8,13 +8,13 @@ tags:
   - Short Story
   - Fiction
 ---
-There was nothing unusual about that morning. The day began with Baba and I seated at the only table in our house, waiting for parathas, an Indian bread filled with onion. Baba was obsessed with paratha. I wondered why he ate only parathas –  night and day. I closed my eyes to ask Dadi, my deceased grandma who was enjoying chicken in the breakfast at heaven, "Why?" Even she didn’t know why Baba was so content. I liked chicken, but who cared what I liked.
+There was nothing unusual about that morning. The day began with Baba and I seated at the only table in our house, waiting for parathas, an Indian bread filled with onion. I wondered why he ate only parathas –  night and day. I closed my eyes to ask Dadi, my deceased grandma who was enjoying chicken in the breakfast at heaven, "Why?" Even she didn’t know why Baba was so content. I liked chicken, but who cared what I liked.
 
 Baba turned, startled, to find a large cauliflower-shaped lady, his wife, loomed over him to feed him the fourth paratha. Maa was happy doing the same thing for fifteen years now. By the time Baba was done, I had finish only one. I wanted to have more, but who cared what I wanted. "I'll not wait for you," he said, and left the table. 
 
-Maa, who stood closeby, had a rolling pin in her hand. She looked at me. I thought she would throw the rolling pin on him to break his nose. To my disappointment, she did nothing. She didn’t have the courage to even think about it.
+Maa, who stood closeby, had a rolling pin in her hand. She looked at me. I thought she would throw the rolling pin on his head to break it into two. His head, not the rolling pin. To my disappointment, she did nothing. She didn’t have the courage to even think about it.
 
-I had the courage, but I kept silent for two reasons: I didn’t want to miss the ride as it was the only time I learned to drive Activa. Our scooter, his only thing I was interested in; and I didn’t want Maa to get a scold because of me.
+I had the courage, but I kept silent for two reasons: I didn’t want to miss the ride as it was the only time I could learn to drive Activa, our scooter, his only thing I was interested in; and I didn’t want Maa to get a scold because of me.
 
 I sat cross-legged, holding Baba's clean, white shirt. He followed the same old route to the school and his shop, everyday. I knew a shortcut, but who cared what I knew. Baba never talked to me. Maybe, he was still upset with what I did to his nose.
 
@@ -30,15 +30,17 @@ That evening was unusual. Maa sat silently in a corner. I threw my bag on the so
 
 "How was the competition?" she asked without even looking at me.
 
-"We lost," I replied.
+"We lost," I said.
 
 "Then why are you so happy?" she stared at me, bamboozled.
 
 "Why is Baba sherlock?" I muttered in an attempt to change the topic. 
 
-"Only God knows, why he has come so early and what he is searching." 
+"Only God knows, why he has come so early and what is he doing." 
 
-Baba had unsettled the house. She tried to inquire a couple of times, but all in vain. 
+Baba had unsettled the house. Cushions on the floor, carpet upside down, chairs on the table. 
+
+She tried to inquire a couple of times, but all in vain. 
 
 She tried again, "what are you looking for?"
 
@@ -46,7 +48,7 @@ She tried again, "what are you looking for?"
 
 She knew the answer won’t come easily, so she tried again.
 
-"A coin," he replied, in hope for a help.
+"A coin," he replied this time, in hope for a help.
 
 "What coin?"
 
@@ -72,15 +74,15 @@ He ran towards her with a rage in his eyes. I came in between. I opened my fist 
 
 The anger inside me burst into a fury. I screamed on his face. He didn't give a damn and walked away. I felt miserable as if someone  just spit on me.
 
-For the first time in my life I had something I never wanted to give to anybody, not even Dadi. I couldn’t understand how a coin can be more dearer to him than his daughter. I couldn’t understand the reason for his animus disposition towards us. The thing that I understood was -  I hated him too.
+For the first time in my life I had something I never wanted to give to anybody, not even Dadi. I couldn’t believed a coin can be more dearer to a father than his daughter. I didn't understand the reason for his animus disposition towards us. What I understood was -  I hated him.
 
 The night got dark, but I was still awake. Suddenly, the door of my room opened. I expected Maa, but it was him. 
 
-He came in and sat next to me. He took out the coin from his pocket and gave it to me.
+He came in and sat next to me. 
 
-"We were not as we are today,” he began.
+"We were not as we are when I was of your age. You won't know how it feels when you don't know from where you will get your meal when have not eaten for three days. I know. ” he said.
 
-“I know how it feels when you don't know from where you will get your meal when have not eaten for three days. Your grandpa gave this coin to me on his deathbed in a hope to revive our fortune.” A smile emerged on his face as he remembered his father.
+“Your grandpa gave this coin to me on his deathbed in a hope to revive our fortune. This coin has brought us luck.” A smile emerged on his face as he remembered his father.
 
 He continued, “I began my work at eight in the morning and went on until nine in the evening for 20 years now to give you food, clothe and shelter. But now I realize that in the strugle of life I forgot to give you love.”
 
