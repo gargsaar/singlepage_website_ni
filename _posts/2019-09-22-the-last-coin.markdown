@@ -8,60 +8,94 @@ tags:
   - Short Story
   - Fiction
 ---
-It was a Monday morning. Maa was ready with the paratha, an Indian bread filled with onion. Doing the same thing for ten years now, she had perfected the art. Baba wanted onion parathas every morning. Even Dadi, who was enjoying omelette in heaven, didn't know when was the last time he ate anything else. I liked omelette, but who cared what I liked.
+There was nothing unusual about that morning. The day began with Baba and I seated at the only table in our house, waiting for parathas, an Indian bread filled with onion. Baba was obsessed with paratha. I wondered why he ate only parathas –  night and day. I closed my eyes to ask Dadi, my deceased grandma who was enjoying chicken in the breakfast at heaven, "Why?" Even she didn’t know why Baba was so content. I liked chicken, but who cared what I liked.
 
-I could finish only one paratha by the time he had finished three. I wanted to have one more, but he would not wait. Maa looked at me. I thought she wanted to throw the rolling pin to break his head into two. She did nothing. She wanted my permission to ask him if he could wait, as it was just a matter of minutes. I said 'No'. I didn’t want her to get a scold because of me.
+Baba turned, startled, to find a large cauliflower-shaped lady, his wife, loomed over him to feed him the fourth paratha. Maa was happy doing the same thing for fifteen years now. By the time Baba was done, I had finish only one. I wanted to have one more, but who cared what I wanted. "I'll not wait for you." he said, and left the table. 
 
-I said no to her for two more reasons: I didn’t want to walk for 2 kilometres as I needed to preserve energy for the football match; and it was the only time when I could learn how to drive Chetak. Our scooter, his only thing I was interested in.
+Maa, who stood closeby, had a rolling pin in her hand. She looked at me. I thought she would throw the rolling pin to break his nose. To my disappointment, she did nothing. She didn’t have the courage to even think about it.
 
-Engrossed in Chetak, I didn’t realise I had reached school. Chetak stopped, I got down, and it went off in a jiffy. I hoped that Baba would wish me luck for the match, but I knew, it was a half-hearted hope.
+I had the courage, but I kept silent for two reasons: I didn’t want to miss the ride as it was the only time I learned how to drive Activa. Our scooter, his only thing I was interested in; and I didn’t want Maa to get a scold because of me.
 
-Just a step further, I turned back to notice that there was a coin on the road. A kind that I had never seen before. In bold letters, it said KUWAIT.
+I sat cross-legged, holding Baba's clean, white shirt. He followed the same old route to the school and eventually to his shop. I knew the shortcut, but who cared what I knew. Baba never talked to me. Maybe, he was still upset with what I did to his nose.
 
-We lost the match, but I was elated. Maa was flummoxed. Baba was sherlock. He was looking for something since he came home that evening. He had unsettled the house. She tried to inquire, a couple of times, but all in vain. 
+I was the first girl in the family after eight brothers, so Dadi was extremely happy with the news of my birth. She got so excited to see me that she ran with all enthusiasm towards the hospital room. She was a strong woman. She pushed the door with full power without realizing that Baba was standing just behind the door. Frightened with Dadi's sudden attack, he fell flat on the ground, and broke his nose.
 
-Furiously, she asked, "what are you looking for?"
+From a distance he looks ok, but up close the nose has tilted towards a side. I thought he must be happy as his peculiar nose had made him famous, but who cared  what I thought.
+
+Lost in the thought of his nose, I didn’t realize when we reached school. Activa stopped, I got down, and it went on in a jiffy. I hoped that Baba would wish me luck for the dance competition, but I knew, it was a half-hearted hope.
+
+Just a step further, I turned back to realize that there was a coin on the road. A kind that I had never seen before. It engraved, "One Kuwait Dinar."
+
+That evening was unusual. Maa sat silently in a corner. I threw my bag on the sofa, and went straight to her.
+
+"How was the competition?" she asked without even looking at me.
+
+"We lost!" I replied, smiling.
+
+"Then why are you so happy?" she stared at me, bamboozling.
+
+"Why is Baba sherlock?" I muttered in an attempt to change the topic. 
+
+"Only God knows why he has come so early today and what is he searching." 
+
+Baba had unsettled the house. She tried to inquire a couple of times, but all in vain. 
+
+She tried again, "what are you looking for?"
 
 "Nothing."
 
-She knew the answer won’t come easily, so she tried again.
+She knew the answer won’t come easily, so she tried for the fourth time.
 
-"A coin," he replied, finally, in hope for a help.
+"A coin," he replied, in hope for a help.
 
 "What coin?"
 
-He said, "KUWAIT."
+"A Kuwaiti Dinar"
 
-"KUWAIT, what?"
+"What dinar?"
 
-He didn’t reply as it was confirmed that she knew nothing about it.
+He didn’t reply as he knew that she knew nothing about it.
 
 But I knew.
 
-I couldn’t believe it was his. For a person who had never stepped out of Meerut, a small city in north India, how did he get the coin? And, why was the coin so special? 
+I couldn’t believe it was his. For a person who had never stepped out of Meerut, a small city in north India, how did he get the coin? And, why was the coin so special? 
 
-I'm sure grandma would have the answers, but she was busy relaxing on a beach in heaven, and not reachable. I knew if I ask him, I would get only one thing - a slap.
+I was eager to find the answer. I knew if I ask him, I would get only one thing - a slap. So I tried reaching Dadi. We couldn’t connect. Maybe, she was busy holidaying on a beach, hence, not reachable.
 
-I was in seventh heaven. Finally, the time had come to take revenge. I wanted vengeance for the parathas I couldn’t eat. I was certain that I would never give him that coin at any cost, even if Dadi comes and plead.  
+I was in seventh heaven. Finally, the time had come to take revenge. I wanted vengeance for all the sacrifies I had to make because of him, including the parathas I couldn’t eat. I was certain that I would never give that coin, even if Dadi pleads.  
 
-His search became fervent. He yelled at Maa for the third time. She never said anything to him. Her strength was her weakness. But this time, she lost the strength to be patient anymore.
+His search became fervent. He yelled at Maa, for the fifth time. She never said anything to him. Her strength was her weakness. But this time, she lost the strength to be patient anymore.
 
-She shouted, "who will put the things back in order, your father?"
+Furiously, she shouted, "who will put the things back in order, your father?"
 
-He ran towards her with a rage in his eyes. I came in between. I opened my fist to show him the coin. I didn’t give it to him. His hand hit my cheek. I still didn’t give it to him. The second hit was even harder. It squeezed out the red liquid from my nose. I still didn’t give it to him. Humiliated, he turned towards Maa. Frightened by the next thing that could have happen, I gave the coin to him. 
+He ran towards her with a rage in his eyes. I came in between. I opened my fist to show the coin. I didn’t give it to him. His hand hit my cheek. I still didn’t give. The second hit was even harder. It squeezed out the red liquid from my nose. I still didn’t give. Humiliated, he pushed me to the floor and moved towards Maa. Frightened by the next thing that could have happen, I threw it in front of him. 
 
-The anger inside me burst into a fury. I screamed on his face. He didn't give a damn. I felt miserable. I was helpless.
+The anger inside me burst into a fury. I screamed on his face. He didn't give a damn and walked away. I felt miserable as if someone  just spit on me.
 
-For the first time in my life I had something I never wanted to give to anybody, not even Dadi. I couldn’t understand how can a coin be more dearer to anybody than his wife or son. I couldn’t understand the reason for his animus disposition towards us. Why he hates us so much?
+For the first time in my life I had something I never wanted to give to anybody, not even Dadi. I couldn’t understand how a coin can be more dearer to him than his daughter. I couldn’t understand the reason for his animus disposition towards me. Why he hated me so much? 
+The thing that I understand was -  I hate him too.
 
-The thing that I understand was -  I hate him the most.
-
-The night got dark, but I was still awake. Suddenly, the door of my room opened. I expected Maa, but it was him. 
+The night got dark, but I was still awake. Suddenly, the door of my room opened. I expected Maa, but it was him. 
 
 He came in and sat next to me. He took out the coin from his pocket and gave it to me.
 
-"I got it from your grandpa. It was the only thing I had of him. I knew I'll have to let it go one day. Let it be today. Take care of it." he said and left the room.
+"We were not as we are today,” he began.
 
-An unanticipated tear rolled down my eye. For a moment, I wanted to hug him. Love is a feeling that has no standard language, and every person has its own way of reflection. For a moment, I felt the love. For a moment, I wanted to forgive the evil to accept the good.
+“I know how it feels when you don't know from where you will get your meal when have not eaten for three days. Your grandpa gave this coin to me on his deathbed in a hope to revive our fortune.” A smile emerged on his face as he remembered his father.
 
-Sooner receded the emotional impulse. The past became the present and itched the agonies of his deeds. I was too young to bear the pain or heal the wounds by myself. I preferred not to change. I pretended to find my solace in misery. 
+He continued, “I was just 16. I began my work at eight in the morning and went on until nine in the evening, for 20 years now to feed you, give you clothe and shelter. In the strugle of life I forgot to give love.”
+
+He eyes were wet. 
+
+He came closer, and said, "One is auspicious as it lay the beginning, and Kuwaiti dinar is the richest currency in the world, so this coin is very special. Your grandpa believed it will change things, and so do I. This is the only thing I have of my father, but now I am giving it to you.”
+
+He placed the coin on my palm, and closed the fingers. 
+
+"I hope it will change things between us. Let's embark a new begining. Take care my love." he said and left the room.
+
+I collapsed into my bed, sobbing, thinking...I was so wrong that who cared, but he did. 
+
+An unanticipated tear rolled down my eye. Love is a feeling that has no standard language, and every person has its own way of reflection. That moment, I felt the love. For a moment, I wanted to hug him.
+
+Sooner when the emotional impulse receded, the past tried to became the present and itched the agonies of his deeds. But I had the option to forgive the evil to accept the good. And I preferred to change.
+
