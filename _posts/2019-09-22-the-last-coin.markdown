@@ -12,13 +12,13 @@ There was nothing unusual about that morning. The day began with Baba and I seat
 
 Baba turned, startled, to find a large cauliflower-shaped lady, his wife, loomed over him to feed him the fourth paratha. Maa was happy doing the same thing for fifteen years now. By the time Baba was done, I had finish only one. I wanted to have more, but who cared what I wanted. "I'll not wait for you," he said, and left the table. 
 
-Maa, who stood closeby, had a rolling pin in her hand. She looked at me. I thought she would throw it on him to break his nose. To my disappointment, she did nothing. She didn’t have the courage to even think about it.
+Maa, who stood closeby, had a rolling pin in her hand. She looked at me. I thought she would throw the rolling pin on him to break his nose. To my disappointment, she did nothing. She didn’t have the courage to even think about it.
 
 I had the courage, but I kept silent for two reasons: I didn’t want to miss the ride as it was the only time I learned to drive Activa. Our scooter, his only thing I was interested in; and I didn’t want Maa to get a scold because of me.
 
 I sat cross-legged, holding Baba's clean, white shirt. He followed the same old route to the school and his shop, everyday. I knew a shortcut, but who cared what I knew. Baba never talked to me. Maybe, he was still upset with what I did to his nose.
 
-I was the first girl my family after eight brothers, so Dadi was extremely happy with the news of my birth. She got so excited to see me that she ran with all enthusiasm towards the hospital room. She was a strong woman. She pushed the door with full power without realizing that Baba was standing just behind the door. Frightened with Dadi's sudden attack, he fell flat on the ground, and broke his nose.
+I was the first girl in my family after eight brothers, so Dadi was extremely happy with the news of my birth. She got so excited to see me that she ran with all enthusiasm towards the hospital room. She was a strong woman. She pushed the door with full power without realizing that Baba was standing just behind the door. Frightened with Dadi's sudden attack, he fell flat on the ground, and broke his nose.
 
 From a distance it looked ok, but up close the nose has tilted towards a side. I thought he must be happy with his peculiar nose that made him famous, but who cared what I thought.
 
