@@ -18,7 +18,7 @@ I had the courage, but I kept silent for two reasons: I didn’t want to miss th
 
 I sat cross-legged, holding Baba's clean, white shirt. He followed the same old route to the school and his shop, everyday. I knew a shortcut, but who cared what I knew. Baba never talked to me. Maybe, he was still upset with what I did to his nose.
 
-I was the first girl in my family after eight brothers, so Dadi was extremely happy with the news of my birth. She got so excited to see me that she ran with all enthusiasm towards the hospital room. She was a strong woman. She pushed the door with full power without realizing that Baba was standing just behind the door. Frightened with Dadi's sudden attack, he fell flat on the ground, and broke his nose.
+I was the first girl in my family after eight cousin brothers, so Dadi was extremely happy with the news of my birth. She got so excited to see me that she ran with all enthusiasm towards the hospital room. She was a strong woman. She pushed the door with full power without realizing that Baba was standing just behind the door. Frightened with Dadi's sudden attack, he fell flat on the ground, and broke his nose.
 
 From a distance it looked ok, but up close the nose had bent towards a side. I thought he must be happy with his peculiar nose that made him famous, but who cared what I thought.
 
@@ -66,9 +66,9 @@ His search became fervent. He yelled at Maa for the fifth time. She never said a
 
 Furiously, she shouted, "who will put the things back in order, your father?"
 
-He ran towards her with a rage in his eyes. I came in between. I opened my fist to show the coin. I didn’t give it to him. His hand hit my right cheek. I still didn’t give. The second hit was even harder, it squeezed out the red liquid from my nose. I still didn’t give. Humiliated, he pushed me to the floor and moved towards Maa. Frightened by the next thing that could have happened, I threw the coin in front of him. 
+He ran towards her with a rage in his eyes. I came in between. I opened my fist to show the coin. I didn’t give the coin to him. Then something happened that had never happened before. His hand hit my right cheek. I still didn’t give the coin. The anger inside him burst into a fury. The second hit was even harder, it squeezed out the red liquid from my nose. I still didn’t give the coin. Humiliated, he pushed me to the floor and moved towards Maa. Frightened by the next thing that could have happened, I threw the coin in front of him. 
 
-The anger inside me burst into a fury. I screamed on his face. He didn't give a damn and walked away. I felt so miserable as if someone had just spit on me.
+I screamed on his face. He didn't give a damn and walked away. I felt so miserable as if someone had just spit on me.
 
 For the first time in my life I had something I never wanted to give to anybody, not even Dadi. I couldn’t believed a coin was dearer than his daughter to a father. I didn't understand the reason for his animus disposition towards us. What I understood was -  I hated him.
 
@@ -76,11 +76,11 @@ The night got dark, but I was still awake. Suddenly, the door of my room opened.
 
 He came in and sat next to me. 
 
-"We were not as we are today when I was of your age. You won't know how it feels when you don't know from where you will get your meal when have not eaten for three days. I know. ” he said.
+"You won't know how it feels when you don't know from where you will get your meal when have not eaten for three days. I know. ” he said.
 
-“Your grandpa gave this coin to me on his deathbed in a hope to revive our fortune. 'One' lays the beginning and 'Kuwaiti Dinar' is the richest currency in the world, so this coin is very special. Your grandpa believed it can change things and so it did. This coin brought us luck.” A smile emerged on his face as he remembered his father.
+“We were not as we are today when I was of your age. Your grandpa gave this coin to me on his deathbed in a hope to revive our fortune. 'One' lays the beginning and 'Kuwaiti Dinar' is the richest currency in the world, so this coin is very special. Your grandpa got this coin from a merchant. He believed it can change things and so it did. This coin brought us luck.” A smile emerged on his face as he remembered his father.
 
-He continued, “I have worked from eight in the morning and until nine in the evening for 20 years now to give you food, clothes, and shelter. But now I realize that in the strugle of life I forgot to give you love.”
+“I have worked from eight in the morning and until nine in the evening for 20 years now to give you food, clothes, and shelter. When I didn’t find the coin, I got scared. In the strugle of life I forgot to give you love, and with what I did to you today, I've come a little too far. I want to step back.”
 
 He came closer, his eyes were wet. "This is the only thing I have of my father. I am giving it to you in a hope it will change things between us. Let's embark a new begining.” He placed the coin on my palm, closed the fingers, and kissed me on the forehead.
 
