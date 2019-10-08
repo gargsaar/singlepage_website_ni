@@ -58,7 +58,7 @@ But I knew.
 
 I couldn’t believe it was his. For a person who had never stepped out of Meerut, a small city in north India, how did he get the coin? And, why was the coin so special? 
 
-I was anxious to know the answer. I knew if I had asked him, I would have got only one thing - a slap. So I tried reaching Dadi. We couldn’t connect. Maybe, she was busy holidaying on a beach, hence, not reachable.
+I was anxious to know the answer, so I tried reaching Dadi. We couldn’t connect. Maybe, she was busy holidaying on a beach, hence, not reachable.
 
 I was in seventh heaven. Finally, the time had come to take revenge for all the sacrifies I had to make because of him, including the parathas I couldn’t eat. I decided, I would never give him the coin, even if Dadi pleads.  
 
@@ -70,22 +70,24 @@ He ran towards her with a rage in his eyes. I came in between. I opened my fist 
 
 I screamed on his face. He didn't give a damn and walked away. I felt so miserable as if someone had just spit on me.
 
-For the first time in my life I had something I never wanted to give to anybody, not even Dadi. I couldn’t believed a coin was dearer than his daughter to a father. I didn't understand the reason for his animus disposition towards us. What I understood was -  I hated him.
+For the first time in my life I had something I never wanted to give to anybody, not even Dadi. I couldn’t believe he drew the blood out of his blood just for a coin. I couldn’t understand the reason for his animus disposition towards us. What I understood was -  I hated him.
 
 The night got dark, but I was still awake. Suddenly, the door of my room opened. I expected Maa, but it was him. 
 
 He came in and sat next to me. 
 
-"You won't know how it feels when you don't know from where you will get your meal when have not eaten for three days. I know. ” he said.
+"You won't know how it feels when you don't know from where you will get your meal when have not eaten for three days. I know.” he said.
 
 “We were not as we are today when I was of your age. Your grandpa gave this coin to me on his deathbed in a hope to revive our fortune. 'One' lays the beginning and 'Kuwaiti Dinar' is the richest currency in the world, so this coin is very special. Your grandpa got this coin from a merchant. He believed it can change things and so it did. This coin brought us luck.” A smile emerged on his face as he remembered his father.
 
-“I have worked from eight in the morning and until nine in the evening for 20 years now to give you food, clothes, and shelter. When I didn’t find the coin, I got scared. In the strugle of life I forgot to give you love, and with what I did to you today, I've come a little too far. I want to step back.”
+“When I lost the coin, I got scared that I've lost everything." he looked down and paused.
 
-He came closer, his eyes were wet. "This is the only thing I have of my father. I am giving it to you in a hope it will change things between us. Let's embark a new begining.” He placed the coin on my palm, closed the fingers, and kissed me on the forehead.
+"I'm not scared of loosing it anymore, I've a bigger thing to loose. I can loose everything, but you.” he said, with confidence in his voice and tears in eyes.
 
-"Good night my love, take care" he said and left the room.
+He came closer and took my hand. Placed the coin on my palm and closed the fingers. "This is the only thing I have of my father. Keep it. With what I did to you today, I've come a little too far. I can’t change what's done, but I want to step back and start a new begining. I hope it will change things between us.” 
 
-I collapsed into my bed, sobbing, thinking...I was so wrong. Unanticipated tears rolled down my eyes. Love is a feeling that has no standard language and every person has its own way of reflection. That moment, I felt the love. Sooner when the emotional impulse receded, the past tried to became the present. It itched the agonies of his deeds. But I had the option to forgive the evil to accept the good. And I chose to forgive.
+He kissed me on the forehead. "Good night my love, take care." he said, and left the room.
+
+I collapsed into my bed, sobbing, thinking...I was so wrong. Unanticipated tears rolled down my eyes. Love is a feeling that has no standard language and every person has its own way of reflection. That moment, I felt the love. Sooner when the emotional impulse receded, the past tried to dominate the present. It itched the agonies of his deeds. But I had the option to forgive the evil to accept the good. And I chose to forgive.
 
 "I was wrong that who cared. He did. I wished I had hughed him." I thought and slept the best sleep of my life.
