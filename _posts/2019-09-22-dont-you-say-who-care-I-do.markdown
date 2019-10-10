@@ -10,13 +10,13 @@ tags:
 ---
 It was a usual summer morning, sky was bright and clear. Appa was at the breakfast table, exactly at seven. He turned, startled, to find a large cauliflower-shaped lady, his wife, loomed over him to put a Palappam in his plate. I joined late, exactly after 3 minutes. I wondered why he ate only Palappam – day and night. I closed my eyes to ask Achamma, my deceased grandma who was enjoying chicken curry in heaven, ‘Why?’ Even she didn’t know why Appa was so content. I liked chicken curry, but who cared what I liked.
 
-By that time I started, Appa was done. "I want to have one more," I said. "I’ll not wait," he replied, and left the table. Amma, who stood close by me, had a tumbler in her hand, filled with filter coffee. She looked at me. I thought she would throw the tumbler on his head to break it into two. His head, not the tumbler. To my disappointment, she did nothing. I wished she had the courage to at-least think about it. 
+By the time I started, Appa was done. I wanted to have one more, but he’ll not wait, he signaled, and left the table. Amma, who stood close by me, had a tumbler in her hand, filled with filter coffee. She looked at me. I thought she would throw the tumbler on his head to break it into two. His head, not the tumbler. To my disappointment, she did nothing. I wished she had the courage to at-least think about it. 
 
 I had the courage, but I kept silent for two reasons: I didn’t want to walk for 4 kms as I needed to preserve energy for the dance competition; and I didn’t want Amma to get a scold because of me.
 
 I sat on our scooter, cross-legged, holding Abba’s white shirt against which it was impossible to spot a spot. He followed the same route every day. I knew a shortcut, but who cared what I knew. He never speaks to me. Maybe, he is still upset with what I did to his nose.
 
-Achamma was extremely happy with the news of my birth. I was the first girl in the family after eight cousin brothers. She was so excited to see me in the hospital that she ran with all enthusiasm towards the room. She was a strong woman. She pushed the door with full power without realizing Abba was standing just behind. Frightened with Achamma’s sudden attack, Abba fell flat on the ground, and broke his nose. So the news of my birth was literally a breaking news for him.
+Achamma was extremely happy with the news of my birth. I was the first girl in the family after eight cousin brothers. She was so excited to see me in the hospital that she ran with all enthusiasm towards the room. She was a strong woman. She pushed the door with full power without realizing Abba was standing behind the door. Frightened with Achamma’s sudden attack, Abba fell flat on the ground, and broke his nose. So the news of my birth was literally a breaking news for him.
 
 From a distance his nose looked ok, but up close it had bent towards a side. I thought he must be happy with his peculiar nose that made him famous, but who cared what I thought. 
 
@@ -68,11 +68,11 @@ The night got dark, but I was still awake. Suddenly, the door of my room opened.
 
 “When I lost the coin, I got scared that the magic will disappear. No matter how ugly the past was, it may return, and this is not what you wish. The very things that make you happy – are also the cause of unhappiness, because the moment these underpinnings are taken away, your happiness crumbles and you cannot help sinking into sorrow.” His face lowered down, damned.
 
-After a few moment, he resumed.
+After a moment, he resumed with an unprecedented confidence in his voice.
 
 “All my life, I was continually surrounded by a chorus of voices urging me to earn and grow, without realizing what I’ll do with this all - without you. In this world where everything perishes, I forgot that I can get imperishable happiness in just one thing, you, my love. The thought of losing you scared me so much that I'm not scared of anything now.”
 
-He came closer, took my hand, placed the coin on my palm, and closed the fingers. “This is the only thing I have of my father. It is very close to my heart and will always be, but keep it. What I did, I can’t change, but we can change the future.” He kissed my forehead, and with these last words, left the room. 
+He came closer, took my hand, placed the coin on my palm, and closed the fingers. “This is the only thing I have of my father. It is very close to my heart and will always be, but keep it. What I did, I can’t change, but we can change the future.” He kissed my forehead, and with these words, left the room. 
 
 I collapsed into my bed, sobbing, thinking, I was so wrong. Unanticipated tears rolled down my eyes. Love is a feeling that has no standard language and every person has its own way of reflection. That moment, I felt the love. Sooner when the emotional impulse receded, the past tried to dominate the present. It itched the agonies of his deeds. But I had the option to forgive the evil to accept the good, and I chose to forgive. 
 
