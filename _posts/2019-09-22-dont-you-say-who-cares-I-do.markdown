@@ -16,7 +16,7 @@ Appa took the same route every day. I knew the shortcut, but who cared what I kn
 
 I was the first girl in my family after eight cousin brothers, so Achamma was extremely happy with the news of my birth. She was so excited to see me that she ran towards the hospital room with all enthusiasm. She was a strong woman. She banged the door with full power. Appa, who was standing behind the door, fell flat on the ground, thrashed by Achamma’s sudden attack. He broke his nose, and the news of my birth became a breaking news for him, literally. From a distance his nose looked ok, but up close it was bent towards a side. I thought, he must be happy with his peculiar nose that made him famous, but who cared what I thought.
 
-Scooter stopped at Kendriya Vidhayala, and in a moment, disappeared. I noticed a coin on the road. A kind that I had never seen before. It was old, shiny, engraved a sword on one side, and on the other, something that I couldn’t decipher. I didn’t looked left, then right, and picked it up.
+Scooter stopped at Kendriya Vidhayala, and in a moment, disappeared. I noticed a coin on the road. A kind that I had never seen before. It was old, shiny, engraved a sword on one side, and on the other, something that I couldn’t decipher. I didn’t look left or right, just picked it up.
 
 The evening turned dull, and overcast. I reached home to find Amma sitting silently in a corner, staring at Appa without the drop of a blink. Appa had unsettled the house. Cushions on the floor, carpet upside down, chairs on the table. Amma tried to inquire a couple of times, but all in vain. She knew the answer won’t come easily, so she tried again.
 
