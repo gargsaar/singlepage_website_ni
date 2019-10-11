@@ -17,7 +17,12 @@ title: Sarthak's Blog
         </div>
     </a>
     <p class="post-meta">
-        Posted on {{ post.date | date_to_string }}
+        <!--Posted on {{ post.date | date_to_string }}-->
+        <div class="tags">
+            {% for tag in page.tags %}
+            <a class="tag" href="/archive/?tag={{ tag | url_encode }}" title="{{ tag }}">{{ tag }}</a>
+            {% endfor %}
+        </div>
     </p>
 </div>
 <hr>
