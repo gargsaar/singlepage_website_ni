@@ -10,7 +10,7 @@ tags:
 ---
 It was a usual summer morning, sky was bright and clear. Appa was at the breakfast table, precisely at seven. I joined late, exactly after 5 minutes. Appa turned, startled, to find a large cauliflower-shaped lady, his wife, loomed over him to put a Palappam in his plate. I liked chicken curry, but who cared what I liked.
 
-By the time I started, Appa was done. I wanted to have one more, but he’d not wait. Amma, who stood close-by, had a tumbler in her hand, filled with filter coffee. She looked at me. I thought she would throw the tumbler on his head. To my disappointment, she did nothing. I wished she had the courage to at-least think about it. I had the courage, but I kept silent as I didn’t want to walk for 4 kilometres. 
+By the time I started, Appa was done. I wanted to have one more, but he’d not wait. Amma, who stood close-by, had a steel glass in her hand, filled with filter coffee. She looked at me. I thought she would throw the glass on his head. To my disappointment, she did nothing. I wished she had the courage to at-least think about it. I had the courage, but I kept silent as I didn’t want to walk for 4 kilometres. 
 
 Appa took the same route every day. I knew a shortcut, but who cared what I knew. He didn’t like me. Maybe, he was upset with what I did to him. 
 
