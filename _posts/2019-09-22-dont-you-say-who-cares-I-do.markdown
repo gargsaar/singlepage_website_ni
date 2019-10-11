@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Don’t you say who care, I do"
+title:  "Don’t you say who cares, I do"
 date:   2019-09-22
 header-style: text
 lang: en
@@ -12,11 +12,11 @@ It was a usual summer morning, sky was bright and clear. Appa was at the breakfa
 
 By the time I started, Appa was done. I wanted to have one more, but he’d not wait. Amma, who stood close-by, had a steel glass in her hand, filled with filter coffee. She looked at me. I thought she would throw the glass on his head. To my disappointment, she did nothing. I wished she had the courage to at-least think about it. I had the courage, but I kept silent as I didn’t want to walk for 4 kilometres. 
 
-Appa took the same route every day. I knew a shortcut, but who cared what I knew. He didn’t like me. Maybe, he was upset with what I did to him. 
+Appa took the same route every day. I knew the shortcut, but who cared what I knew. He didn’t like me. Maybe, he was upset with what I did to him. 
 
-I was the first girl in my family after eight cousin brothers, so Achamma was extremely happy with the news of my birth. She was so excited to see me that she ran towards the hospital room with all enthusiasm. She was a strong woman. She banged the door with full power. Appa, who was standing behind the door, fell flat on the ground, thrashed by Achamma’s sudden attack. He broke his nose, and the news of my birth became a breaking news for him, literally. From a distance his nose looked ok, but up close it was bent towards a side. I thought he must be happy with his peculiar nose that made him famous, but who cared what I thought.
+I was the first girl in my family after eight cousin brothers, so Achamma was extremely happy with the news of my birth. She was so excited to see me that she ran towards the hospital room with all enthusiasm. She was a strong woman. She banged the door with full power. Appa, who was standing behind the door, fell flat on the ground, thrashed by Achamma’s sudden attack. He broke his nose, and the news of my birth became a breaking news for him, literally. From a distance his nose looked ok, but up close it was bent towards a side. I thought, he must be happy with his peculiar nose that made him famous, but who cared what I thought.
 
-Scooter stopped at Kendriya Vidhayala, and in a moment, disappeared. I noticed a coin on the road. A kind that I had never seen before. It was old, shiny, engraved a sword on one side, and on the other, something that I couldn’t decipher. I didn’t look left or right, just picked it up.
+Scooter stopped at Kendriya Vidhayala, and in a moment, disappeared. I noticed a coin on the road. A kind that I had never seen before. It was old, shiny, engraved a sword on one side, and on the other, something that I couldn’t decipher. I didn’t looked left, then right, and picked it up.
 
 The evening turned dull, and overcast. I reached home to find Amma sitting silently in a corner, staring at Appa without the drop of a blink. Appa had unsettled the house. Cushions on the floor, carpet upside down, chairs on the table. Amma tried to inquire a couple of times, but all in vain. She knew the answer won’t come easily, so she tried again.
 
@@ -26,7 +26,7 @@ The evening turned dull, and overcast. I reached home to find Amma sitting silen
 
 “What coin?”
 
-He didn’t reply as he knew that she knew nothing about it. 
+He didn’t reply as he sensed that she knew nothing about it. 
 
 But I knew. I couldn’t believe it was his. For a person who had never stepped out of Kollam, how did he get the coin? And, why was the coin so special? 
 
@@ -50,7 +50,7 @@ After a while, he resumed with an unprecedented confidence in his voice.
 
 “All my life, I’ve continually lived in an urge to earn and grow, without realizing what will I do with this life - without you. In this world where everything perishes, I forgot that I can get imperishable happiness in just one thing, you, my love. The thought of losing you scared me so much that I’m not scared of anything now.” His eyes got wet.
 
-He took my hand, placed the coin on my palm, and closed the fingers. “This is the only thing I have of my father. It's very close to my heart and will always be. Take care of it. What I did, can’t be changed, but we can change the future.” He kissed me on the forehead, and left the room.
+He took my hand, placed the coin on my palm, and closed the fingers. “This is the only thing I have of my father. It's very close to my heart and will always be. Take care of it. What I did, can’t be changed, but what we can change is - our future.” He kissed me on the forehead, and left the room.
 
 I collapsed into my bed, sobbing, thinking, I was so wrong. Unanticipated tears rolled down my eyes. Love is a feeling that has no standard language and every person has its own way of reflection. That moment, I felt love. Sooner when the emotional impulse receded, the past tried to dominate the present. It itched the agonies of his deeds. But I had the option to forgive the evil to accept the good, and I chose to forgive.
 
