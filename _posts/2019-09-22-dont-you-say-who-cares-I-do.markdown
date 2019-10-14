@@ -12,11 +12,11 @@ Appa disappeared, although, his body was there in front of me on the hospital be
 
 That day is still fresh in my memory as if it was not 30 years ago, but yesterday.
 
-Appa was at the breakfast table, precisely at seven. Appa was a quiet man who lives in his own world that starts and ends with Indian Exports, his business to export coconuts outside India. Appa enjoyed his prosperity with considerable hesitation, as if it was underserved. He always said, "this wealth hasn’t struck suddenly like a visitation, but instead grown gradually like a tree." 
+Appa was at the breakfast table, precisely at seven. Appa was a quiet man who lives in his own world that starts and ends with Indian Exports, his business to export coconut outside India. Appa enjoyed his prosperity with considerable hesitation, as if it was underserved. He always said, "this wealth hasn’t struck suddenly like a visitation, but instead grown gradually like a tree." 
 
-I joined late, exactly after 5 minutes. Appa turned, startled, to find a large cauliflower-shaped lady, his wife, loomed over him to put a Palappam in his plate. Appa was too obsessed with Palappam. I wondered why Appa ate only upma – night and day. I closed my eyes to ask Amma, my deceased grandma who must be enjoying chicken in heaven, “Why?” Even she didn’t know why Baba was so content. I liked chicken, but who cared what I liked.
+I joined late, exactly after 5 minutes. Appa turned, startled, to find a large cauliflower-shaped lady, his wife, loomed over him to put a Palappam in his plate. Appa was too obsessed with Palappam. I wondered why Appa ate only upma – night and day. I closed my eyes to ask Amma, my deceased grandma who must be enjoying chicken in heaven, “Why?” Even she didn’t know why Appa was so content. I liked chicken, but who cared what I liked.
 
-By the time I started, Appa was done. I wanted to have one more, but he’d not wait. Amma, who stood close-by, had a steel glass in her hand, filled with filter coffee. She looked at me. I thought she would throw the glass on his head. To my disappointment, she did nothing. I wished she had the courage to at-least think about it. By the virtue of attaining adulthood next year, I had the courage, but I kept silent for two reasons:
+By the time I started, Appa was done. I wanted to have one more, but he’d not wait. Amma, who stood close-by, had a steel glass in her hand, filled with filter coffee. She looked at me. I thought she would throw the glass on his head to break it into two. His head, not the glass. To my disappointment, she did nothing. I wished she had the courage to at-least think about it. By the virtue of attaining adulthood next year, I had the courage, but I kept silent for two reasons:
 
 First, I didn’t want to walk for 4 kilometres as I wanted to conserve energy for the dance competition. Second, I didn't want to miss the ride as it was the only time when I learned - how he drives Activa, our scooter, and his only thing I was interested in. 
 
@@ -30,7 +30,7 @@ Lost in his nose, I didn’t realise we reached Kendriya Vidhayala, Gate 4. Acti
 
 Just a step further, I turned to realise there was a coin on the road. A kind that I had never seen before. It was old, but shiny, engraved a sword on one side, and on the other, something that I couldn’t decipher. I didn’t look left or right, just picked it up.
 
-The evening turned dull, and overcast. I reached home to find Amma sitting silently in a corner, staring at Appa without the drop of a blink. I pulled a chair and sat next to Amma. 
+The evening turned dull, and overcast. I reached home to find Amma sitting silently in a corner, staring at Appa without the drop of an eyelash. I pulled a chair and sat next to Amma. 
 
 “How was the competition?” she asked without looking at me. 
 
@@ -38,9 +38,9 @@ The evening turned dull, and overcast. I reached home to find Amma sitting silen
 
 “Then why are you so happy?” She stared at me, bamboozled. 
 
-“Why is Baba sherlock?” I asked in an attempt to change the topic.
+“Why is Appa sherlock?” I asked in an attempt to change the topic.
 
-“Only God knows, why he has come so early today and what he is doing.” 
+“Only God knows, why he has come so early today, and what he is doing.” 
 
 Appa had unsettled the house. Cushions on the floor, carpet upside down, chairs on the table. Amma tried to inquire a couple of times, but all in vain. She knew the answer won’t come easily, so she tried again.
 
@@ -104,5 +104,4 @@ Sooner, when the emotional impulse receded, the past tried to dominate the prese
 
 I was wrong that who cares. He does. I felt an eternal happiness that I hope will not wear thin or fade away. Through tears, I grasped the hard truth that despair can disappear in an instant.
 
-"I wished I could straighten this nose,” I thought, and slept the best sleep of my life.
-
+"I wished I could have straighten his nose,” I smiled, and slept the best sleep of my life.
