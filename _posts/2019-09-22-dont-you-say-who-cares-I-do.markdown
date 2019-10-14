@@ -8,21 +8,41 @@ tags:
   - Short Story
   - Fiction
 ---
-Appa disappeared, although, his body laid there in front of me, on the hospital bed. Through tears, I recalled, ‘despair can disappear in an instant’, the hard truth that he had taught me, one day, when I was 17 years old, and since then.
+Appa disappeared, although, his body was there in front of me on the hospital bed. Through tears, I recalled, ‘despair can disappear in an instant’, the hard truth that he had taught me when I was 17 years old.
 
 That day is still fresh in my memory as if it was not 30 years ago, but yesterday.
 
-I was late, again. Appa was at the breakfast table, precisely at seven. I joined exactly after 5 minutes. Appa turned, startled, to find a large cauliflower-shaped lady, his wife, loomed over him to put a Palappam in his plate. I liked chicken curry, but who cared what I liked.
+Appa was at the breakfast table, precisely at seven. Appa was a quiet man who lives in his own world that starts and ends with Indian Exports, his business to export coconuts outside India. Appa enjoyed his prosperity with considerable hesitation, as if it was underserved. He always said, "this wealth hasn’t struck suddenly like a visitation, but instead grown gradually like a tree." 
 
-By the time I started, Appa was done. I wanted to have one more, but he’d not wait. Amma, who stood close-by, had a steel glass in her hand, filled with filter coffee. She looked at me. I thought she would throw the glass on his head. To my disappointment, she did nothing. I wished she had the courage to at-least think about it. By the virtue of attaining adulthood next year, I had the courage, but I kept silent as I didn’t want to walk for 4 kilometres. 
+I joined late, exactly after 5 minutes. Appa turned, startled, to find a large cauliflower-shaped lady, his wife, loomed over him to put a Palappam in his plate. Appa was too obsessed with Palappam. I wondered why Appa ate only upma – night and day. I closed my eyes to ask Amma, my deceased grandma who must be enjoying chicken in heaven, “Why?” Even she didn’t know why Baba was so content. I liked chicken, but who cared what I liked.
+
+By the time I started, Appa was done. I wanted to have one more, but he’d not wait. Amma, who stood close-by, had a steel glass in her hand, filled with filter coffee. She looked at me. I thought she would throw the glass on his head. To my disappointment, she did nothing. I wished she had the courage to at-least think about it. By the virtue of attaining adulthood next year, I had the courage, but I kept silent for two reasons:
+
+First, I didn’t want to walk for 4 kilometres as I wanted to conserve energy for the dance competition. Second, I didn't want to miss the ride as it was the only time when I learned - how he drives Activa, our scooter, and his only thing I was interested in. 
 
 Appa took the same route every day. I knew the shortcut that could have saved us from the scorching heat, but who cared what I knew. He didn’t like me. Maybe, he was upset with what I did to him. 
 
-I was the first girl in my family after eight cousin brothers, so Achamma was extremely happy with the news of my birth. She was so excited to see me that she ran towards the hospital room with all enthusiasm. She was a strong woman. She banged the door with full power. Appa, who was standing behind the door, fell flat on the ground, thrashed by Achamma’s sudden attack. He broke his nose, and the news of my birth became a breaking news for him, literally. From a distance his nose looked ok, but up close it was bent towards a side. I thought, he must be happy with his peculiar nose that made him famous, but who cared what I thought.
+I was the first girl in my family after eight cousin brothers, so Achamma was extremely happy with the news of my birth. She was so excited to see me that she ran towards the hospital room with all enthusiasm. She was a strong woman. She banged the door with full power. Appa, who was standing behind the door, fell flat on the ground, thrashed by Achamma’s sudden attack. He broke his nose, and the news of my birth became a breaking news for him, literally. 
 
-Lost in his nose, I didn’t realise we reached Kendriya Vidhayala, Gate 4. Scooter stopped, and in a moment, disappeared. I noticed a coin on the road. A kind that I had never seen before. It was old, shiny, engraved a sword on one side, and on the other, something that I couldn’t decipher. I didn’t look left or right, just picked it up.
+From a distance his nose looked ok, but up close it was bent towards a side. I thought, he must be happy with his peculiar nose that made him famous, but who cared what I thought.
 
-The evening turned dull, and overcast. I reached home to find Amma sitting silently in a corner, staring at Appa without the drop of a blink. Appa had unsettled the house. Cushions on the floor, carpet upside down, chairs on the table. Amma tried to inquire a couple of times, but all in vain. She knew the answer won’t come easily, so she tried again.
+Lost in his nose, I didn’t realise we reached Kendriya Vidhayala, Gate 4. Activa stopped, and in a moment, disappeared. I hoped he had wished me luck for the dance competition, but I knew it was a half-hearted hope. 
+
+Just a step further, I turned to realise there was a coin on the road. A kind that I had never seen before. It was old, but shiny, engraved a sword on one side, and on the other, something that I couldn’t decipher. I didn’t look left or right, just picked it up.
+
+The evening turned dull, and overcast. I reached home to find Amma sitting silently in a corner, staring at Appa without the drop of a blink. I pulled a chair and sat next to Amma. 
+
+“How was the competition?” she asked without looking at me. 
+
+“We lost!” I said, casually. 
+
+“Then why are you so happy?” She stared at me, bamboozled. 
+
+“Why is Baba sherlock?” I asked in an attempt to change the topic.
+
+“Only God knows, why he has come so early today and what he is doing.” 
+
+Appa had unsettled the house. Cushions on the floor, carpet upside down, chairs on the table. Amma tried to inquire a couple of times, but all in vain. She knew the answer won’t come easily, so she tried again.
 
 “What are you searching?” 
 
@@ -30,13 +50,15 @@ The evening turned dull, and overcast. I reached home to find Amma sitting silen
 
 “What coin?”
 
-“A coin with a sword?”
+“A coin with a sword.”
 
 “What?”
 
 He looked at Amma as if he will bite her with his eyes, but didn’t say anything. He know that she knew nothing about it. 
 
 But I knew. I couldn’t believe it was his. For a person who had never stepped out of Kollam, how did he get the coin? And, why was the coin so special? 
+
+I was anxious to know the answer, so I tried reaching Dadi. We couldn’t connect. Maybe, she was busy holidaying on a beach, hence, not reachable
 
 “Life is uncertain, apt to spring a nasty surprise when you least expect it.” I thought, with a nasty smile. For the first time in my life I had something that he wanted. I was in seventh heaven. Finally, the time had come to take revenge. “Swear to all the Palappam I couldn’t eat, I’ll never give it to him,” I muttered.
 
@@ -81,4 +103,6 @@ I collapsed on my bed, sobbing, thinking, I was so wrong. Unanticipated tears ro
 Sooner, when the emotional impulse receded, the past tried to dominate the present. It itched the agonies of his deeds. But I had the option to forgive the evil to accept the good, and I chose to forgive.
 
 I was wrong that who cares. He does. I felt an eternal happiness that I hope will not wear thin or fade away. Through tears, I grasped the hard truth that despair can disappear in an instant.
+
+"I wished I could straighten this nose,” I thought, and slept the best sleep of my life.
 
