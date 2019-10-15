@@ -8,7 +8,7 @@ tags:
   - Short Story
   - Fiction
 ---
-Appa disappeared, although, his body is there in front of me on the hospital bed. Through tears, I recall the hard truth that he had taught me when I was 17 years old - 'despair can disappear in an instant' in a hope that the desperation of his loss will disappear soon.
+Appa disappeared, although, his body is there in front of me on the hospital bed. Through tears, I recall the hard truth that despair can disappear in an instant. And once again, I hope the desperation of his loss will disappear soon, like what had happened when I was 17 years old.
 
 That day is still fresh in my memory as if it was not 30 years ago, but yesterday.
 
