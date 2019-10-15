@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Don’t you say who cares, I do"
+title:  "Despair can disappear in an instant"
 date:   2019-09-22
 header-style: text
 lang: en
