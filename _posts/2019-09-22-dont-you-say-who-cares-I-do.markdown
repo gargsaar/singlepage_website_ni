@@ -8,7 +8,7 @@ tags:
   - Short Story
   - Fiction
 ---
-Appa disappeared, although, his body was there in front of me on the hospital bed. Through tears, I recalled, ‘despair can disappear in an instant’, the hard truth that he had taught me when I was 17 years old.
+Appa disappeared, although, his body is there in front of me on the hospital bed. Through tears, I recall the hard truth that he had taught me when I was 17 years old - 'despair can disappear in an instant' in a hope that the desperation of his loss will disappear soon.
 
 That day is still fresh in my memory as if it was not 30 years ago, but yesterday.
 
@@ -102,6 +102,4 @@ I collapsed on my bed, sobbing, thinking, I was so wrong. Unanticipated tears ro
 
 Sooner, when the emotional impulse receded, the past tried to dominate the present. It itched the agonies of his deeds. But I had the option to forgive the evil to accept the good, and I chose to forgive.
 
-I was wrong that who cares. He does. I felt an eternal happiness that I hope will not wear thin or fade away. Through tears, I grasped the hard truth that despair can disappear in an instant.
-
-"I wished I could have straighten his nose,” I smiled, and slept the best sleep of my life.
+I was wrong that who cares. He does. I felt an eternal happiness that I hope will not wear thin or fade away. Through tears, I grasped the hard truth that despair can disappear in an instant. "I wished I could have straighten his nose,” I smiled, and slept the best sleep of my life.
