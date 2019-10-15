@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Despair can disappear in an instant"
+title:  "Despair Can Disappear In An Instant"
 date:   2019-09-22
 header-style: text
 lang: en
