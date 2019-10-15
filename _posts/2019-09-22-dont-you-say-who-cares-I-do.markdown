@@ -14,7 +14,7 @@ That day is still fresh in my memory as if it was not 30 years ago, but yesterda
 
 Appa was at the breakfast table, precisely at seven. Appa was a quiet man who lives in his own world that starts and ends with Indian Exports, his business to export coconut outside India. Appa enjoyed his prosperity with considerable hesitation, as if it was underserved. He always said, "this wealth hasn’t struck suddenly like a visitation, but instead grown gradually like a tree." 
 
-I joined late, exactly after 5 minutes. Appa turned, startled, to find a large cauliflower-shaped lady, his wife, loomed over him to put a Palappam in his plate. Appa was too obsessed with Palappam. I wondered why Appa ate only upma – night and day. I closed my eyes to ask Amma, my deceased grandma who must be enjoying chicken in heaven, “Why?” Even she didn’t know why Appa was so content. I liked chicken, but who cared what I liked.
+I joined late, exactly after 5 minutes. Appa turned, startled, to find a large cauliflower-shaped lady, his wife, loomed over him to put a Palappam in his plate. Appa was too obsessed with Palappam. I wondered why Appa ate only upma – night and day. I closed my eyes to ask Achamma, my deceased grandma who must be enjoying chicken in heaven, “Why?” Even she didn’t know why Appa was so content. I liked chicken, but who cared what I liked.
 
 By the time I started, Appa was done. I wanted to have one more, but he’d not wait. Amma, who stood close-by, had a steel glass in her hand, filled with filter coffee. She looked at me. I thought she would throw the glass on his head to break it into two. His head, not the glass. To my disappointment, she did nothing. I wished she had the courage to at-least think about it. By the virtue of attaining adulthood next year, I had the courage, but I kept silent for two reasons:
 
@@ -58,7 +58,7 @@ He looked at Amma as if he will bite her with his eyes, but didn’t say anythin
 
 But I knew. I couldn’t believe it was his. For a person who had never stepped out of Kollam, how did he get the coin? And, why was the coin so special? 
 
-I was anxious to know the answer, so I tried reaching Dadi. We couldn’t connect. Maybe, she was busy holidaying on a beach, hence, not reachable
+I badly wanted the answers, so I closed my eyes. We couldn’t connect. Maybe, Achamma was busy holidaying on a beach, hence, not reachable.
 
 “Life is uncertain, apt to spring a nasty surprise when you least expect it.” I thought, with a nasty smile. For the first time in my life I had something that he wanted. I was in seventh heaven. Finally, the time had come to take revenge. “Swear to all the Palappam I couldn’t eat, I’ll never give it to him,” I muttered.
 
@@ -102,4 +102,6 @@ I collapsed on my bed, sobbing, thinking, I was so wrong. Unanticipated tears ro
 
 Sooner, when the emotional impulse receded, the past tried to dominate the present. It itched the agonies of his deeds. But I had the option to forgive the evil to accept the good, and I chose to forgive.
 
-I was wrong that who cares. He does. I felt an eternal happiness that I hope will not wear thin or fade away. Through tears, I grasped the hard truth that despair can disappear in an instant. "I wished I could have straighten his nose,” I smiled, and slept the best sleep of my life.
+I was wrong that who cares. He does. I felt an eternal happiness that I hope will not wear thin or fade away. Through tears, I grasped the hard truth - 'despair can disappear in an instant'. 
+
+"I wished I could have straighten his nose,” I smiled, and slept the best sleep of my life.
