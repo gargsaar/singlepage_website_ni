@@ -8,15 +8,18 @@ tags:
   - Short Story
   - Fiction
 ---
-Appa disappeared, although, his body is there in front of me on the hospital bed. Through tears, I recall the hard truth - 'despair can disappear in an instant'. And once again, I hope the desperation of his loss will disappear soon, like what had happened when I was 17 years old.
+Appa disappears, although, his body is there in front of me on the hospital bed. Through tears, I recall the hard truth that he had taught me, and I smile. As if it was not 30 years ago when I was 17 years old, but yesterday, when it had happened. 
 
-That day is still fresh in my memory as if it was not 30 years ago, but yesterday.
+It was a usual morning. Sky was clear and the sun was bright. Appa was at the breakfast table, precisely at seven. 
 
-Appa was at the breakfast table, precisely at seven. Appa was a quiet man who lives in his own world that starts and ends with Indian Exports, his business to export coconut outside India. Appa enjoyed his prosperity with considerable hesitation, as if it was underserved. He always said, "this wealth hasn’t struck suddenly like a visitation, but instead grown gradually like a tree." 
+Appa was a quiet man who lives in his own world that starts and ends with ‘Coco Exports’. A simple business to export coconuts outside India. Appa enjoyed his prosperity with considerable pride. He always said, “This wealth hasn’t struck suddenly like a visitation, but instead grown it gradually like a tree. I have ploughed it with my sweat.”
 
-I joined late, exactly after 5 minutes. Appa turned, startled, to find a large cauliflower-shaped lady, his wife, loomed over him to put a Palappam in his plate. Appa was too obsessed with Palappam. I wondered why Appa ate only upma – night and day. I closed my eyes to ask Achamma, my deceased grandma who must be enjoying chicken in heaven, “Why?” Even she didn’t know why Appa was so content. I liked chicken, but who cared what I liked.
+I was late, again, by 5 minutes. He continued eating without even looking at me. I turned, startled, to find a large cauliflower-shaped lady, Amma, loomed over me to put a Palappam in my plate. With the ugliest possible face, I looked at her and said, “Not again!”
 
-By the time I started, Appa was done. I wanted to have one more, but he’d not wait. Amma, who stood close-by, had a steel glass in her hand, filled with filter coffee. She looked at me. I thought she would throw the glass on his head to break it into two. His head, not the glass. To my disappointment, she did nothing. I wished she had the courage to at-least think about it. By the virtue of attaining adulthood next year, I had the courage, but I kept silent for two reasons:
+I wondered why Appa was so obsessed with Palappam. He ate Palappam – night and day. I closed my eyes to ask Achamma, my deceased grandma who was enjoying chicken in heaven, “Why?” Even she didn’t know why Appa was so content. I liked chicken, but who cared what I liked.
+
+When I was just about to finish the first Palappam, Appa was done. I wanted to have one more, but he’d not wait. I looked at Amma who stood close-by. She had a steel glass in her hand, filled with filter coffee. I wanted her to throw the glass on Appa’s head to break it into two. His head, not the glass. She did nothing. I wished she had the courage to at-least think about it. By the virtue of attaining adulthood next year, I had the courage, but I kept silent for two reasons:
+
 
 First, I didn’t want to walk for 4 kilometres as I wanted to conserve energy for the dance competition. Second, I didn't want to miss the ride as it was the only time when I learned - how he drives Activa, our scooter, and his only thing I was interested in. 
 
@@ -102,6 +105,6 @@ I collapsed on my bed, sobbing, thinking, I was so wrong. Unanticipated tears ro
 
 Sooner, when the emotional impulse receded, the past tried to dominate the present. It itched the agonies of his deeds. But I had the option to forgive the evil to accept the good, and I chose to forgive.
 
-I was wrong that who cares. He does. I felt an eternal happiness that I hope will not wear thin or fade away. Through tears, I grasped the hard truth - 'despair can disappear in an instant'. 
+I was wrong that who cares. He does. I felt an eternal happiness that I hope will not wear thin or fade away. Through tears, I leanred the hard truth that he had taught me today - 'Despair can Disappear in an Instant'. 
 
-"I wished I could have straighten his nose,” I smiled, and slept the best sleep of my life.
+"I wished I could have straighten his nose,” I thought, and slept the best sleep of my life.
