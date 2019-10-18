@@ -104,4 +104,4 @@ Sooner, when the emotional impulse receded, the past tried to dominate the prese
 
 I was wrong that who cares. He does. I felt an eternal happiness that I hope will not wear thin or fade away. Through tears, I learned the hard truth - 'DESPAIR CAN DISAPPEAR IN AN INSTANT', and I smiled. 
 
-"I wished I could have straighten his nose,” I thought, and slept the best sleep of my life.
+"I hope his nose gets straighten one day,” I wished, and slept the best sleep of my life.
