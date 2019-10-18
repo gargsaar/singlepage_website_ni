@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Despair can Disappear in an Instant"
+title:  "Despair can disappear in an instant"
 date:   2019-09-22
 header-style: text
 lang: en
@@ -12,7 +12,7 @@ Appa disappeared, although, his body was there in front of me on the hospital be
 
 It was a usual Monday morning, sky was clear, and Appa was at the breakfast table, precisely at seven.
 
-Appa was a quiet man who lives in his own world that starts and ends with ‘Coco Exports’. A simple business to export coconuts outside India. Appa enjoyed his prosperity with considerable pride. He always said, “This wealth hasn’t struck suddenly like a visitation, but instead grown it gradually like a tree. I have ploughed it with my sweat.”
+Appa was a quiet man who lives in his own world that starts and ends with ‘Coco Exports’. A simple business to export coconuts outside Kerela. Appa enjoyed his prosperity with considerable pride. He always said, “This wealth hasn’t struck suddenly like a visitation, but instead grown it gradually like a tree. I have ploughed it with my sweat.”
 
 I was late, by 5 minutes. He continued eating without looking at me. I turned, startled, to find a large cauliflower-shaped lady, Amma, loomed over me to put a Palappam in my plate. I looked at her with the ugliest face possible, and shouted with my eyes, "Not again!"
 
