@@ -8,9 +8,9 @@ tags:
   - Short Story
   - Fiction
 ---
-Appa disappeared, although, his body was there in front of me on the hospital bed. Through tears with a smile, I recalled the hard truth that life had taught me when I was 17 years old. Once again, I hoped the desperation will disappear soon, like something that had happened 30 years ago.
+Appa disappeared, although, his body was there in front of me on the hospital bed. Through tears, I recalled the hard truth that life had taught me, and I smiled. And once again, I hoped the desperation will disappear soon, like it had 30 years ago when I was 17 years old.
 
-It was a usual morning, sky was clear, and Appa was at the breakfast table, precisely at seven.
+It was a usual Monday morning, sky was clear, and Appa was at the breakfast table, precisely at seven.
 
 Appa was a quiet man who lives in his own world that starts and ends with ‘Coco Exports’. A simple business to export coconuts outside India. Appa enjoyed his prosperity with considerable pride. He always said, “This wealth hasn’t struck suddenly like a visitation, but instead grown it gradually like a tree. I have ploughed it with my sweat.”
 
