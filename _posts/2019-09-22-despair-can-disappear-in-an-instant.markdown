@@ -14,7 +14,7 @@ It was a usual Monday morning, sky was clear, and Appa was at the breakfast tabl
 
 Appa was a quiet man who lives in his own world that starts and ends with ‘Coco Exports’. A simple business to export coconuts outside India. Appa enjoyed his prosperity with considerable pride. He always said, “This wealth hasn’t struck suddenly like a visitation, but instead grown it gradually like a tree. I have ploughed it with my sweat.”
 
-I was late, again, by 5 minutes. He continued eating without even looking at me. I turned, startled, to find a large cauliflower-shaped lady, Amma, loomed over me to put a Palappam in my plate. With the ugliest possible face, I looked at her and said, “Not again!”
+I was late by 5 minutes. He continued eating without looking at me. I turned, startled, to find a large cauliflower-shaped lady, Amma, loomed over me to put a Palappam in my plate. I looked at her with the ugliest face possible.
 
 I wondered why Appa was so obsessed with Palappam. He ate Palappam – night and day. I closed my eyes to ask Achamma, my deceased grandma who was enjoying chicken in heaven, “Why?” Even she didn’t know why Appa was so content. I liked chicken, but who cared what I liked.
 
@@ -24,21 +24,19 @@ First, I didn’t want to walk for 4 kilometres as I wanted to conserve energy f
 
 Appa took the same route every day. I knew the shortcut that could have saved us from the scorching heat, but who cared what I knew. He didn’t like me. Maybe, he was upset with what I did to him. 
 
-I was the first girl in my family after eight cousin brothers, so Achamma was extremely happy with the news of my birth. She was so excited to see me that she ran towards the hospital room with all enthusiasm. She was a strong woman. She banged the door with full power. Appa, who was standing behind the door, fell flat on the ground, thrashed by Achamma’s sudden attack. He broke his nose, and the news of my birth became a breaking news for him, literally. 
+I was the first girl in my family after eight cousin brothers, so Achamma was extremely happy with the news of my birth. She was so excited to see me that she ran towards the hospital room with all enthusiasm. She was a strong woman. She banged the door with full power. Appa, who was standing behind the door, fell flat on the ground, thrashed by Achamma’s sudden attack. He broke his nose, and the news of my birth became a breaking news for him, literally. From a distance his nose looked ok, but up close it was bent towards a side. I thought, he must be happy with his peculiar nose that made him famous, but who cared what I thought.
 
-From a distance his nose looked ok, but up close it was bent towards a side. I thought, he must be happy with his peculiar nose that made him famous, but who cared what I thought.
+Lost in his nose, I didn’t realise we reached Gate 4, Kendriya Vidhayala. Activa stopped, and in a moment, disappeared. I wanted his wishes for the dance competition, but I knew it was a half-hearted hope.
 
-Lost in his nose, I didn’t realise we reached Kendriya Vidhayala, Gate 4. Activa stopped, and in a moment, disappeared. I hoped he had wished me luck for the dance competition, but I knew it was a half-hearted hope. 
-
-Just a step further, I turned to realise there was a coin on the road. A kind that I had never seen before. It was old, but shiny, engraved a sword on one side, and on the other, something that I couldn’t decipher. I didn’t look left or right, just picked it up.
+Just a step further, I realised there was a coin on the road. I turned to look at it. It was a kind that I had never seen before. A old, but shiny coin that engraved a sword on one side, and on the other, something that I couldn’t decipher. I didn’t look left or right, just picked it up.
 
 The evening turned dull, and overcast. I reached home to find Amma sitting silently in a corner, staring at Appa without the drop of an eyelash. I pulled a chair and sat next to Amma. 
 
-“How was the competition?” she asked without looking at me. 
+“How was the competition?” she asked without moving her head. 
 
 “We lost!” I said, casually. 
 
-“Then why are you so happy?” She stared at me, bamboozled. 
+“Then why are you so happy?” She exclaimed. She stared at me, bamboozled. 
 
 “Why is Appa sherlock?” I asked in an attempt to change the topic.
 
@@ -90,11 +88,11 @@ In a low voice, he said:
 
 He lowered his face, and paused for a moment. After a while, he resumed with an unprecedented confidence in his voice.
 
-“All my life, I’ve continually lived in an urge to earn and grow, without realizing what will I do with this life - without you. In this world where everything perishes, I forgot that I can get imperishable happiness in just one thing, you, my love. The thought of losing you scared me so much that I’m not scared of anything now.” His eyes got wet.
+“What I did today, can’t be changed. But what I can change is - our future. All my life, I’ve continually lived in an urge to earn and grow, without realizing what will I do with this life - without you. In this world where everything perishes, I forgot that I can get imperishable happiness in just one thing, you, my love. The thought of losing you scared me so much that I’m not scared of anything now.” His eyes got wet.
 
 He took my hand, placed the coin on my palm, and closed the fingers. 
 
-“This is the only thing I have of my father. It's very close to my heart and will always be. Take care of it. What I did, can’t be changed, but what we can change is - our future.” 
+“This is the only thing I have of my father. It's very close to my heart and will always be. Take care of it.” 
 
 He kissed me on the forehead, and left the room.
 
