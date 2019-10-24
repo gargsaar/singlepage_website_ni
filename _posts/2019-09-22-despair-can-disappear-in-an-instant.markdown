@@ -36,7 +36,7 @@ The evening turned dull, and overcast. I reached home to find Amma sitting silen
 
 “We lost!” I said, casually. 
 
-“Then why are you so happy?” She exclaimed. She stared at me, bamboozled. 
+“Then why are you so happy?” she exclaimed. She stared at me, bamboozled. 
 
 “Why is Appa sherlock?” I asked in an attempt to change the topic.
 
@@ -54,7 +54,7 @@ Appa had unsettled the house. Cushions on the floor, carpet upside down, chairs 
 
 “What?”
 
-He looked at Amma as if he will bite her with his eyes, but didn’t say anything. He know that she knew nothing about it. 
+He looked at Amma as if he will bite her with his eyes, but didn’t say anything. He knew that she knew nothing about it. 
 
 But I knew. I couldn’t believe it was his. For a person who had never stepped out of Kollam, how did he get the coin? And, why was the coin so special? 
 
