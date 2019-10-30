@@ -16,9 +16,9 @@ Appa was a quiet man who lives in his own world that starts and ends with ‘Coc
 
 I was late, by 5 minutes. He continued eating without looking at me. I turned, startled, to find a large cauliflower-shaped lady, Amma, loomed over me to put a Palappam in my plate. I looked at her with the ugliest face possible, and shouted with my eyes, "Not again!"
 
-I wondered why Appa was so obsessed with Palappam. He ate Palappam – night and day. I closed my eyes to ask Achamma, my deceased grandma who was enjoying chicken in heaven, “Why?” Even she didn’t know why Appa was so content. I liked chicken, but who cared what I liked.
+I wondered why Appa was so obsessed with Palappam. He ate Palappam – night and day. I closed my eyes to ask Achamma, my deceased grandma who was enjoying chicken in heaven, “Why?” Even she didn’t know why Appa was so content and boring. I liked chicken, but who cared what I liked.
 
-When I was just about to finish the first Palappam, Appa was done. I wanted to have one more, but he’d not wait. I looked at Amma who stood close-by. She had a steel glass in her hand, filled with filter coffee. I wanted her to throw the glass on Appa’s head to break it into two. His head, not the glass. She did nothing. I wished she had the courage to at-least think about it. By the virtue of attaining adulthood next year, I had the courage, but I kept silent for two reasons:
+When I was just about to finish the first Palappam, Appa was done. I wanted to have one more, but he’d not wait. I hated him as he never cared what I wanted. I looked at Amma who stood close-by. She had a steel glass in her hand, filled with filter coffee. I wanted her to throw the glass on Appa’s head to break it into two. His head, not the glass. She did nothing. I wished she had the courage to at-least think about it. By the virtue of attaining adulthood next year, I had the courage, but I kept silent for two reasons:
 
 First, I didn’t want to walk for 4 kilometres as I wanted to conserve energy for the dance competition. Second, I didn't want to miss the ride as it was the only time when I learned - how he drives Activa, our scooter, and his only thing I was interested in. 
 
