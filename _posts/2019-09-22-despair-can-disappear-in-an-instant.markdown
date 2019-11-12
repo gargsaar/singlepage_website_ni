@@ -8,13 +8,13 @@ tags:
   - Short Story
   - Fiction
 ---
-Appa disappeared, although, his body was there in front of me on the hospital bed. Through tears, I recalled the hard truth that life had taught me, and I smiled. And once again, I hoped the desperation will disappear soon, like it had 30 years ago when I was 17 years old.
+Appa disappeared, although, his body was there in front of me on the hospital bed. Through tears, I recalled the hard truth that life had taught me, and I smiled. And once again, I hoped the desperation will disappear soon like it had 30 years ago when I was 17 years old.
 
 It was a usual Monday morning, sky was clear, and Appa was at the breakfast table, precisely at seven.
 
 Appa was a quiet man who lives in his own world that starts and ends with ‘Coco Exports’. A simple business to export coconuts outside Kerela. Appa enjoyed his prosperity with considerable pride. He always said, “This wealth hasn’t struck suddenly like a visitation, but instead grown it gradually like a tree. I have ploughed it with my sweat.”
 
-I was late, by 5 minutes. He continued eating without looking at me. I turned, startled, to find a large cauliflower-shaped lady, Amma, loomed over me to put a Palappam in my plate. I looked at her with the ugliest face possible, and shouted with my eyes, "Not again!"
+I was late, by 5 minutes. He continued eating without looking at me. I turned, startled, to find a large cauliflower-shaped lady, Amma, loomed over me to put a Palappam in my plate. I looked at her with the ugliest face possible, and shouted with my eyes, "Palappam, not again!"
 
 I wondered why Appa was so obsessed with Palappam. He ate Palappam – night and day. I closed my eyes to ask Achamma, my deceased grandma who was enjoying chicken in heaven, “Why?” Even she didn’t know why Appa was so content and boring. I liked chicken, but who cared what I liked.
 
