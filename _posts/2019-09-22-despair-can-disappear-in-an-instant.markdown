@@ -26,7 +26,7 @@ Appa took the same route every day. I knew the shortcut that could have saved us
 
 I was the first girl in my family after eight cousin brothers, so Achamma was extremely happy with the news of my birth. She was so excited to see me that she ran towards the hospital room with all enthusiasm. She was a strong woman. She banged the door with full power. Appa, who was standing behind the door, fell flat on the ground, thrashed by Achamma’s sudden attack. He broke his nose, and the news of my birth became a breaking news for him, literally. From a distance his nose looked ok, but up close it was bent towards a side. I thought, he must be happy with his peculiar nose that made him famous, but who cared what I thought.
 
-Lost in his nose, I didn’t realise we reached Gate 4, Kendriya Vidhayala. Activa stopped, and in a moment, disappeared. I wanted his wishes for the dance competition, but I knew it was a half-hearted hope.
+Lost in his nose, I didn’t realise we reached Gate 4, Kendriya Vidhayala. Activa stopped, and in a moment, disappeared. I hoped he would  wish me for the dance competition, but I knew it was a half-hearted hope.
 
 Just a step further, I realised there was a coin on the road. I turned to look at it. It was a kind that I had never seen before. A old, but shiny coin that engraved a sword on one side, and on the other, something that I couldn’t decipher. I didn’t look left or right, just picked it up.
 
