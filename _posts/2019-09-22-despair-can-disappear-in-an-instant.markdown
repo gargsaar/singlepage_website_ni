@@ -102,6 +102,4 @@ I collapsed on my bed, sobbing, thinking, I was so wrong. Unanticipated tears ro
 
 Sooner, when the emotional impulse receded, the past tried to dominate the present. It itched the agonies of his deeds. But I had the option to forgive the evil to accept the good, and I chose to forgive.
 
-I was wrong that who cares. He does. I felt an eternal happiness that I hope will not wear thin or fade away. Through tears, I learned the hard truth - 'DESPAIR CAN DISAPPEAR IN AN INSTANT', and I smiled. 
-
-"I hope his nose gets straighten one day,” I wished, and slept the best sleep of my life.
+I was wrong that who cares. He does. I felt an eternal happiness that I hope will not wear thin or fade away. Through tears, I learned the hard truth - 'despair can disappear in an instant', and I smiled.
