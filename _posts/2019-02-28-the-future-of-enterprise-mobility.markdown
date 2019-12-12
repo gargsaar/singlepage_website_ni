@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Future of Enterprise Mobility"
+title:  "Enterprise App Store - The Future of Enterprise Mobility"
 date:   2019-02-28
 header-style: text
 lang: en
@@ -16,9 +16,9 @@ It is not just asking IT admin to enable smartphones for enterprise usage but it
 
 There are purpose-built platforms or appliances for all established enterprise solutions today. Likewise there is a requirement for a platform that could encapsulate and serve enterprise mobility requirements at once. A key component of that platform will be an app store for Enterprise Apps.
 
-Users should be able to downloan enterprise apps on their devices without any intervention from IT. And instantly use them to perform the tasks related to their job profiles. It will be interesting if the users can download apps from various marketplaces and connect IT’s enterprise data stores to extract data into the apps to use it for the business purpose. ‘Bring Your Own Application’ (BYOA) will become a new trend.
+Users should be able to download enterprise apps on their devices without any intervention from IT. And instantly use them to perform the tasks related to their job profiles. It will be interesting if the users can download apps from various marketplaces and connect IT’s enterprise data stores to extract data into the apps to use it for the business purpose. ‘Bring Your Own Application’ (BYOA) will become a new trend.
 
-There will be few challenges as well in adoption of Enterprise Mobility. Some of them are:
+There will be few challenges as well in adoption of Enterprise Mobility:
 
 1. Security: BYOD & Mobile Device Management are still in evolution phase and will take some more time to reach maturity. To address current gaps in the solutions, it is important for IT to have a strong mobile policy and security in place.
 
