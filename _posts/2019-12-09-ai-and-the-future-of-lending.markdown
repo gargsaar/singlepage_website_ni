@@ -16,6 +16,8 @@ To seize this opportunity, FIs need to have a trust in the technology. Technolog
 
 Artificial Intelligence can help FIs understand borrower’s characteristics, like honesty, ethics, behavior, attitude, etc, so that even if the capacity-to-pay is not evident, FIs can take some risk on the basis of the positive intent-to-pay. By collecting data from borrowers’ smartphones on their phone usage patterns, type of apps installed, phone make and model, and location patterns, Artificial Intelligence can determine the intent-to-pay, facilitating FIs to offer loans to even those individuals who do not have a credit history. 
 
+![Behavior Indicators (Sample)](https://github.com/gargsaar/iStandpoint/blob/gh-pages/assets/images/behavior_indicators.PNG)
+
 To begin with, these predictive models may be less effective, but eventually, as the algorithms evolve and the data grows, the decisioning will get more and more accurate. And this is where the trust in the technology will be important.
 
 Behavior scoring models can also be used in situations where the loan applicants have been assigned credit scores by the credit bureau as there is often the question of accuracy involved. In fact, in the US, it was found that more than one in five consumers have a ‘potentially material error’ in their credit file that makes them look riskier than they are. Artificial Intelligence can enable FIs to use statistics and machine learning techniques to build credit scoring models on their own, specific to their business needs and customer profiles. In-house analytics can provide insights that are transparent for inputs, methodologies, and assumptions; and flexible in changing assumptions and input parameters, which can be updated frequently.
