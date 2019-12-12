@@ -26,9 +26,9 @@ Behavior scoring models can also be used in situations where the loan applicants
 
 #### AI Use-Cases for Lending
 Artificial Intelligence can be utilized to improve the customer experience throughout the loan lifecycle. 
-* Marketing departments can benefit through improved targeting in their campaigns. 
-* Credit risk departments can create scorecards to make more informed decisions on whether or not to accept an application.
-* Opportunities for cross-sell and upsell can be identified by analyzing the behavior of existing customers and by assessing the risk of default, proactive actions can be taken to mitigate the risk early.
+* Marketing department can benefit through improved targeting in their campaigns. 
+* Credit risk department can create scorecards to make more informed decisions on whether or not to accept an application.
+* Opportunities for cross-sell and upsell can be identified by analyzing the behavior of existing customers. By assessing the risk of default, proactive actions can be taken to mitigate the risk early.
 * Collection analytics can predict the likelihood of delinquent customers paying back the debt and the right channel to reach out to these customers. This would not only help in increasing the revenue, but also in reducing the operating costs.
 
 #### AI Models - Build vs. Buy
