@@ -10,11 +10,11 @@ tags:
   - Analytics
 ---
 Financial Institutions (FIs) are fortunate to be in this time where they have the opportunity to take a gaint step forward for creating a long-term strategic impact. As the digitization of financial services continues, they have tremendous opportunities to grow business. 
-The proliferation of technology along with deep business expertise can help FIs examine their businesses and find answers to complex questions that typically remained unanswered today, for example - how can we reduce risk.
+The proliferation of technology along with deep business expertise can help FIs examine their businesses and find answers to complex questions that typically remained unanswered today, for example - how can we assess risk.
 
-To seize this opportunity, FIs need to have a trust in the technology. Technologies such as Machine Learning and Artificial Intelligence  can help them where they have failed traditionally. For example, risk assessment of new-to-bank or thin file customers.
+To seize this opportunity, FIs need to have a trust in the technology. Technology such as Machine Learning and Artificial Intelligence  can help them where they have failed traditionally. For example, risk assessment of new-to-bank or thin file customers.
 
-Artificial Intelligence can help FIs understand borrower’s characteristics, like honesty, ethics, behavior, attitude, etc, so that even if the capacity-to-pay is not evident, FIs can lend on the basis of borrower's positive intention to pay. By collecting data from borrowers’ smartphones on their phone usage patterns, type of apps installed, phone make and model, and location patterns, Artificial Intelligence can determine the intent-to-pay.
+Artificial Intelligence can help FIs understand borrower’s characteristics, like honesty, ethics, behavior, and attitude, so that even if the capacity-to-pay is not evident, FIs can lend on the basis of borrower's positive intention to pay. By collecting data from borrowers’ smartphones on their phone usage patterns, type of apps installed, phone make and model, and location patterns, Artificial Intelligence can determine the intent-to-pay.
 
 ![Behavior Indicators (Sample)](/assets/images/post_images/behavior_indicators.PNG)
 
@@ -26,10 +26,10 @@ Behavior scoring models can also be used in situations where the loan applicants
 
 #### AI Use-Cases for Lending
 Artificial Intelligence can be utilized to improve the customer experience throughout the loan lifecycle. 
-*Marketing departments can benefit through improved targeting in their campaigns 
-*Credit risk departments can create scorecards to make more informed decisions on whether or not to accept an application
-*Opportunities for cross-sell and upsell can be identified by analyzing the behavior of existing customers and by assessing the risk of default, proactive actions can be taken to mitigate the risk early
-*Collection analytics can predict the likelihood of delinquent customers paying back the debt and the right channel to reach out to these customers. This would not only help in increasing the interest revenue, but also in reducing the operating costs.
+* Marketing departments can benefit through improved targeting in their campaigns 
+* Credit risk departments can create scorecards to make more informed decisions on whether or not to accept an application
+* Opportunities for cross-sell and upsell can be identified by analyzing the behavior of existing customers and by assessing the risk of default, proactive actions can be taken to mitigate the risk early
+* Collection analytics can predict the likelihood of delinquent customers paying back the debt and the right channel to reach out to these customers. This would not only help in increasing the revenue, but also in reducing the operating costs.
 
 #### AI Models - Build vs. Buy
 Artificial Intelligence can enable FIs to use statistics and machine learning techniques to build credit scoring models on their own, specific to their business needs and customer profiles. In-house analytics can provide insights that are transparent for inputs, methodologies, and assumptions; and flexible in changing assumptions and input parameters, which can be updated frequently.
