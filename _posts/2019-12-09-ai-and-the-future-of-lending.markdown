@@ -16,7 +16,9 @@ To seize this opportunity, FIs need to have a trust in the technology. Technolog
 
 Artificial Intelligence can help FIs understand borrower’s characteristics, like honesty, ethics, behavior, attitude, etc, so that even if the capacity-to-pay is not evident, FIs can take some risk on the basis of the positive intent-to-pay. By collecting data from borrowers’ smartphones on their phone usage patterns, type of apps installed, phone make and model, and location patterns, Artificial Intelligence can determine the intent-to-pay, facilitating FIs to offer loans to even those individuals who do not have a credit history. 
 
-![Behavior Indicators (Sample)](https://github.com/gargsaar/iStandpoint/blob/gh-pages/assets/images/behavior_indicators.PNG)
+![Behavior Indicators (Sample)](https://github.com/gargsaar/iStandpoint/blob/gh-pages/assets/images/post_images/behavior_indicators.PNG)
+
+![Location Score](https://github.com/gargsaar/iStandpoint/blob/gh-pages/assets/images/post_images/location_score.PNG)
 
 To begin with, these predictive models may be less effective, but eventually, as the algorithms evolve and the data grows, the decisioning will get more and more accurate. And this is where the trust in the technology will be important.
 
