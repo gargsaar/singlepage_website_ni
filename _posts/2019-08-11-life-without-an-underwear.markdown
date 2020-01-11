@@ -6,7 +6,6 @@ header-style: text
 lang: en
 tags:
   - Humor
-  - Empathy
 ---
 An intricate characteristic of humans in general is that we don't value things we get easily. For example, our underwear. Have you ever thought how important an underwear is in our lives. It may occur to you that an underwear is just a piece of cloth, but pause for a moment and imagine your lives without an underwear. 
 
