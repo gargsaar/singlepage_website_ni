@@ -5,8 +5,8 @@ date:   2019-02-28
 header-style: text
 lang: en
 tags:
+  - Management
   - Technology
-  - General
 ---
 The definition of mobility has completely changed today with the emergence of smartphones having same computing power as laptops. Laptop was an incredible invention that made it easy to carry work with you but it was just the beginning. Smartphones can now accomplish almost all the tasks a laptop can perform, and with the user behavior shifting from simple voice telephony to data consumption and creation, the smartphone has become the ideal tool.
 
