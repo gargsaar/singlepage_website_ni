@@ -7,6 +7,7 @@ lang: en
 tags:
   - Lending
   - Analytics
+  - Product
 ---
 Financial Institutions (FIs) are fortunate to be in this time where they have the opportunity to take a giant step forward for creating a long-term strategic impact. As the digitization of financial services continues, they have tremendous opportunities to grow business. 
 The proliferation of technology along with deep business expertise can help FIs examine their businesses and find answers to complex questions that typically remained unanswered today, for example - how to assess risk.
