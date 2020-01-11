@@ -5,7 +5,7 @@ date:   2019-01-17
 header-style: text
 lang: en
 tags:
-  - Technology
+  - Motivation
   - General
 ---
 *“A man who can be replaced by a machine, will be.”*
@@ -23,5 +23,3 @@ The whole purpose of technology evolution is that things should not remain the s
 For better or for worse the change is imminent. Being an optimist I believe the change is going to be for better. To stay relevant in the future or win the battle of employability against machines, humanity as a whole, will have to upgrade like Ashish. To achieve a sanguine future, we will have to constantly evolve and learn new skills which I believe is the only way out.
 
 *"If you are willing to learn, no one can stop you. If you are not, no one can help you."*
-
-> Originally published at: https://www.linkedin.com/pulse/how-stay-employable-age-machine-learning-sarthak-garg/
