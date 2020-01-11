@@ -6,7 +6,6 @@ header-style: text
 lang: en
 tags:
   - Motivation
-  - General
 ---
 *“A man who can be replaced by a machine, will be.”*
 
