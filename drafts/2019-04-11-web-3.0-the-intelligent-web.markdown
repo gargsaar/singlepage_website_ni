@@ -1,0 +1,46 @@
+---
+layout: post
+title:  "Web 3.0 – The Intelligent Web"
+date:   2019-04-11
+header-style: text
+lang: en
+tags:
+  - Technology
+  - Management
+---
+Pace of innovation in computing has been remarkable since the development of first electronic computer called ENIAC in 1945. ENIAC was designed to calculate artillery firing tables for the US Army. In 1969, ARPANET was created which was the first packet switching network using TCP/IP protocol. In 1981, TCP/IP protocol was standardized for Internet communication and it opened door for 'World Wide Web'. After the creation on WWW in 1989, web 1.0 came which was all about static web pages. The first web server and website was founded by Tim Berners-Lee in 1990. Soon thereafter in 1995, Amazon was founded followed by Google. 
+
+Google began to use AJAX technology in 2005 and this made websites much more interactive and useful. Web 2.0 led to wide scale adoption of the web as a computing platform for business purposes. With Amazon EC2 cloud computing and introduction of HTML 5 in 2011, development and use of web applications increased exponentially. We are now into web 3.0 era - The 'Intelligent Web'.
+
+Web 1.0 – 'The Static Web': static web sites, the first web business models
+
+Web 2.0 – 'The Interactive Web': Interactivity (AJAX), Social Networking, mash-ups, media sharing, online commerce, content management systems, lightweight collaboration, wikis.
+
+Web 3.0 – 'The Intelligent Web': Machine facilitated understanding of information. Eg. Semantic Web, NLP (natural language processing), recommender systems.
+
+A web application is accessed by users over a network, uses a browser as a client, and consists of a collection of client-and server-side scripts, HTML pages, and other resources that may be spread across multiple servers. The application itself is accessed by users via a specific path within a web server, e.g, www. Amazon.com.
+
+In Web 1.0, application architecture was basic where the web server fetched static web pages without much interactivity. Client was a simple browser which needs to render only HTML (no javascript). Client establishes a connection to the server, and request services and/or resources from it. Server listens for requests, and provides services/resources accordingly. Communication between Client and Server happens over a network (called 'Internet') using HTTP protocol to transfer information between the two. No separation of data from its presentation.
+
+During 90’s, there were only 100,000 websites consist of read-only web pages, users couldn’t provide much feedback or modify web content. As applications became richer, server side scripts became more complicated, and Web 1.0 applications became difficult to maintain.
+
+Web 2.0 application architectures were better organized to deal with this complexity and introduced n-tier architecture.
+
+1. Presentation tier – The user interface. User’s Browser. The Presentation tier is often subdivided into two tiers: Client tier – client-side user interface components, and Presentation logic tier – server-side scripts for generating web pages.
+
+2. Application (logic) tier – Retrieves, modifies and/or deletes data in the data tier, and sends the results to the presentation tier. Also responsible for processing the data itself. The web server and logic associated with generating dynamic web content, e.g., collecting and formatting the results of a search. 
+
+The Application tier is often subdivided into two tiers:
+
+2.1 Business logic tier – Models the business objects associated with the application, e.g., accounts, inventories, etc., and captures the business rules and workflows associated with how these processes can be processed and manipulated.
+
+2.2 Data access tier – Responsible for accessing data, and passing it to the business logic tier, e.g., account balances, transactions, etc.
+
+3. Data tier – The source of the data associated with the application. A database.
+
+Web 3.0 takes application architecture to the next level with the introduction of components such as Semantic Web. The intent is to enhance the usability and usefulness of the Web and its interconnected resources by creating Semantic Web Services, which could be useful in:
+
+- Facilitating the integration of information from mixed sources
+- Improving information retrieval thereby reducing information overload and increasing the refinement and precision of the data retrieved
+- Identifying relevant information with respect to a given domain
+- Providing decision making support
