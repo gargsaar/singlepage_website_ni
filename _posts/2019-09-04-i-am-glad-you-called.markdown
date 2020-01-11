@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "I'm Glad You Called!"
+title:  "I'm glad you called"
 date:   2019-09-04
 header-style: text
 lang: en
