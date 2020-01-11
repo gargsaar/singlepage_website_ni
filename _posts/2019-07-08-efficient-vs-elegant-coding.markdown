@@ -5,7 +5,6 @@ date:   2019-07-08
 header-style: text
 lang: en
 tags:
-  - Coding
   - Technology
 ---
 The dilemma of efficiency versus elegance is an interesting one. It is always difficult to decide between an elegant and short solution, and a more convoluted but faster solution. For example, I can write code to calculate exponent of a number in two ways:
