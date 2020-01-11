@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "A Date With Two"
+title:  "Blind date with two"
 date:   2019-08-24
 header-style: text
 lang: en
