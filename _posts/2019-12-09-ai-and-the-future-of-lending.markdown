@@ -5,7 +5,7 @@ date:   2019-12-09
 header-style: text
 lang: en
 tags:
-  - Management
+  - Lending
   - Analytics
 ---
 Financial Institutions (FIs) are fortunate to be in this time where they have the opportunity to take a giant step forward for creating a long-term strategic impact. As the digitization of financial services continues, they have tremendous opportunities to grow business. 
