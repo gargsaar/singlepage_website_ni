@@ -13,7 +13,7 @@ William Shakespeare said, “all the world’s a stage, and all the men and wome
 
 An intricate characteristic of we humans, in general, is that we don’t value things we easily get. For example, our life. We are born without aspiring for it, and maybe that’s why we don’t realise the value of being alive. And because we don’t realise the value of life, we often end up living it for the sake of it — without any purpose.
 
-It brings me to the question, which I’m sure must have haunted you as well at some point in your lives, why are we alive? what is the purpose of life?
+It brings me to the question, which I’m sure must have haunted you as well at some point in your lives: "what is the purpose of life?"
 
 We all know that no marketing can be effective if the product is bogus, likewise, no life is worth if it doesn’t serve a purpose. Purpose is so important in life. It’s the purpose which makes an ordinary life extraordinary. But when you don’t have a purpose of your own, your life is often controlled by others.
 
@@ -27,12 +27,14 @@ I somehow completed engineering and as Sharma uncle had said, I got the job. But
 
 Then came the moment of awakening.
 
-On a bright Sunday morning when people were trying to break-out of mediocrity, I was sitting on a lousy couch in my living room, browsing youtube videos to serve the normal routine of my ordinary life. After a few useless videos, I came across a TEDx video of a software engineer from my hometown, a tier 2 city in Uttar Pradesh, India, whose startup recently got $100 mn funding. I paused the video, in shock or surprise — whatever that weird feeling was, to absorb the fact — that man was Kunal, my batch mate from engineering.
+On a bright Sunday morning when people were trying to break-out of mediocrity, I was sitting on a lousy couch in my living room, browsing youtube videos to serve the normal routine of my ordinary life. After a few useless videos, I came across a TEDx video of a software engineer from my hometown, a tier 2 city in Uttar Pradesh, India, whose startup recently got $30 mn funding. I paused the video, in shock or surprise — whatever that weird feeling was, to absorb the fact — that man was Kunal, my batch mate from engineering.
 
 Kunal was so ordinary in college — mediocre grades, no visibility, average intelligence, and personality — like a cauliflower. But that’s not important; what’s important is that Kunal had a purpose in life. He always wanted to be an entrepreneur, so that he can serve his country by creating jobs.
 
-That was my moment of awakening. I had realised how ordinary my life was. Kunal had visited 152 countries in last 2 years; drove Volvo XC90; and shook hands with Bill Gates, Warren Buffett, and Barack Obama — all my role models whose only thing I could manage to touch was a photo on my mobile. That moment I decided — I no longer want to live a mediocre life. I’ll live a life as exciting as this guy’s. I’ll live a life of purpose.
+That was my moment of awakening. I had realised how ordinary my life was. Kunal had visited 22 countries in last 2 years; drove Volvo XC90; and shook hands with Bill Gates, Warren Buffett, and Barack Obama — all my role models whose only thing I could manage to touch was a photo on my mobile. That moment I decided — I no longer want to live a mediocre life. I’ll live a life as exciting as this guy’s. I’ll live a life of purpose.
 
 Success doesn’t come easy or quick, but it’s true that when you want something, all the universe conspires in helping you to achieve it. It took 94 days of perseverance, 8460 minutes of hard work in the gym, and 450 instances of saying no to the outside food to reduce from 91 kgs to 71. Just by having a purpose — to live a healthy life, I was able to achieve it. Though it may seem to be the easiest of the purposes on the planet, but that’s not important. What’s important is — this simple purpose made my ordinary life extraordinary. I’m no longer a guy whose stomach droops over his belt, but an inspiration for my cousins and colleagues for being the only one among them who could do all the obstacles of Devil Circuit.
 
-The purpose could be anything. It could be as small as to protect the mother earth by planting a tree every week; or as big as to build a shelter home by saving enough from your not-so-enough salary. But there has to be a purpose, because the purpose of life itself is — to live a life of purpose.
+The purpose could be anything. It could be as small as to exercise every day to live a healthy life, or as big as to build a shelter home by saving enough from your not-so-enough salary. Key take away is - there has to be a purpose in life.
+
+I believe, "the purpose of life is nothing, but to live a life of purpose."
