@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "I made a mistake. I'm sorry"
+title:  "I made a mistake, I'm sorry"
 date:   2019-09-04
 header-style: text
 lang: en
