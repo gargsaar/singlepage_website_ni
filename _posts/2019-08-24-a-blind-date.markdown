@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Blind date with two"
+title:  "A Blind Date"
 date:   2019-08-24
 header-style: text
 lang: en
@@ -10,9 +10,9 @@ tags:
 ---
 Wikipedia says, a blind date is a social engagement between two people who have not previously met, usually arranged by a mutual acquaintance. 
 
-The mutual acquaintance in my case was Vijay uncle, formally known as Mr. Vijay Makhani. He was an engineering by qualification and a matchmaker by profession. Why he left his engineer job to be a matchmaker was a mystery. Maybe he took Queen Elizabeth a little too seriously who once said, "at its heart, engineering is about using science to find creative and practical solutions." And he did exactly that. People said, he had developed some kind of algorithm to analyse and match profiles. No wonder, why he had an unprecedented record of successful marriages.
+The mutual acquaintance in my case was Mr. Vijay Makhani, my uncle, whom I know for years now. He was an engineering by qualification and a matchmaker by profession. Why he left his engineer job to be a matchmaker was a mystery. Maybe he took Queen Elizabeth a little too seriously who once said, "at its heart, engineering is about using science to find creative and practical solutions." And he did exactly that. People said, he had developed some kind of algorithm to analyse and match profiles. No wonder, why he had an unprecedented record of successful marriages.
 
-For him, I was a prospect. I think his algorithm assessed the state of my mind. A frustrated young lad, in the second year of job, looking for a change in his life. I was not enjoying my job. All it required was using the left side of the brain. No creativity. In-fact, I never liked engineering. 
+For Vijay uncle, I was a prospect since the day he had fixed my brother's marriage. It was quite strange for my bother to agree for an arranged marriage, as all I know that one thing he had to never worry about in his life was girlfriends, he always had in plenty. Unlike my brother, I was always very shy. I was in second year of job, and as always - single. I was looking for a change from my monotomous life. In-fact, I never wanted to be an engineer. All my job required was using the left side of the brain, no creativity.
 
 When art students were being taught about romance and love which they used in their lives, we, engineers, were taught about chemical bonding. And that too in a class where the only girl was not willing to look at us. How were we suppose to understand the concept of bonding. On one hand the lucky oxygen atom was involved in a twosome with two hydrogen atoms, and I struggled to find even a single girl. As a matter of fact, I was so single that if my friends were asked about an example for a singular noun, they would say 'Aditya Shaurya'. 
 
