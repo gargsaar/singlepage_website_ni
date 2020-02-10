@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "I'm glad you called"
+title:  "I made a mistake. I'm sorry"
 date:   2019-09-04
 header-style: text
 lang: en
@@ -15,29 +15,25 @@ When he was about to leave for office, around 10 in the morning, his phone rang.
 
 Last time they spoke was 6 years back on their graduation day. 
 
-In absolute joy, he pressed received the call.
+In absolute joy, he swipe the green button.
 
 "Hi Rahul," she said in a low and soothing voice.
 
-"Hi," he replied in a similar tone.
+A tear rolled down his eye. All he has been wanting for 6 years was to speak to her, but when the moment was here, he couldn't utter a word. There was a silence, long and expected.
 
-"Happy Birthday!"
+After a pause, he gathered the strength to say, "I'm sorry."
 
-He didn’t reply. After a pause, he said, "Tina, I'm sorry."
+He knew that this was his only chance.
 
-A tear rolled down from his eye. He didn’t utter a word for the next few minutes. She too felt the emotions.
-
-He recomposed himself, and said the same thing, "I'm sorry."
+He said it again, "I'm so sorry."
 
 He continued, "I feel sorry every day, every moment for 6 years now. Please forgive me."
 
-She tried to console, "don’t cry, it's your birthday."
-
-A thought of forgiveness appeared in her heart for a second. But the wound he had given to her was too deep. It was not willing to heal.
+She felt the emotion. A thought of forgiveness appeared in her heart for a second, but the wound he had given her was too deep, in front of her eyes, unreheable.
 
 In a strong voice she said, "Rahul, time is a great healer. I've moved on in life and learned how to live alone. Samira wanted to speak to you. It's her birthday. I had promised her that she will speak to her father on her fifth birthday. I never break promises."
 
-The new born hope in his heart, which had appeared after seeing her call for the first time in 6 years, disappeared in a jiffy. He craved for her even more, like a child who catcall for a toy its parents can't afford.
+His hope disappeared in a jiffy. He craved for her even more, like a child who catcall for a toy its parents can't afford.
 
 Ruefully he replied, "I was helpless. Mom and dad were about to commit suicide. I had to choose between you and them. I made a mistake."
 
