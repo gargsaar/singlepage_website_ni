@@ -47,9 +47,9 @@ Next, it was Samira on phone.
 
 In a cute voice she said, "Papa, happy birthday."
 
-Chocked, he replied, "Happy birthday to you too, Samira."
+Chocked, he couldn't reply.
 
-Tina took the phone back in a flash. "Rahul, it's getting dark here, we need to go."
+Tina took the phone back. "Goodbye Rahul, we need to go."
 
 Soaked in love, he didn’t want the call to end. Quickly, he asked, "how is Samira?"
 
