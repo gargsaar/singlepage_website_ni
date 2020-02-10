@@ -55,6 +55,6 @@ Soaked in love, he didn’t want the call to end. Quickly, he asked, "how is Sam
 
 "What you expect of someone who even shares your birth date. She is exactly like you." she replied and ended the call.
 
-His heart wept. He knew that she will never come back, and now, it was even more difficult for him to live without her. Yet he smiled. Atleast she called, he thought and moved on.
+His heart wept. He knew that she will never come back, and now, it was even more difficult for him to live without her. She called, he thought and smiled.
 
 *Some mistakes can never be forgiven, specially when they are done to somebody you love the most.*
