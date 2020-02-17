@@ -10,7 +10,11 @@ tags:
 ---
 *“A man who can be replaced by a machine, will be.”*
 
-Yesterday, I met Ashish during an Uber ride. Few months back he used to clean cars and didn't know how to use a smartphone or drive a car. Its amazing how he has upgraded his skills and become an Uber driver as for him I am sure this wouldn't have been easy. According to him driving is much less stressful and earns him more. He is a true example of how people transform themselves for their betterment.
+I’m with those who believe that AI will replace humans, but I believe, the change will be for good. And my belief is for the reason that we, humans, are special. To tell u why - let me tell you a story.
+
+Yesterday, I met Ashish during an Uber ride. When I last knew Ashish, about 6 months back, he used to clean my cars. He was a young lad, who had come to Noida with his father for work. He belonged to a very primitive and backward tribe. He had never been to a school, never used a smartphone, and the only thing he knew to drive was a bullock-cart. Noida was a complete new world for him - the language was alien, people were different, culture was strange.    
+
+It was a shock for me to see how Ashish has transformed himself, and that too in just 6 months. It's amazing how he has upgraded his skills and become an Uber driver as for him I am sure this wouldn't have been easy. According to him it was the only way he could have survied in the city. He is a true example of how people transform themselves for their betterment.
 
 Ten years ago I couldn’t have imagined driving a cab in Delhi being less stressful and more paying. Moreover, idea like carpooling, was never a viable option before the launch of these mobile apps. The reason Uber has become successful and drivers make a good income is technological advancements. Because of advance algorithm, Uber rides today are optimized i.e. more rides at a less expense and time.
 
