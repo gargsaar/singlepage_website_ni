@@ -12,7 +12,7 @@ tags:
 
 I’m with those who believe that AI will replace humans, but I believe, the change will be for good. And my belief is for the reason that we, humans, are special. To tell u why - let me tell you a story.
 
-Yesterday, I met Ashish during an Uber ride. When I last knew Ashish, about 6 months back, he used to clean my cars. He was a young lad, who had come to Noida with his father for work. He belonged to a very primitive and backward tribe. He had never been to a school, never used a smartphone, and the only thing he knew to drive was a bullock-cart. Noida was a complete new world for him - the language was alien, people were different, culture was strange.    
+Yesterday, I met Ashish during an Uber ride. When I last knew Ashish, about 6 months back, he used to clean my cars. He was a young lad, who had come to Noida with his father for work. He belonged to a very primitive and backward village in Bihar. He had never been to a school, never used a smartphone, and the only thing he knew to drive was a bullock-cart. Noida was a complete new world for him - the language was alien, people were different, culture was strange.    
 
 It was a shock for me to see how Ashish has transformed himself, and that too in just 6 months. It's amazing how he has upgraded his skills and become an Uber driver as for him I am sure this wouldn't have been easy. According to him it was the only way he could have survied in the city. He is a true example of how people transform themselves for their betterment.
 
