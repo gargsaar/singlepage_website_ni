@@ -2,22 +2,14 @@
 layout: default
 comments: true
 ---
+
+<!-- Post Header -->
+{% include intro-header.html type='post' %}
+
 <!-- Post Content -->
 <article>
     <div class="container">
         <div class="row">
-	
-	<!-- Post Title -->
-		 <div class="post-heading">
-                    <div class="tags">
-                        {% for tag in page.tags %}
-                        <a class="tag" href="/archive/?tag={{ tag | url_encode }}" title="{{ tag }}">{{ tag }}</a>
-                        {% endfor %}
-                    </div>
-                    <h1>{{ page.title }}</h1>
-                    {% comment %} always create a h2 for keeping the margin {% endcomment %}
-                    <!--<span class="meta">Posted on {{ page.date | date: "%B %-d, %Y" }}</span>-->
-                </div>
 
     <!-- Post Container -->
             <div class="
@@ -69,7 +61,7 @@ comments: true
 
 <!-- add support for comments by Disqus-->
 {% if site.disqus_username %}
-<!-- disqus 公共JS代码 start (一个网页只需插入一次) -->
+<!-- disqus start  -->
 <script type="text/javascript">
     /* * * CONFIGURATION VARIABLES * * */
     var disqus_shortname = "{{site.disqus_username}}";
@@ -81,6 +73,6 @@ comments: true
         (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
     })();
 </script>
-<!-- disqus 公共JS代码 end -->
+<!-- disqus end -->
 {% endif %}
 
