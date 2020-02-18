@@ -4,9 +4,7 @@ title:  "Web 3.0 – The Intelligent Web"
 date:   2019-04-11
 header-style: text
 lang: en
-tags:
-  - Technology
-  - Management
+tags: Product
 ---
 Pace of innovation in computing has been remarkable since the development of first electronic computer called ENIAC in 1945. ENIAC was designed to calculate artillery firing tables for the US Army. In 1969, ARPANET was created which was the first packet switching network using TCP/IP protocol. In 1981, TCP/IP protocol was standardized for Internet communication and it opened door for 'World Wide Web'. After the creation on WWW in 1989, web 1.0 came which was all about static web pages. The first web server and website was founded by Tim Berners-Lee in 1990. Soon thereafter in 1995, Amazon was founded followed by Google. 
 
