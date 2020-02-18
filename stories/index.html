@@ -3,13 +3,13 @@ layout: page
 title: Short Stories
 description: “There is no greater agony than bearing an untold story inside you.” - Maya Angelou
 ---
-{% for post in site.posts %}
-<div class="post-preview">
-     <a href="{{ post.url | prepend: site.baseurl }}">
-        <h2 class="post-title">
-            {{ post.title }}
-        </h2>
-    </a>
-</div>
-<hr>
+{% for post in site.tags.Motivation %}
+     <div class="post-preview">
+          <a href="{{ post.url | prepend: site.baseurl }}">
+             <h2 class="post-title">
+                 {{ post.title }}
+             </h2>
+         </a>
+     </div>
+     <hr>
 {% endfor %}
