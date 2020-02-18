@@ -17,31 +17,29 @@ Last time they spoke was 6 years back on their graduation day.
 
 In absolute joy, he swipe the green button.
 
-"Hi Rahul," she said in a low and soothing voice.
+"Hi Rahul," she said in a low voice.
 
-A tear rolled down his eye. All he has been wanting for 6 years was to speak to her, but when the moment was here, he couldn't utter a word. There was a silence, long and expected.
+A tear rolled down his eye. All he has been wanting for 6 years was to speak to her, but when the moment was here, he couldn't speak a word. 
+
+There was a silence, long and expected.
 
 After a pause, he gathered the strength to say, "I'm sorry."
 
 He knew that this was his only chance.
 
-He said it again, "I'm so sorry."
-
 He continued, "I feel sorry every day, every moment for 6 years now. Please forgive me."
 
-She felt the emotion. A thought of forgiveness appeared in her heart for a second, but the wound he had given her was too deep, in front of her eyes, unreheable.
+She felt the emotion. A thought of forgiveness appeared in her heart for a second, but the wound he had given her was too deep, unhealable, always in front of her.
 
-In a strong voice she said, "Rahul, time is a great healer. I've moved on in life and learned how to live alone. Samira wanted to speak to you. It's her birthday. I had promised her that she will speak to her father on her fifth birthday. I never break promises."
+In a strong voice she said, "Rahul, time is a great healer. I've moved on in life and learned how to live alone. Samira wanted to speak to you. I had promised her that she will speak to her father on her fifth birthday. I never break promise."
 
-His hope disappeared in a jiffy. He craved for her even more, like a child who catcall for a toy its parents can't afford.
+The hope of getting her back fainted in a jiffy. He craved for her like a child who catcall for a toy its parents can't afford.
 
 Ruefully he replied, "I was helpless. Mom and dad were about to commit suicide. I had to choose between you and them. I made a mistake."
 
-"It wasn’t just a mistake, you ruined my life." She replied angrily.
+"It was a mistake for you, but it ruined my life." She replied.
 
 "I was just 20 when I was pregnant. It wasn’t my baby alone, but only I suffered. I know you loved me, but you choose to love your parents more. That was your decision, now it’s my turn. Sorry, I can't forgive you."
-
-He couldn’t say a word more.
 
 Next, it was Samira on phone.
 
