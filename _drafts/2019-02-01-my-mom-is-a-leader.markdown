@@ -4,9 +4,7 @@ title:  "My mom is a leader"
 date:   2019-02-01
 header-style: text
 lang: en
-tags:
-  - Leadership
-  - Motivation
+tags: Story
 ---
 One day while reading about different styles of leaderships, I got to know there is something called 'Paternalistic' style of leadership.
 
