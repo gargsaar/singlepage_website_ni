@@ -50,8 +50,8 @@ kramdown:
 # make sure you have this gem installed
 # `$ gem install jekyll-paginate`
 plugins: [jekyll-paginate]
-paginate: 4
-paginate_path: "/blog/page:num/"
+#paginate: 4
+#paginate_path: "/blog/page:num/"
 
 # Google Analytics
 #ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
