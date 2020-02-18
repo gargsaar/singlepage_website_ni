@@ -4,8 +4,7 @@ title:  "The Lost Coin"
 date:   2019-09-22
 header-style: text
 lang: en
-tags:
-  - Short Story
+tags: Story
 ---
 Appa disappeared, although, his body was there in front of me on the hospital bed. Through tears, I recalled the hard truth that life had taught me, and I smiled. And once again, I hoped the desperation will disappear soon like it had 30 years ago when I was 17 years old.
 
