@@ -6,6 +6,12 @@ description: "The Blog of Sarthak Garg"
 
 {% for post in paginator.posts %}
 <div class="post-preview">
+    <div class="tags">
+                        {% for tag in page.tags %}
+                        <a class="tag" href="{{ site.baseurl }}/archive/?tag={{ tag | url_encode }}" title="{{ tag }}">{{ tag }}</a>
+                        {% endfor %}
+    </div>
+    
     <a href="{{ post.url | prepend: site.baseurl }}">
         <h2 class="post-title">
             {{ post.title }}
