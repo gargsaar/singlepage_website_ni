@@ -1,0 +1,23 @@
+---
+layout: page
+title: Startup Hub
+description: “If everything seems under control, you're not going fast enough.” - Mario Andretti
+---
+
+{% for post in site.tags.Startup %}
+          <div class="post-preview">
+               <a href="{{ post.url | prepend: site.baseurl }}">
+                  <h2 class="post-title">
+                      {{ post.title }}
+                  </h2>
+                  <div class="post-content-preview">
+                      {% if post.lang == 'en' %}
+                          {{ post.content | strip_html | truncate:200 }}
+                      {% else %}
+                          {{ post.content | strip_html | truncate:150 }}
+                      {% endif %}
+                  </div>
+              </a>
+          </div>
+          <hr>
+{% endfor %}     
