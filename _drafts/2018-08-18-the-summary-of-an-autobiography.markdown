@@ -4,11 +4,7 @@ title:  "The Summary Of An Autobiography"
 date:   2019-08-18
 header-style: text
 lang: en
-tags:
-  - Creative Writing
-  - General
-  - Motivation
-  - Humor
+tags: Story
 ---
 Imagined the summary of a to be written autobiography.
 
