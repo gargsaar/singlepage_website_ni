@@ -1,12 +1,16 @@
 # Site settings
 title: iStandpoint
-SEOTitle: Sarthak Blog
+SEOTitle: The Blog of Sarthak Garg
+header-img: img/home-bg.jpg
 name: Sarthak Garg
 email: gargsaar@gmail.com
-description: Personal blog and portfolio website for SARTHAK GARG | Product Manager | Creative Writer | Runner | Freelancer
-keywords: blog, Sarthak blog, iStandpoint, creative writing, content writer, runner, product manager, Sarthak Garg, Sarthak
+description: Personal blog and portfolio website for SARTHAK GARG | Product Manager | Creative Writer | Startup Enthusiast | Freelancer
+keywords: blog, product management, creative writing, short stories, data science, machine learning, artificial intelligence, startup
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://sarthakgarg.com" # the base hostname & protocol for your site, e.g. http://example.com
+
+# Publish posts or collection documents with a future date.
+future: true
 
 #Social Media Settings
 twitter_username: gargsaar
@@ -16,8 +20,6 @@ linkedin_username: sarthak-garg-0997a418
 # Disqus settings
 disqus_username: sg-istandpoint
 
-# Publish posts or collection documents with a future date.
-future: true
 
 # Build settings
 # from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
@@ -50,6 +52,10 @@ kramdown:
 plugins: [jekyll-paginate]
 paginate: 4
 paginate_path: "/blog/page:num/"
+
+# Google Analytics
+#ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
+#ga_domain: 
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
