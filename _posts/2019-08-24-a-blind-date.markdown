@@ -4,9 +4,7 @@ title:  "A Blind Date"
 date:   2019-08-24
 header-style: text
 lang: en
-tags:
-  - Short Story
-  - Humor
+tags: [Story, Humor]
 ---
 Wikipedia says, a blind date is a social engagement between two people who have not previously met, usually arranged by a mutual acquaintance. 
 
