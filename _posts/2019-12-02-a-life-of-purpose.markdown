@@ -4,7 +4,8 @@ title:  "A Life Of Purpose"
 date:   2019-12-02
 header-style: text
 lang: en
-tags: Story
+tags: [Story, Humor, Motivation]
+categories: story
 ---
 William Shakespeare said, “all the world’s a stage, and all the men and women merely players who have their entrances and exits;” It’s a beautiful quote that defines the phenomenon of nature — entrances and exists, but I believe, that’s not important; what’s important is the purpose.
 
