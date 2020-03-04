@@ -59,7 +59,7 @@ paginate_path: "/page:num/"
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "I'm Sarthak! A startup enthusiast and creative writer. I believe Only thing real is Love.
+sidebar-about-description: "I'm Sarthak! A startup enthusiast and creative writer. I believe Only thing real is Love."
 sidebar-avatar: /assets/images/6.jpg     # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
