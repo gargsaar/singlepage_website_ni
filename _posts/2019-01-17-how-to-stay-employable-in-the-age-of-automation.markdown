@@ -8,12 +8,12 @@ description: >-
   To stay relevant in the future or win the battle of employability against machines, humanity as a whole, will have to upgrade.
 lang: en
 image: >-
-  /assets/images/startup-bg.jpg
+  /assets/images/post_images/automation.jpg
 optimized_image: >-
-  /assets/images/startup-bg.jpg
+  /assets/images/post_images/automation.jpg
 lang: en
-tags: [Motivation]
-categories: Motivation
+tags: [Motivation, AI]
+category: Thought
 author: sarthakgarg
 paginate: true
 ---
