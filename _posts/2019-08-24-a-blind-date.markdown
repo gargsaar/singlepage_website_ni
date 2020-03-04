@@ -5,6 +5,7 @@ date:   2019-08-24
 header-style: text
 lang: en
 tags: [Story, Humor]
+categories: story
 ---
 Wikipedia says, a blind date is a social engagement between two people who have not previously met, usually arranged by a mutual acquaintance. 
 
