@@ -5,11 +5,6 @@
           <svg><use xlink:href="#icon-github"></use></svg>
         </a>
       {% endif %}
-      {% if site.facebook_username %}
-        <a href="https://www.facebook.com/{{ site.facebook_username }}" title="Facebook">
-          <svg><use xlink:href="#icon-facebook"></use></svg>
-        </a>
-      {% endif %}
       {% if site.twitter_username %}
         <a href="https://twitter.com/{{ site.twitter_username }}" title="Twitter">
           <svg><use xlink:href="#icon-twitter"></use></svg>
@@ -35,16 +30,13 @@
     {% include links.html %}
 
     <p>
-      <span>Jekflix</span> was made with <svg class="love"><use xlink:href="#icon-heart"></use></svg> by <a href="https://rossener.com" target="_blank" class="creator">Thiago Rossener</a>
+      <span>iStandpoint</span> was made with <svg class="love"><use xlink:href="#icon-heart"></use></svg> by <a href="https://sarthakgarg.com" target="_blank" class="creator">Sarthak Garg</a>
     </p>
 </footer>
 
 {% assign social_urls = '' %}
 {% if site.github_username %}
     {% assign social_urls = social_urls | append: '"https://github.com/' | append: site.github_username | append: '",' %}
-{% endif %}
-{% if site.facebook_username %}
-    {% assign social_urls = social_urls | append: '"https://www.facebook.com/' | append: site.facebook_username | append: '",' %}
 {% endif %}
 {% if site.twitter_username %}
     {% assign social_urls = social_urls | append: '"https://twitter.com/' | append: site.twitter_username | append: '",' %}
