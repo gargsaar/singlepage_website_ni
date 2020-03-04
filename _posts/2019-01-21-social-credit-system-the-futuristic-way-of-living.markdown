@@ -1,11 +1,18 @@
 ---
 layout: post
-title:  "Gamified Obedience – The Futuristic Way Of Living"
+title:  "Social Credit System – The Futuristic Way Of Living"
 date:   2019-01-21
 header-style: text
+subtitle: Social Credit System (SCS) to rate the trustworthiness of citizens - is it justified?
+description: >-
+  We are living in a world where many of our daily activities are constantly monitored to understand us and our behaviour. what do you     think of this? Are you in for gamified obedience?
 lang: en
-tags: Analytics
-categories: data-science
+image: >-
+  /assets/images/post_images/gamified-obedience.jpg
+optimized_image: >-
+  /assets/images/post_images/gamified-obedience.jpg
+tags: [AI, Thought]
+categories: Thought
 ---
 We are living in a world where many of our daily activities are constantly monitored: what we buy at the shops and online; where we are at any given time; who our friends are and how we interact with them; what kind of videos we watch and how long; what bills and taxes we pay (or not); etc, thanks to all the data-collecting behemoths like Google, Facebook, Amazon, Instagram or health-tracking apps such as Fitbit, Apple Watch, etc.
 
