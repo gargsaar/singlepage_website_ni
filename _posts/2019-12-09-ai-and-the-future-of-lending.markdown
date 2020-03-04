@@ -11,8 +11,8 @@ image: >-
   /assets/images/datascience-bg.jpg
 optimized_image: >-
   /assets/images/datascience-bg.jpg
-tags: [Analytics, Product, AI, ML]
-categories: data-science
+tags: [Analytics, Lending, AI]
+categories: Product
 author: sarthakgarg
 paginate: true
 ---
