@@ -4,7 +4,7 @@ SEOTitle: The Blog of Sarthak Garg
 header-img: assets/images/home-bg.jpg
 name: Sarthak Garg
 email: gargsaar@gmail.com
-description: Personal blog and portfolio website for SARTHAK GARG | Product Manager | Creative Writer | Startup Enthusiast | Freelancer
+description: Personal blog on product management, startups, data science, machine learning, artificial intelligence, and short stories
 keywords: blog, product management, creative writing, short stories, data science, machine learning, artificial intelligence, startup
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://sarthakgarg.com" # the base hostname & protocol for your site, e.g. http://example.com
@@ -59,8 +59,8 @@ paginate_path: "/page:num/"
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Only thing real is Love."
-sidebar-avatar: /assets/images/Profile_Pic-277x300.jpg     # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "I'm Sarthak! A startup enthusiast and creative writer. I believe Only thing real is Love.
+sidebar-avatar: /assets/images/6.jpg     # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 # Featured Tags
