@@ -13,7 +13,7 @@ optimized_image: >-
   /assets/images/post_images/automation.jpg
 lang: en
 tags: [Motivation, AI]
-category: Thought
+category: thought
 author: sarthakgarg
 paginate: true
 ---
