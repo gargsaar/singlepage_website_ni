@@ -3,9 +3,19 @@ layout: post
 title:  "How to stay employable in the age of automation"
 date:   2019-01-17
 header-style: text
+subtitle: AI will replace humans, but the change will be for good
+description: >-
+  To stay relevant in the future or win the battle of employability against machines, humanity as a whole, will have to upgrade.
 lang: en
-tags: [Startup, Motivation]
-categories: startup
+image: >-
+  /assets/images/startup-bg.jpg
+optimized_image: >-
+  /assets/images/startup-bg.jpg
+lang: en
+tags: [Motivation]
+categories: Motivation
+author: sarthakgarg
+paginate: true
 ---
 *“A man who can be replaced by a machine, will be.”*
 
