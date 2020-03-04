@@ -4,7 +4,8 @@ title:  "How to stay employable in the age of automation"
 date:   2019-01-17
 header-style: text
 lang: en
-tags: Startup
+tags: [Startup, Motivation]
+categories: startup
 ---
 *“A man who can be replaced by a machine, will be.”*
 
