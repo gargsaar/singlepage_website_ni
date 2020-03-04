@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "A Life Of Purpose"
+title:  "The Purpose of Life"
 date:   2019-12-02
 header-style: text
 lang: en
