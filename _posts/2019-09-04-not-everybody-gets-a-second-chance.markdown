@@ -14,7 +14,7 @@ When he was about to leave for office, around 10 in the morning, his phone rang.
 
 Last time they spoke was 6 years back on their graduation day. 
 
-In absolute joy, he swipe the green button.
+In absolute joy, he swiped the green button.
 
 "Hi Rahul," she said in a low voice.
 
