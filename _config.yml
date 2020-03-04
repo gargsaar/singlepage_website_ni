@@ -1,15 +1,16 @@
 # Site Settings
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by Thiago Rossener.
+name: iStandpoint
+title: iStandpoint | The Blog of Sarthak Garg
+description: Blog on product management, startups, data science, machine learning, artificial intelligence, and short stories by Sarthak Garg
 tags:
   - blog
-  - template
+  - product management
   - jekyll
-  - theme
-  - netlify
-email: youremail@xyz.com
-disqus_username: disqus_username
+  - data science
+  - short stories
+  - startups
+email: gargsaar@gmail.com
+disqus_username: sg-istandpoint
 show_hero: true
 menu:
   - title: Home
@@ -24,12 +25,11 @@ menu:
 
 # Social Media Settings
 # Remove the item if you don't need it
-github_username: github_username
-facebook_username: facebook_username
-twitter_username: twitter_username
-instagram_username: instagram_username
-linkedin_username: linkedin_username
-medium_username: medium_username
+github_username: gargsaar
+twitter_username: gargsaar
+instagram_username: gargsaar
+linkedin_username: sarthak-garg-0997a418
+medium_username: gargsaar
 
 
 # Posts Settings
