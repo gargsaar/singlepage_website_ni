@@ -5,6 +5,8 @@ date:   2019-09-04
 header-style: text
 lang: en
 tags: Story
+categories: story
+permalink: /:categories/:title:output_ext
 ---
 Rahul works with IBM, New York. It has been 6 years since he moved to the US right after his graduation. He is single and lives with his parents. It's his birthday today. He has planned to take his mom and dad out for a dinner after a long time. He doesn't speak to them much. Like every year, he tried calling Tina as the first thing on his birthday. She didn't answer the call. 
 
