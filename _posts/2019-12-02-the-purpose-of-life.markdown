@@ -6,7 +6,7 @@ header-style: text
 lang: en
 subtitle: We all have our entrances and exits, but that’s not important; what’s important is the purpose
 description: >-
-  The purpose of life could be anything. It could be as small as to exercise every day to live a healthy life, or as big as to   build a shelter home by saving enough from your not-so-enough salary. Key take away is - there has to be a purpose in life.
+  We all have our entrances and exits, but that’s not important; what’s important is the purpose
 image: >-
   /assets/images/post_images/purpose.jpeg
 optimized_image: >-
