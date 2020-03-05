@@ -6,7 +6,7 @@ header-style: text
 lang: en
 subtitle: It's difficult when you don't get a second chance, so make the most of first - always
 description: >-
-  It's difficult when you don't get a second chance, so make the most of first - always.
+  It's difficult when you don't get a second chance, so make the most of first - always
 image: >-
   /assets/images/post_images/sorrow.png
 optimized_image: >-
