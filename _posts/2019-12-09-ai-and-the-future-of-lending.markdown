@@ -5,14 +5,14 @@ date:   2019-12-09
 header-style: text
 subtitle: Artificial Intelligence can improve customer experience throughout the loan life-cycle.
 description: >-
-  The proliferation of technology along with deep business expertise can help FIs examine their businesses and find answers to complex     questions that typically remained unanswered today, for example - how to assess risk.
+  The proliferation of technology along with deep business expertise can help FIs examine their businesses and find answers to   complex questions that typically remained unanswered today, for example - how to analyze behavior to assess risk.
 lang: en
 image: >-
-  /assets/images/datascience-bg.jpg
+  /assets/images/post_images/behavior.jpeg
 optimized_image: >-
-  /assets/images/datascience-bg.jpg
-tags: [Analytics, Lending, AI]
-categories: Product
+  /assets/images/post_images/behavior.jpeg
+tags: [Analytics, Lending]
+category: ai
 author: sarthakgarg
 paginate: true
 ---
