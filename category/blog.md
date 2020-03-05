@@ -1,7 +1,7 @@
 ---
 layout: category
-title: Blog
-slug: blog
-description: A category for general blog posts.
+title: Product Management
+slug: product
+description: A category for product management related posts.
 ---
 
