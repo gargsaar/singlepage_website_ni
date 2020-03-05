@@ -4,9 +4,9 @@ title:  "Despair can disappear in an instant"
 date:   2019-09-22
 header-style: text
 lang: en
-subtitle: The very things that make us happy – are also the cause of unhappiness, because they are gone, we sink into sorrow
+subtitle: The very things that make us happy – are also the cause of unhappiness, because they are gone and we sink into sorrow
 description: >-
-  The very things that make us happy – are also the cause of unhappiness, because they are gone, we sink into sorrow
+  The very things that make us happy – are also the cause of unhappiness, because they are gone and we sink into sorrow
 image: >-
   /assets/images/post_images/unpredictable.jpg
 optimized_image: >-
