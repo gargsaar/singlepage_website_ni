@@ -5,14 +5,14 @@ date:   2019-01-21
 header-style: text
 subtitle: Social Credit System (SCS) to rate the trustworthiness of citizens - is it justified?
 description: >-
-  We are living in a world where many of our daily activities are constantly monitored to understand us and our behaviour. what do you     think of this? Are you in for gamified obedience?
+  We are living in a world where many of our daily activities are constantly monitored to understand us and our behaviour. what do you think of this? Are you in for gamified obedience?
 lang: en
 image: >-
   /assets/images/post_images/gamified-obedience.jpg
 optimized_image: >-
   /assets/images/post_images/gamified-obedience.jpg
 tags: [AI, Thought]
-categories: Thought
+categories: ai
 ---
 We are living in a world where many of our daily activities are constantly monitored: what we buy at the shops and online; where we are at any given time; who our friends are and how we interact with them; what kind of videos we watch and how long; what bills and taxes we pay (or not); etc, thanks to all the data-collecting behemoths like Google, Facebook, Amazon, Instagram or health-tracking apps such as Fitbit, Apple Watch, etc.
 
@@ -26,4 +26,4 @@ If you are thinking it only happens in TV serials, no this is happening in real.
 
 The Chinese government is pitching the system as a desirable way to measure and enhance "trust" nationwide and to build a culture of "sincerity". The new system reflects a cunning paradigm shift. As we've noted, instead of trying to enforce stability or conformity with a big stick and a good dose of top-down fear, the government is attempting to make obedience feel like gaming. It is a method of social control dressed up in some points-reward system where there will be only one rule or the overriding principle: "If trust is broken in one place, restrictions are imposed everywhere". It's gamified obedience.
 
-The big question is what do you think of this? Are you in for gamified obedience?
+The big question is what do you think of this? Are you in this kind of evolution? Are you in for gamified obedience?
