@@ -18,7 +18,7 @@ paginate: true
 ---
 Wikipedia says, a blind date is a social engagement between two people who have not previously met, usually arranged by a mutual acquaintance. 
 
-The mutual acquaintance in my case was Mr. Vijay Makhani whom I know for years now. He was an engineering by qualification and a matchmaker by profession. Why he left his engineer job to be a matchmaker was a mystery. Maybe he took Queen Elizabeth a little too seriously who once said, "at its heart, engineering is about using science to find creative and practical solutions." And he did exactly that. People said, he had developed some kind of algorithm to analyse and match profiles. No wonder, why he had an unprecedented record of successful marriages.
+The mutual acquaintance in my case was Mr. Vijay Makhani whom I knew for years now. He was an engineering by qualification and a matchmaker by profession. Why he left his engineer job to be a matchmaker was a mystery. Maybe he took Queen Elizabeth a little too seriously who once said, "at its heart, engineering is about using science to find creative and practical solutions." And he did exactly that. People said, he had developed some kind of algorithm to analyse and match profiles. No wonder, why he had an unprecedented record of successful marriages.
 
 I was a prospect for Vijay uncle since the day he had fixed Kaku's marriage, my brother. It was quite strange for Kaku to agree for an arranged marriage as all I know that one thing he had to never worry about in his life was girls, he always had in plenty. Unlike Kaku, I was always single. I was in second year of job and bored of my monotomous life. In-fact, I never wanted to be an engineer, neither by qualification and nor by profession. 
 
