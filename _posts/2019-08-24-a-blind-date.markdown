@@ -6,7 +6,7 @@ header-style: text
 lang: en
 subtitle: Life is full of surprises, mostly good
 description: >-
-  Next sixty minutes was the most beautiful time of my life. I had the best blind date possible.
+  Life is full of surprises, mostly good. Next sixty minutes was the most beautiful time of my life.
 image: >-
   /assets/images/post_images/surprise.png
 optimized_image: >-
