@@ -5,7 +5,7 @@ date:   2019-01-21
 header-style: text
 subtitle: Social Credit System (SCS) to rate the trustworthiness of citizens - is it justified?
 description: >-
-  We are living in a world where many of our daily activities are constantly monitored to understand us and our behaviour. what do you think of this? Are you in for gamified obedience?
+  We are living in a world where many of our daily activities are constantly monitored to understand us and our behaviour.       What do you think of this? Are you in for gamified obedience?
 lang: en
 image: >-
   /assets/images/post_images/gamified-obedience.jpg
