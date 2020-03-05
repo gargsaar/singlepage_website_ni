@@ -11,7 +11,7 @@ image: >-
   /assets/images/post_images/prioritize.png
 optimized_image: >-
   /assets/images/post_images/prioritize.png
-tags: [Management]
+tags: [Management, Product]
 category: product
 author: sarthakgarg
 paginate: true
