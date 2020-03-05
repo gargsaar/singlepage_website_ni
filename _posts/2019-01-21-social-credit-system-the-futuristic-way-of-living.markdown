@@ -12,7 +12,7 @@ image: >-
 optimized_image: >-
   /assets/images/post_images/gamified-obedience.jpg
 tags: [General]
-categories: ai
+category: ai
 author: sarthakgarg
 paginate: true
 ---
