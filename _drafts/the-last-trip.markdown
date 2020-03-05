@@ -32,3 +32,5 @@ There was no body who could reveal the secret, neither his parents nor teachers.
 The day arrived soon. Ada’s mother convinced his mother for Ada to join his private math tuition. They talked, became friends and started spending time in his porch and her balcony for hours discussing everything, but maths. His longing for her wasn’t love, or anything else, but merely a quest.
 
 Mrinalini was mortally afraid of death. Although, the reasons were many, but the thought that was scaring her the most was - have I done enough that I can die? This feeling was making the death terrifying for her each passing day. She was in the last stages of cancer nearing death. She wanted to do many things. If many were not possible, at-least one thing. And that was to gift her husband their first baby who was in her womb.
+
+---
