@@ -1,10 +1,20 @@
 ---
 layout: post
 title:  "Life without an underwear"
-date:   2019-08-11
+date:   2020-02-21
 header-style: text
 lang: en
-tags: Story
+subtitle: An intricate characteristic of humans in general is that we don't value things we get easily
+description: >-
+  An intricate characteristic of humans in general is that we don't value things we get easily
+image: >-
+  /assets/images/post_images/evolution.jpeg
+optimized_image: >-
+  /assets/images/post_images/evolution.jpeg
+tags: [Humor, Empathy]
+category: life
+author: sarthakgarg
+paginate: true
 ---
 An intricate characteristic of humans in general is that we don't value things we get easily. For example, our underwear. Have you ever thought how important an underwear is in our lives. It may occur to you that an underwear is just a piece of cloth, but pause for a moment and imagine your lives without an underwear. 
 
