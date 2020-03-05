@@ -4,8 +4,17 @@ title:  "A Blind Date"
 date:   2019-08-24
 header-style: text
 lang: en
-tags: [Story, Humor]
-categories: story
+subtitle: Life is full of surprises, some good, some bad
+description: >-
+  Next sixty minutes was the most beautiful time of my life. I had the best blind date possible.
+image: >-
+  /assets/images/post_images/surprise.png
+optimized_image: >-
+  /assets/images/post_images/surprise.png
+tags: [Short Story, Humor]
+category: life
+author: sarthakgarg
+paginate: true
 ---
 Wikipedia says, a blind date is a social engagement between two people who have not previously met, usually arranged by a mutual acquaintance. 
 
@@ -37,4 +46,4 @@ I entered her room. The room was colourful and bright. Walls were nicely decorat
 
 To my surprise, she was not alone. She was with Riya. Her best friend, and my school mate who had a crush on me. The laddoo in my heart split into two.
 
-Next thirty minutes was the most beautiful time of my life. I had the best blind date possible. It was a date with just not one, but two beautiful girls. One who liked me and the other whom I liked.
+Next sixty minutes was the most beautiful time of my life. I had the best blind date possible. It was a date with just not one, but two beautiful girls. One who liked me and the other whom I liked.
