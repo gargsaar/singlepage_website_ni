@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Life
+title: Life Lessons
 slug: life
-description: A category for life related posts.
+description: A category for life related or motivational posts.
 ---
