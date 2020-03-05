@@ -1,13 +1,22 @@
 ---
 layout: post
-title:  "The Lost Coin"
+title:  "Despair can disappear in an instant"
 date:   2019-09-22
 header-style: text
 lang: en
-tags: [Story, Empathy]
-categories: story
+subtitle: The very things that make us happy – are also the cause of unhappiness, because they are gone, we sink into sorrow
+description: >-
+  The very things that make us happy – are also the cause of unhappiness, because they are gone, we sink into sorrow
+image: >-
+  /assets/images/post_images/unpredictable.jpg
+optimized_image: >-
+  /assets/images/post_images/unpredictable.jpg
+tags: [Short Story, Empathy]
+category: life
+author: sarthakgarg
+paginate: true
 ---
-Appa disappeared, although, his body was there in front of me on the hospital bed. Through tears, I recalled the hard truth that life had taught me, and I smiled. And once again, I hoped the desperation will disappear soon like it had 30 years ago when I was 17 years old.
+Appa disappeared, his body was there in front of me on the hospital bed. Through tears, I recalled the hard truth that he had taught me. Despair will disappear soon like it had 30 years ago when I was 17 years old.
 
 It was a usual Monday morning, sky was clear, and Appa was at the breakfast table, precisely at seven.
 
@@ -15,9 +24,11 @@ Appa was a quiet man who lives in his own world that starts and ends with ‘Coc
 
 I was late, by 5 minutes. He continued eating without looking at me. I turned, startled, to find a large cauliflower-shaped lady, Amma, loomed over me to put a Palappam in my plate. I looked at her with the ugliest face possible, and shouted with my eyes, "Palappam, not again!"
 
-I wondered why Appa was so obsessed with Palappam. He ate Palappam – night and day. I closed my eyes to ask Achamma, my deceased grandma who was enjoying chicken in heaven, “Why?” Even she didn’t know why Appa was so content and boring. I liked chicken, but who cared what I liked.
+I wondered why Appa was so obsessed with Palappam. He ate Palappam – night and day. I closed my eyes to ask Achamma, my deceased grandma who was enjoying chicken in heaven, “Why?” Even she didn’t know why Appa was so content. I liked chicken, but who cared what I liked.
 
-When I was just about to finish the first Palappam, Appa was done. I wanted to have one more, but he’d not wait. I hated him as he never cared what I wanted. I looked at Amma who stood close-by. She had a steel glass in her hand, filled with filter coffee. I wanted her to throw the glass on Appa’s head to break it into two. His head, not the glass. She did nothing. I wished she had the courage to at-least think about it. By the virtue of attaining adulthood next year, I had the courage, but I kept silent for two reasons:
+When I was just about to finish the first Palappam, Appa was done. I wanted to have one more, but he’d not wait. I hated Appa. He never cared what I wanted. He didn't love me. 
+
+I looked at Amma who stood close-by. She had a steel glass in her hand, filled with filter coffee. I wanted her to throw the glass on Appa’s head to break it into two. His head, not the glass. She did nothing. I wished she had the courage to at-least think about it. By the virtue of attaining adulthood next year, I had the courage, but I kept silent for two reasons.
 
 First, I didn’t want to walk for 4 kilometres as I wanted to conserve energy for the dance competition. Second, I didn't want to miss the ride as it was the only time when I learned - how he drives Activa, our scooter, and his only thing I was interested in. 
 
@@ -35,7 +46,7 @@ The evening turned dull, and overcast. I reached home to find Amma sitting silen
 
 “We lost!” I said, casually. 
 
-“Then why are you so happy?” she exclaimed. She stared at me, bamboozled. 
+“Then why are you not sad?” she stared at me, bamboozled. 
 
 “Why is Appa sherlock?” I asked in an attempt to change the topic.
 
@@ -57,7 +68,7 @@ He looked at Amma as if he will bite her with his eyes, but didn’t say anythin
 
 But I knew. I couldn’t believe it was his. For a person who had never stepped out of Kollam, how did he get the coin? And, why was the coin so special? 
 
-I badly wanted the answers, so I closed my eyes. We couldn’t connect. Maybe, Achamma was busy holidaying on a beach, hence, not reachable.
+I badly wanted the answers, so I closed my eyes. We couldn’t connect. Maybe, Achamma was busy holidaying on a beach, not reachable.
 
 “Life is uncertain, apt to spring a nasty surprise when you least expect it.” I thought, with a nasty smile. For the first time in my life I had something that he wanted. I was in seventh heaven. Finally, the time had come to take revenge. “Swear to all the Palappam I couldn’t eat, I’ll never give it to him,” I muttered.
 
@@ -77,21 +88,19 @@ He came in, sat next to me, and said:
 
 He took the coin out from his pocket, and enclosed it in his fist.
 
-“Your grandpa gave me this coin on his deathbed. He got it from a merchant who believed it can change things, and so it did, like magic. I’ve slogged for years committed to an unvarying routine. My days merged into one indistinguishable blur of eating, sleeping, and getting up, for just one purpose - to give you a life. This coin brought luck that changed my life, and since then, it’s always there with me.”
+“Your grandpa gave me this coin on his deathbed. He got it from a merchant who believed it can change things, and so it did. This coin brought luck that changed my life, and since then, it’s always there with me.”
 
 A sadness appeared on his face as he remembered his father.
 
-In a low voice, he said:
-
-“When I lost the coin, I got scared that the magic will vanish. No matter how ugly the past was, it may return, and this is not what you wish. The very things that make you happy – are also the cause of unhappiness, because the moment these underpinnings are taken away, your happiness crumbles and you cannot help sinking into sorrow.”
+In a low voice, he said, “When I lost the coin, I got scared that the luck will vanish. No matter how ugly the past was, it may return, and this is not what you wish. The very things that make you happy – are also the cause of unhappiness, because the moment these underpinnings are taken away, your happiness crumbles and you cannot help sinking into sorrow.”
 
 He lowered his face, and paused for a moment. After a while, he resumed with an unprecedented confidence in his voice.
 
-“What I did today, can’t be changed. But what I can change is - our future. All my life, I’ve continually lived in an urge to earn and grow, without realizing what will I do with this life - without you. In this world where everything perishes, I forgot that I can get imperishable happiness in just one thing, you, my love. The thought of losing you scared me so much that I’m not scared of anything now.” His eyes got wet.
+“All my life, I thought the magic is in the coin without realising the magic is in us. In this world where everything perishes, I forgot that I can get imperishable happiness in just you. What will I do if I don't have you. What I did today, can’t be changed. But what I can change is - tomorrow.”
 
 He took my hand, placed the coin on my palm, and closed the fingers. 
 
-“This is the only thing I have of my father. It's very close to my heart and will always be. Take care of it.” 
+“This is the only thing I have of Appa. Take care of it.” 
 
 He kissed me on the forehead, and left the room.
 
