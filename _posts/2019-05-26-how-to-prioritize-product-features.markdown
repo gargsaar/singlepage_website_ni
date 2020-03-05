@@ -6,7 +6,7 @@ header-style: text
 lang: en
 subtitle: How to prioritize features for agile product development
 description: >-
-  A framework for prioritizing new features into your product by using a simple 2x2 grid of Business Value versus Implementation Complexity.
+  A framework for prioritizing new features into your product by using a simple grid of Business Value versus Implementation Complexity
 image: >-
   /assets/images/post_images/prioritize.png
 optimized_image: >-
