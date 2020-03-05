@@ -16,9 +16,9 @@ category: life
 author: sarthakgarg
 paginate: true
 ---
-Appa disappeared, his body was there in front of me on the hospital bed. Through tears, I recalled the hard truth that he had taught me. Despair will disappear soon like it had 30 years ago when I was 17 years old.
+Appa disappeared, his body was lying in front of me on the hospital bed. Through tears, I recalled the hard truth that he had taught me, "despair will disappear soon," like it had 30 years ago when I was 17 years old.
 
-It was a usual Monday morning, sky was clear, and Appa was at the breakfast table, precisely at seven.
+It was a usual Monday morning, sky was clear, and Appa at the breakfast table, precisely at seven.
 
 Appa was a quiet man who lives in his own world that starts and ends with ‘Coco Exports’. A simple business to export coconuts outside Kerela. Appa enjoyed his prosperity with considerable pride. He always said, “This wealth hasn’t struck suddenly like a visitation, but instead grown it gradually like a tree. I have ploughed it with my sweat.”
 
@@ -30,11 +30,11 @@ When I was just about to finish the first Palappam, Appa was done. I wanted to h
 
 I looked at Amma who stood close-by. She had a steel glass in her hand, filled with filter coffee. I wanted her to throw the glass on Appa’s head to break it into two. His head, not the glass. She did nothing. I wished she had the courage to at-least think about it. By the virtue of attaining adulthood next year, I had the courage, but I kept silent for two reasons.
 
-First, I didn’t want to walk for 4 kilometres as I wanted to conserve energy for the dance competition. Second, I didn't want to miss the ride as it was the only time when I learned - how he drives Activa, our scooter, and his only thing I was interested in. 
+First, I didn’t want to walk for 4 kilometres as I wanted to conserve energy for the dance competition. Second, I didn't want to miss the ride as it was the only time when I learned how he drives Activa, our scooter, and his only thing I was interested in. 
 
 Appa took the same route every day. I knew the shortcut that could have saved us from the scorching heat, but who cared what I knew. He didn’t like me. Maybe, he was upset with what I did to him. 
 
-I was the first girl in my family after eight cousin brothers, so Achamma was extremely happy with the news of my birth. She was so excited to see me that she ran towards the hospital room with all enthusiasm. She was a strong woman. She banged the door with full power. Appa, who was standing behind the door, fell flat on the ground, thrashed by Achamma’s sudden attack. He broke his nose, and the news of my birth became a breaking news for him, literally. From a distance his nose looked ok, but up close it was bent towards a side. I thought, he must be happy with his peculiar nose that made him famous, but who cared what I thought.
+I was the first girl in my family after eight cousin brothers. Achamma was extremely happy with the news of my birth. She was so excited to see me that she ran towards the hospital room with all enthusiasm. She was a strong woman. She banged the door with full power. Appa, who was standing behind the door, fell flat on the ground, thrashed by Achamma’s sudden attack. He broke his nose, and the news of my birth became a breaking news for him, literally. From a distance his nose looked ok, but up close it was bent towards a side. I thought, he must be happy with his peculiar nose that made him famous, but who cared what I thought.
 
 Lost in his nose, I didn’t realise we reached Gate 4, Kendriya Vidhayala. Activa stopped, and in a moment, disappeared. I hoped he would  wish me for the dance competition, but I knew it was a half-hearted hope.
 
@@ -44,7 +44,7 @@ The evening turned dull, and overcast. I reached home to find Amma sitting silen
 
 “How was the competition?” she asked without moving her head. 
 
-“We lost!” I said, casually. 
+“We lost!” I said casually. 
 
 “Then why are you not sad?” she stared at me, bamboozled. 
 
@@ -76,19 +76,17 @@ Appa behaved as if he was in hell, disturbed. He yelled at Amma for the fifth ti
 
 Furiously, she shouted, "Who will put the things back in order, your father?"
 
-He ran towards Amma with a rage in his eyes. Appa is a dark, tall man, a little over middle age, but strong. I never saw him so angry before. I stood up to protect Amma. I opened my fist to show the coin, but I didn’t give. The anger inside him burst into a fury. Then something happened that had never happened. His hand hit my cheek. It sneezed red liquid out from my nose. I still didn’t give. Stung by humiliation, he pushed me to the floor. Terrified by the next thing that could have happened, I threw the coin in front of him. He picked it up and walked away.
+He ran towards Amma with a rage in his eyes. Appa is a dark, tall man, a little over middle age, but strong. I never saw him so angry before. I stood up to protect Amma. I opened my fist to show the coin, but I didn’t give. The anger inside him burst into a fury. Then something happened that had never happened. His hand hit my cheek. It sneezed red liquid out from my nose. Still, I didn’t give. Stung by humiliation, he pushed me to the floor. Terrified by the next thing that could have happened, I threw the coin in front of him. He picked it up and walked away.
 
 I sat on the floor with my eyes closed. I felt miserable as if someone had spit on me. A thunderstorm struck inside me, and outside, it started raining heavily. I couldn’t believe he drew the blood out of his blood, just for a coin. 
 
 The night got dark, but I was still awake. Suddenly, the door of my room opened. I expected Amma, but it was him. He came in and sat next to me.
 
-He came in, sat next to me, and said:
-
-“I know how it feels when you don’t know from where you will get your next meal.” 
+He came in, sat next to me, and said, “I know how it feels when you don’t know from where you will get your next meal.” 
 
 He took the coin out from his pocket, and enclosed it in his fist.
 
-“Your grandpa gave me this coin on his deathbed. He got it from a merchant who believed it can change things, and so it did. This coin brought luck that changed my life, and since then, it’s always there with me.”
+“Appa gave me this coin on his deathbed. He got it from a merchant who believed it can change things, and so it did. This coin brought luck that changed my life, and since then, it’s always there with me.”
 
 A sadness appeared on his face as he remembered his father.
 
