@@ -16,7 +16,7 @@ category: life
 author: sarthakgarg
 paginate: true
 ---
-Rahul works with IBM, New York. It has been 6 years since he moved to the US right after his graduation. He lives with his parents. He hardly speaks to them. Like every year, he was waiting for Tina's call; and like every year, she didn't. It's his birthday today.
+Rahul works with IBM, New York. It has been 6 years since he moved to the US right after his graduation. He lives with his parents. He hardly speaks to them. Like every year, he was waiting for Tina's call; and like every year, she didn't call. It's his birthday today.
 
 Tina lives in Mumbai with her daughter Samira. Back in college, Tina and Rahul were always together. Tina  always stood for her decisions. She was fearless and welcomed the future in all of it’s unknown mystery. Rahul was bright, emotional, and timid. He couldn't go against his parents. As opposite attracts, they too got attracted and fell in love.
 
@@ -28,17 +28,17 @@ In absolute joy, he said, "Hi".
 
 "Hi," she replied in a low voice.
 
-His excitement disappeared in a furry. All he has been wanting for 6 years was to speak to her, but when the moment was here, he couldn't speak a word. 
+All he has been wanting for 6 years was to speak to her, but when the moment was here, he couldn't speak a word. 
 
 A tear rolled down his eye.
 
-He gathered the strength. All to say, "I'm sorry."
+He gathered the strength to say, "I'm sorry."
 
 He knew that this was his only chance.
 
-He continued, "I feel sorry every day, every moment for 6 years now. Please forgive me."
+He continued, "I feel sorry every day, every moment. Forgive me."
 
-She felt the emotion. A thought of forgiveness appeared in her heart for a second, but the wound he had given her was too deep, unhealable, always in front of her.
+A thought of forgiveness appeared in her heart for a second, but the wound he had given her was too deep, unhealable, always in front of her.
 
 In a strong voice she said, "Rahul, time is a great healer. I've moved on in life and learned how to live alone. Samira wanted to speak to you. I had promised her that she will speak to her father on her fifth birthday. I never break promise."
 
@@ -48,7 +48,7 @@ Ruefully he replied, "I was helpless. Mom and dad were about to commit suicide. 
 
 "It was a mistake for you, but it ruined my life." She replied.
 
-"I was just 20 when I was pregnant. It wasn’t my baby alone, but only I suffered. I know you loved me, but you choose to love your parents more. That was your decision, now it’s my turn. Sorry, I can't forgive you."
+"I was 20 when I was pregnant. It wasn’t my baby alone, but only I suffered. I know you love me, but you love your parents more. That was your decision, now it’s my turn. Sorry, I can't forgive you."
 
 Next, it was Samira on phone.
 
@@ -62,6 +62,6 @@ Soaked in love, he didn’t want the call to end. Quickly, he asked, "how is Sam
 
 "What you expect of someone who even shares your birth date. She is exactly like you." she replied and ended the call.
 
-He knew that she will never come back. Give me one more chance, he begged and cried.
+He knew that she will never come back. Give me one more chance, he wished and cried.
 
-*It's difficult when you don't get a second chance. So make the most of first - always.*
+*It's difficult when you don't get a second chance, so make the most of first - always.*
