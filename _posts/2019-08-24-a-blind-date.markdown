@@ -4,7 +4,7 @@ title:  "A Blind Date"
 date:   2019-08-24
 header-style: text
 lang: en
-subtitle: Life is full of surprises, some good, some bad
+subtitle: Life is full of surprises, mostly good
 description: >-
   Next sixty minutes was the most beautiful time of my life. I had the best blind date possible.
 image: >-
