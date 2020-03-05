@@ -42,6 +42,6 @@ That was my moment of awakening. I had realised how ordinary my life was. Kunal 
 
 Success doesn’t come easy or quick, but it’s true that when you want something, all the universe conspires in helping you to achieve it. It took 94 days of perseverance, 8460 minutes of hard work in the gym, and 450 instances of saying no to the outside food to reduce from 91 kgs to 71. Just by having a purpose — to live a healthy life, I was able to achieve it. Though it may seem to be the easiest of the purposes on the planet, but that’s not important. What’s important is — this simple purpose made my ordinary life extraordinary. I’m no longer a guy whose stomach droops over his belt, but an inspiration for my cousins and colleagues for being the only one among them who could do all the obstacles of Devil Circuit.
 
-The purpose could be anything. It could be as small as to exercise every day to live a healthy life, or as big as to build a shelter home by saving enough from your not-so-enough salary. Key take away is - there has to be a purpose in life.
+The purpose could be anything. It could be as small as to exercise every day to live a healthy life, or as big as to build a shelter home by saving enough from your not-so-enough salary. There has to be a purpose in life.
 
-I believe, "the purpose of life is nothing, but to live a life of purpose."
+The purpose of life is to live a life of purpose.
