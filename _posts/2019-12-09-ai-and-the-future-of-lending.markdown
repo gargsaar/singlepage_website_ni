@@ -3,9 +3,9 @@ layout: post
 title:  "AI and the future of lending"
 date:   2019-12-09
 header-style: text
-subtitle: Artificial Intelligence can improve customer experience throughout the loan life-cycle
+subtitle: Artificial Intelligence will drive the customer experience throughout the loan life-cycle
 description: >-
-  The proliferation of technology along with deep business expertise can help FIs examine their businesses and find answers to   complex questions that typically remained unanswered today, for example - how to analyze behavior to assess risk.
+  Artificial Intelligence will find answers to questions unanswered today, what customer thinks and how he behaves?
 lang: en
 image: >-
   /assets/images/post_images/behavior.jpeg
