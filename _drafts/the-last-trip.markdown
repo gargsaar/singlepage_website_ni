@@ -21,3 +21,14 @@ In the heist, she understood the universal purpose of life. It was to obtain an 
 ---
 
 Animals are familiar with objective entities outside them, such as trees, rocks and rivers, and subjective experiences within them, such as fear, joy and desire. Humans, in addition, are concious of money, gods, nations and corporations. The Cognitive ability enables humans  to start talking about things that existed only in their own imagination. These fictious ideas helps in collaborationa and effective cooperation. Today, corporations are fictional legal entities that own property, lend money, hire employees and initiate economic enterprises. 
+
+---
+Rahul ensured that his sister, sleeping next to him, was unconscious. He gathered the courage to step out of the cozy bed in the chilly winter night and walked straight to the living room, slowly and swiftly. Switched on the TV, lowered the volume to zero, and turned on Fashion TV. Like all 10 years old boys , he was both innocent and inquisitive, all he wanted to know what's hidden behind the clothes. As an adolescent, he dreamed of unrevealing the secrets of the opposite sex.
+
+Ramesh Pratap, his father, was a Junior Engineer with UP Jal Nigam. His mother was a housewife, and his house, flat no. B12, Jal Nigam colony in the interior of Dehradun, had a porch below the balcony of B13, from where he could see Ada.
+
+There was no body who could reveal the secret, neither his parents nor teachers. He can’t discuss girls, masturbation, or any sexual matter with them; and asking friends was a stupidity, they were all equally ignorant. The only ray of hope was Ada, which was why he was hoping that one day, he would take her far away with him so that they could demystify the world together.
+
+The day arrived soon. Ada’s mother convinced his mother for Ada to join his private math tuition. They talked, became friends and started spending time in his porch and her balcony for hours discussing everything, but maths. His longing for her wasn’t love, or anything else, but merely a quest.
+
+Mrinalini was mortally afraid of death. Although, the reasons were many, but the thought that was scaring her the most was - have I done enough that I can die? This feeling was making the death terrifying for her each passing day. She was in the last stages of cancer nearing death. She wanted to do many things. If many were not possible, at-least one thing. And that was to gift her husband their first baby who was in her womb.
