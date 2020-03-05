@@ -4,26 +4,35 @@ title:  "Not everybody gets a second chance"
 date:   2019-09-04
 header-style: text
 lang: en
-tags: Story
-categories: story
+subtitle: It's difficult when you don't get a second chance, so make the most of first - always
+description: >-
+  It's difficult when you don't get a second chance, so make the most of first - always.
+image: >-
+  /assets/images/post_images/sorrow.png
+optimized_image: >-
+  /assets/images/post_images/sorrow.png
+tags: [Short Story, Empathy]
+category: life
+author: sarthakgarg
+paginate: true
 ---
-Rahul works with IBM, New York. It has been 6 years since he moved to the US right after his graduation. He is single and lives with his parents. It's his birthday today. He has planned to take his mom and dad out for a dinner after a long time. He doesn't speak to them much. Like every year, he tried calling Tina as the first thing on his birthday. She didn't answer the call. 
+Rahul works with IBM, New York. It has been 6 years since he moved to the US right after his graduation. He lives with his parents. He hardly speaks to them. Like every year, he was waiting for Tina's call; and like every year, she didn't. It's his birthday today.
 
-Tina lives in Mumbai with her daughter Samira. Back in college, Tina and Rahul were like eyes of a face, always together. Tina  always stood for her decisions. She was fearless and welcomed the future in all of it’s unknown mystery. Rahul was bright, emotional, and timid. He couldn't go against his parents. As opposite attracts, they too got attracted and fell in love.
+Tina lives in Mumbai with her daughter Samira. Back in college, Tina and Rahul were always together. Tina  always stood for her decisions. She was fearless and welcomed the future in all of it’s unknown mystery. Rahul was bright, emotional, and timid. He couldn't go against his parents. As opposite attracts, they too got attracted and fell in love.
 
-When he was about to leave for office, around 10 in the morning, his phone rang. It was Tina. A promising smile emerged on his face. 
+When he was about to leave for office after a long wait, his phone rang. He coudn't believe, it was Tina. A smile emerged on his face. 
 
 Last time they spoke was 6 years back on their graduation day. 
 
-In absolute joy, he swiped the green button.
+In absolute joy, he said, "Hi".
 
-"Hi Rahul," she said in a low voice.
+"Hi," she replied in a low voice.
 
-A tear rolled down his eye. All he has been wanting for 6 years was to speak to her, but when the moment was here, he couldn't speak a word. 
+His excitement disappeared in a furry. All he has been wanting for 6 years was to speak to her, but when the moment was here, he couldn't speak a word. 
 
-There was a silence, long and expected.
+A tear rolled down his eye.
 
-After a pause, he gathered the strength to say, "I'm sorry."
+He gathered the strength. All to say, "I'm sorry."
 
 He knew that this was his only chance.
 
@@ -33,7 +42,7 @@ She felt the emotion. A thought of forgiveness appeared in her heart for a secon
 
 In a strong voice she said, "Rahul, time is a great healer. I've moved on in life and learned how to live alone. Samira wanted to speak to you. I had promised her that she will speak to her father on her fifth birthday. I never break promise."
 
-The hope of getting her back fainted in a jiffy. He craved for her like a child who catcall for a toy its parents can't afford.
+The hope of getting her back fainted in a jiffy. His heart wept like a child who catcall for something its parents can't afford.
 
 Ruefully he replied, "I was helpless. Mom and dad were about to commit suicide. I had to choose between you and them. I made a mistake."
 
@@ -53,6 +62,6 @@ Soaked in love, he didn’t want the call to end. Quickly, he asked, "how is Sam
 
 "What you expect of someone who even shares your birth date. She is exactly like you." she replied and ended the call.
 
-His heart wept. He knew that she will never come back, and now, it was even more difficult for him to live without her. She called, he thought and smiled.
+He knew that she will never come back. Give me one more chance, he begged and cried.
 
-*Some mistakes can never be forgiven, specially when they are done to somebody you love the most.*
+*It's difficult when you don't get a second chance. So make the most of first - always.*
