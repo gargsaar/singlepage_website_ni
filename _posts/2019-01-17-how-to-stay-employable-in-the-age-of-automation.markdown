@@ -5,7 +5,7 @@ date:   2019-01-17
 header-style: text
 subtitle: AI will replace humans, but the change will be for good
 description: >-
-  To stay relevant in the future or win the battle of employability against machines, humanity as a whole, will have to upgrade.
+  AI will replace humans, but the change will be for good
 image: >-
   /assets/images/post_images/automation.jpg
 optimized_image: >-
