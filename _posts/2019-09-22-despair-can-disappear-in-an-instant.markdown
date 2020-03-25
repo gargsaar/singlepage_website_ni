@@ -16,7 +16,7 @@ category: life
 author: sarthakgarg
 paginate: true
 ---
-Appa disappeared, his body was lying in front of me on the hospital bed. Through tears, I recalled the hard truth that he had taught me, "despair will disappear soon," like it had 30 years ago when I was 17 years old.
+Appa disappeared. His body was lying in front of me on the hospital bed. Through tears, I recalled the hard truth that he had taught me, "despair will disappear soon," like it had 30 years ago when I was 17 years old.
 
 It was a usual Monday morning, sky was clear, and Appa at the breakfast table, precisely at seven.
 
