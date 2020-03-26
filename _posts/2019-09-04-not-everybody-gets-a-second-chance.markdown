@@ -61,4 +61,4 @@ Soaked in love, he didn’t want the call to end. Quickly, he asked, "how is Sam
 
 He knew that she will never come back. Give me one more chance, he wished and cried.
 
-**Not everybody gets a second chance and it's very difficult when you don't get it. Make the most of first - always.**
+**Not everybody gets a second chance and it's difficult when you don't get it. Make the most of the first - always.**
