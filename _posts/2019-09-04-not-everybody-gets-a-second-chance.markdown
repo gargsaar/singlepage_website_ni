@@ -1,44 +1,41 @@
 ---
+date: 2019-09-04T00:00:00.000Z
 layout: post
-title:  "Not everybody gets a second chance"
-date:   2019-09-04
-header-style: text
-lang: en
-subtitle: It's difficult when you don't get a second chance, so make the most of first - always
+title: Not everybody gets a second chance
+subtitle: >-
+  It's difficult when you don't get a second chance, so make the most of first -
+  always
 description: >-
-  It's difficult when you don't get a second chance, so make the most of first - always
-image: >-
-  /assets/images/post_images/sorrow.png
-optimized_image: >-
-  /assets/images/post_images/sorrow.png
-tags: [Short Story, Empathy]
-category: life
+  It's difficult when you don't get a second chance, so make the most of first -
+  always
+image: /assets/images/post_images/sorrow.png
+optimized_image: /assets/images/post_images/sorrow.png
 author: sarthakgarg
+lang: en
+header-style: text
+category: life
+tags:
+  - Short Story
+  - Empathy
 paginate: true
 ---
 Rahul works with IBM, New York. It has been 6 years since he moved to the US right after his graduation. He lives with his parents. He hardly speaks to them. Like every year, he was waiting for Tina's call; and like every year, she didn't call. It's his birthday today.
 
-Tina lives in Mumbai with her daughter Samira. Back in college, Tina and Rahul were always together. Tina  always stood for her decisions. She was fearless and welcomed the future in all of it’s unknown mystery. Rahul was bright, emotional, and timid. He couldn't go against his parents. As opposite attracts, they too got attracted and fell in love.
+Tina lives in Mumbai with her daughter Samira. Back in college, Tina and Rahul were always together. Tina  always stood for her decisions. She was fearless and welcomed the future in all of it’s unknown mystery. Rahul was bright and timid. As opposite attracts, they too got attracted and fell in love.
 
-When he was about to leave for office after a long wait, his phone rang. He coudn't believe, it was Tina. A smile emerged on his face. 
+When he was about to leave for office, his phone rang. He couldn't believe it was Tina. A smile emerged on his face. Last time they spoke was 6 years back on their graduation day. 
 
-Last time they spoke was 6 years back on their graduation day. 
+In absolute joy he said, "Hi".
 
-In absolute joy, he said, "Hi".
+"Hi," she replied.
 
-"Hi," she replied in a low voice.
+He has been wanting for 6 years to speak to her. But when the moment was here, he couldn't speak a word. A tear rolled down his eye.
 
-All he has been wanting for 6 years was to speak to her, but when the moment was here, he couldn't speak a word. 
-
-A tear rolled down his eye.
-
-He gathered the strength to say, "I'm sorry."
-
-He knew that this was his only chance.
+He gathered the strength to say, "I'm sorry." He knew that this was his only chance.
 
 He continued, "I feel sorry every day, every moment. Forgive me."
 
-A thought of forgiveness appeared in her heart for a second, but the wound he had given her was too deep, unhealable, always in front of her.
+A thought of forgiveness appeared in her heart, but the wound he had given her was too deep, unhealable, always in front of her.
 
 In a strong voice she said, "Rahul, time is a great healer. I've moved on in life and learned how to live alone. Samira wanted to speak to you. I had promised her that she will speak to her father on her fifth birthday. I never break promise."
 
@@ -64,4 +61,4 @@ Soaked in love, he didn’t want the call to end. Quickly, he asked, "how is Sam
 
 He knew that she will never come back. Give me one more chance, he wished and cried.
 
-*It's difficult when you don't get a second chance, so make the most of first - always.*
+**Not everybody gets a second chance and it's very difficult when you don't get it. Make the most of first - always.**
