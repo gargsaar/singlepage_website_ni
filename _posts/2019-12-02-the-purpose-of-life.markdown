@@ -1,19 +1,23 @@
 ---
+date: 2019-12-02T00:00:00.000Z
 layout: post
-title:  "The Purpose of Life"
-date:   2019-12-02
-header-style: text
-lang: en
-subtitle: We all have our entrances and exits, but that’s not important; what’s important is the purpose
+title: The Purpose of Life
+subtitle: >-
+  We all have our entrances and exits, but that’s not important; what’s
+  important is the purpose
 description: >-
-  We all have our entrances and exits, but that’s not important; what’s important is the purpose
-image: >-
-  /assets/images/post_images/purpose.jpeg
-optimized_image: >-
-  /assets/images/post_images/purpose.jpeg
-tags: [Short Story, Motivation, Humor]
-category: life
+  We all have our entrances and exits, but that’s not important; what’s
+  important is the purpose
+image: /assets/images/post_images/purpose.jpeg
+optimized_image: /assets/images/post_images/purpose.jpeg
 author: sarthakgarg
+lang: en
+header-style: text
+category: life
+tags:
+  - Short Story
+  - Motivation
+  - Humor
 paginate: true
 ---
 William Shakespeare said, “all the world’s a stage, and all the men and women merely players who have their entrances and exits;” It’s a beautiful quote that defines the phenomenon of nature — entrances and exists, but I believe, that’s not important; what’s important is the purpose.
@@ -44,4 +48,4 @@ Success doesn’t come easy or quick, but it’s true that when you want somethi
 
 The purpose could be anything. It could be as small as to exercise every day to live a healthy life, or as big as to build a shelter home by saving enough from your not-so-enough salary. There has to be a purpose in life.
 
-The purpose of life is to live a life of purpose.
+**The purpose of life is to live a life of purpose.**
