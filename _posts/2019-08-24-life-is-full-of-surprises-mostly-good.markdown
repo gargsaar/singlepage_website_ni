@@ -1,19 +1,18 @@
 ---
+date: 2019-08-24T00:00:00.000Z
 layout: post
-title:  "Life is full of surprises, mostly good"
-date:   2019-08-24
-header-style: text
-lang: en
+title: Life is full of surprises
 subtitle: Next sixty minutes was the most beautiful time of my life
-description: >-
-  Next sixty minutes was the most beautiful time of my life
-image: >-
-  /assets/images/post_images/surprise.png
-optimized_image: >-
-  /assets/images/post_images/surprise.png
-tags: [Short Story, Humor]
-category: life
+description: Next sixty minutes was the most beautiful time of my life
+image: /assets/images/post_images/surprise.png
+optimized_image: /assets/images/post_images/surprise.png
 author: sarthakgarg
+lang: en
+header-style: text
+category: life
+tags:
+  - Short Story
+  - Humor
 paginate: true
 ---
 Wikipedia says, a blind date is a social engagement between two people who have not previously met, usually arranged by a mutual acquaintance. 
