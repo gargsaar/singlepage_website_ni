@@ -34,7 +34,7 @@ The basic premise is that every feature in the roadmap has an inherent level of 
 1. **Development:** How difficult it will be to implement this feature in terms of effort (man-hours) or schedule time (weeks or months).
 2. **Deployment:** It factors the expected operational cost. Will the feature require investment to put it into production and/or carry a high operating expense? Would there be a high migration and support effort to move customers from an old implementation to the new one.
 
-Value vs Complexity Matrix:
+**Value vs Complexity Matrix:**
 
 Image a four quadrant matrix with 'Business Value' on Y axis and 'Implementation Complexity' on X axis.
 
