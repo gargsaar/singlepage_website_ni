@@ -30,10 +30,10 @@ Sooner, Artificial Intelligence will empower machines to do all these jobs and w
 
 It may all sound gloomy, but there is a hope. The change will also be for good. 
 
-In-fact, the whole purpose of technology evolution is to bring the change. A change because of which things would not remain same. And it has been historically as well. As the technology evolved, things changed from agriculture age to industrial age.
+In-fact, the whole purpose of technology evolution is to bring the change. A change because of which things would not remain the same. And it has been historically as well. As the technology has evolved, things have changed. Compare agriculture age with industrial age.
 
-The hope is that as we will go far into the information age from the industrial age, machines will perform jobs with higher efficiency and reduce the number of jobs in the human labor class. But this migration will be to move them from the bottom of the pyramid towards the top. Advancements in technology will lead to creation of many more new layer of jobs that did not exist before and will divert humans towards a more fulfilling work environment. However, the skills that would be required for the jobs of future will be completely different.
+The hope is that as we will go far into the information age from the industrial age, machines will perform jobs with higher efficiency and reduce the number of jobs in the human labor class. But this migration will be to move them from the bottom of the pyramid towards the top. Advancements in technology will lead to creation of many more new layer of jobs that did not exist before and will divert humans towards a more fulfilling work environment. **However, the skills that would be required for the jobs of future will be completely different.**
 
-For better or for worse the change is imminent. So to stay relevant in the future or win the battle of employability against machines, humanity as a whole, will have to upgrade like Ashish. To achieve a sanguine future, we will have to constantly evolve and learn new skills which will be the only way out.
+For better or for worse the change is imminent. So to stay relevant in the future or win the battle of employability against machines, humanity as a whole, will have to upgrade like Ashish. **To achieve a sanguine future, we will have to constantly evolve and learn new skills which will be the only way out.**
 
 *"If you are willing to learn, no one can stop you. If you are not, no one can help you."*
