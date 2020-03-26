@@ -22,13 +22,13 @@ Yesterday, I met Ashish during an Uber ride. He was the cab driver. I knew Ashis
 
 It was a shock for me to see how Ashish had transformed himself, and that too in just 6 months. It's amazing how he upgraded his skills to become an Uber driver as for him I am sure this wouldn't have been easy. According to him it was the only way he could have survived in the city. He is a true example of how people like Ashish transform themselves for the betterment.
 
-Ten years ago I couldn’t have imagined driving a cab in Delhi being less stressful and more paying. Moreover, idea like carpooling was never a viable option before the launch of these mobile apps. The reason Uber has become so successful is technology, Artificial Intelligence (AI). Because of the advanced technology, Uber rides are optimised i.e. more rides at a less expense and time. And hence, jobs like Uber exist so that people like Ashish can survive.
+Ten years ago I couldn’t have imagined driving a cab in Delhi being less stressful and more paying. Moreover, idea like carpooling was never a viable option before the launch of these mobile apps. The reason Uber has become so successful is technology, Artificial Intelligence (AI). Because of AI Uber rides are optimised i.e. more rides at a less expense and time. And hence, jobs like Uber exist so that people like Ashish can survive.
 
 However, I wonder how long things will remain same for Ashish or for all of us. 
 
 Sooner, Artificial Intelligence will empower machines to do all these jobs and will increase the unemployment rate many fold. For an example, we keep hearing about self-driving cars test failures and crashes and feel we are still many years away from getting rid of ‘human drivers’. However, scientifically speaking - there is no better way to learn and perfect a machine, but failures. Each of these crashes is generating a tremendous amount of data to rapidly improve self-driving cars. Self-driving cars will further optimize the Uber rides and significantly reduce cost. But it will also make hundred thousand taxi drivers in Delhi alone jobless. Not just the drivers but many other jobs in other sectors are also similarly in jeopardy because of technological advances and AI.
 
-It may all sound gloomy, but there is a hope. A hope is that the change will also be for good. 
+It may all sound gloomy, but there is a hope. The change will also be for good. 
 
 In-fact, the whole purpose of technology evolution is to bring the change. A change because of which things would not remain same. And it has been historically as well. As the technology evolved, things changed from agriculture age to industrial age.
 
