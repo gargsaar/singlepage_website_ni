@@ -16,4 +16,4 @@ He is a seasoned professional with over a decade years of experience in product 
 
 He loves travelling and reading.
 
-[iStandpoint](https://sarthakgarg.com) is his legacy where he pours his mind and heart out.
+[iStandpoint](https://sarthakgarg.com) is his legacy where he pours mind and heart out.
