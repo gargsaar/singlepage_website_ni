@@ -1,7 +1,7 @@
 # Site Settings
 name: iStandpoint
 title: iStandpoint | The Blog of Sarthak Garg
-description: Blog on product management, startups, data science, machine learning, artificial intelligence, life lessons, and short stories by Sarthak Garg
+description: "Informal notes on product management and artificial intelligence. Short stories, that's icing on the cake!"
 tags: [blog, product management, jekyll, github, data science, short stories, startups, motivation, machine learning, artificial intelligence, life lessons]
 email: gargsaar@gmail.com
 disqus_username: sg-istandpoint
