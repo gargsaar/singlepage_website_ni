@@ -11,6 +11,8 @@ menu:
     url: /
   - title: Tags
     url: /tags
+  - title: Category
+    url: /categories
   - title: About
     url: /about
   - title: Resume
