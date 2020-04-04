@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Application Development
+title: Coding
 slug: '{{slug}}'
 description: >-
   Cross-platform and multi-touch mobile application development including iOS
