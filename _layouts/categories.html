@@ -1,6 +1,11 @@
----
-layout: minimal
----
+<!DOCTYPE html>
+<html lang="{{ site.language }}" class="no-js">
+    {% include head.html %}
+    <body class="main-page has-push-menu">
+        {% include svg-icons.html %}
+        {% include header.html %}
+        <section class="content">
+            <main class="home" id="post" role="main">
                 <h1 class="title-category">/{{page.title}}</h1>
                 <div id="grid" class="row flex-grid">
                     {% assign posts = site.posts | where_exp:"post","post.is_generated != true" %}
@@ -56,5 +61,8 @@ layout: minimal
                         {% endif %}
                     {% endfor %}
                 </div>
-
-
+            </main>
+        </section>
+        {% include footer.html %}
+    </body>
+</html>
