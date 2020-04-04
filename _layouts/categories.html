@@ -2,6 +2,22 @@
 layout: minimal
 ---
 
+{% assign date_format = site.date_format | default: "%m/%d/%Y" %}
+
+<div class="tags">
+  {% assign tags_list = site.tags %}
+    {% if tags_list.first[0] == null %}
+      {% for tag in tags_list %}
+          <a href="#{{ tag | slugify }}">#{{ tag }}</a>
+      {% endfor %}
+    {% else %}
+      {% for tag in tags_list %}
+          <a href="#{{ tag[0] | slugify }}">#{{ tag[0] }}</a>
+      {% endfor %}
+    {% endif %}
+  {% assign tags_list = nil %}
+</div>
+
 {% for category in site.categories %}
   <h3>{{ category[0] }}</h3>
   <ul>
