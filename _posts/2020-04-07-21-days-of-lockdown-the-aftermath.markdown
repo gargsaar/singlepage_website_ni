@@ -10,7 +10,21 @@ tags:
 author: sarthakgarg
 paginate: true
 ---
+**Day-21**, everyone's elated, the wait is over! We're are going back to our normal lives, leaving behind the masks, sanitisers, work from home chores, and anxiety to maintain extreme personal hygiene because hey! we’ve won the battle, we've defeated the virus.
 
+The moment will be to celebrate the victory of a 21 days long, well-fought battle won with sheer determination and perseverance. The moment will be to celebrate the break-free. 
+
+**Celebrate, why not...**
+
+<Praise Indian Governments', health care staff and workers, general population effort in handling the situation>
+
+**No, don't. Here's why not...**
+
+**Day-22.** Half the country is now of the streets, out of their homes with the national flags, playing patriotic songs and shouting slogans praising the government, doctors and healthcare staff, and other workers assuming that we've completely eradicated the virus.   
+
+
+
+What's going to happen on day 22? India is going to forget that we are in the middle of a pandemic, a damn global crisis and everyone is going to get back to their normal lives, leaving behind the masks, sanitizers and forgetting to maintain extreme personal hygiene because hey! We’ve found a cure to the virus, we stayed home for 21 days, now let’s forget it and move on.
 
 For starters, not all of us have siblings who are doctors and who can give us a scare, time and again while providing authentic information about what really should be our priority points.
 
