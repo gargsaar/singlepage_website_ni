@@ -12,7 +12,7 @@ paginate: true
 ---
 **Day-22.** Everyone's elated, the wait is over! We're are going back to our normal lives, leaving behind the masks, sanitisers, work from home chores, and anxiety to maintain extreme personal hygiene because hey! we’ve won the battle, we've defeated the virus.
 
-The moment will be to celebrate the victory of a 21 days long, well-fought battle won with sheer determination and perseverance. The moment will be to celebrate the break-free. 
+The moment is to celebrate the victory of a 21 days long, well-fought battle won with sheer determination and perseverance. The moment is to celebrate the break-free. 
 
 Half the country is on the streets, out of their homes with the national flags, playing patriotic songs, and shouting slogans praising the government, doctors, healthcare staff and other workers assuming that we've completely eradicated the virus, we stayed home for 21 days, now let's move on. It's a much bigger celebration than the Janta curfew clapping episode. 
 
