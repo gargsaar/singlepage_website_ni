@@ -20,18 +20,22 @@ Public places, malls, restaurants, movie halls, parks are flooded with people. E
 
 **Celebrate, why not...**
 
-<Praise Indian Governments', health care staff and workers, general population effort in handling the situation>
+<Stats on Governments', health care staff and workers, general population effort in handling the situation>
 
 **No, don't. Why not...**
 
-There are high chances of a second wave of the virus spreading like wild fire into the country. If you don’t believe me, you can check the statistics of this virus called the N1H1 which arose in 2009, where in the exact same thing occurred. As soon as it was contained and people went back to their normal lives, there was a second wave.
+There are high chances of a second wave of the virus spreading like wild fire into the country. It had happened with N1H1 virus in 2009. As soon as it was contained and people went back to their normal lives, there was a second wave.
 
-So technically 21 days of Quarantine is going to be absolutely useless we educate the people about what exactly is to be done on day 22 because otherwise there is a possibility of another lock-down being declared. We definitely don’t want that.
+<stats on why not to celebrate> 
 
 **What to do..**
+
+21 days of Quarantine will be absolutely useless unless we educate the people about what to do on Day-22, otherwise the lock-down will come again, strict and for long. 
 
 Act wisely and use our common sense by doing the most basic things; don’t go partying on day 22; try to follow all the instructions you did for the last 4 weeks to the maximum extent; please don’t forget, this is not the end of the virus, this is only the beginning of the end. Educate and spread awareness about the after effects to people who do not have access to resources and information by sharing this article.
 
 Use this as an official petition urging the government to take into consideration the above points before announcing any further instructions after the lock down is over. Persuade the government to let the lock-down downsize in separate stages. Say for another week only the essential services shall be open like banks, grocery stores and the frequency of public transportation shall be minimal. In the next week the frequency can be increased after monitoring the effects of the spread and the public shall be urged to avoid assembling in large numbers and practice social distancing. All public places like theaters, malls, parks shall be the last priority to be open for the public.
 
 If we genuinely understand the seriousness of the issue and come together as a single voice in these times of crisis, we can make a huge difference in the lives of 1.3 billion Indians. I’m just a regular kid who’s paranoid about the virus and who really wants to make a difference.
+
+Do any of us want another lock-down? I definitely don't.
