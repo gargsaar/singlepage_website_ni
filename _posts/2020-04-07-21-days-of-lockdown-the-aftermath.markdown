@@ -14,9 +14,9 @@ paginate: true
 
 The moment is to celebrate the victory of a 21 days long, well-fought battle won with sheer determination and perseverance. The moment is to celebrate the break-free. 
 
-Half the country is on the streets, out of their homes with the national flags, playing patriotic songs, and shouting slogans praising the government, doctors, healthcare staff and other workers assuming that we've completely eradicated the virus, we stayed home for 21 days, now let's move on. It's a much bigger celebration than the Janta curfew clapping episode. 
+Half the country is on the streets, out of their homes with the national flags, playing patriotic songs, and shouting slogans praising the government, doctors, healthcare staff and other workers assuming that we've completely eradicated the virus by staying at home for 21 days and now it's time to move on. 
 
-Public places, malls, restaurants, movie halls, parks are flooded with people. Everybody is carefree and enjoying, no need of social distancing. Offices are back to their normal ways of working amassing people in concentration camps all in for a five-alarm fire. Daily wage workers are running to the city in a hope to earn back a little of what they’ve lost, piled into trains and buses optimistic that not even a single person of the thousands has the virus.
+It's a much bigger celebration than the Janta curfew clapping episode. Public places, malls, restaurants, movie halls, parks are flooded with people. Everybody is carefree, no need of social distancing. Offices are back to their normal ways, amassing people in concentration camps all in for a five-alarm fire. Daily wage workers are running to the city in a hope to earn back a little of what they’ve lost, piled into trains and buses optimistic that not even a single person of the thousands has the virus.
 
 **Celebrate, why not...**
 
@@ -24,7 +24,7 @@ Public places, malls, restaurants, movie halls, parks are flooded with people. E
 
 **No, don't. Why not...**
 
-There are high chances of a second wave of the virus spreading like wild fire into the country. It had happened with N1H1 virus in 2009. As soon as it was contained and people went back to their normal lives, there was a second wave.
+The war is not over, the second wave of the virus is knocking the door eager to spread like a wild fire. It had happened with N1H1 virus in 2009 when it was contained and people went back to their normal lives, there was a second wave. <add about N1H1 or other example>
 
 <stats on why not to celebrate> 
 
