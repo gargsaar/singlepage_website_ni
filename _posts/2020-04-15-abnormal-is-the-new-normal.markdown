@@ -24,3 +24,5 @@ Do whatever you want to do man.
 assets vs. liabilities
 
 invest in assets. good friends are assets, bad are liabilities
+
+irony is that when u invest in liability, u think its an asset
