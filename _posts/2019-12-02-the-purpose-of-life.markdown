@@ -28,7 +28,7 @@ We all know that no marketing can be effective if the product is bogus, likewise
 
 In my case, my early life was controlled by Sharma uncle, our neighbour. When I was 15, I joined a music class. Not because I liked music, but because Sharma uncle’s son was learning tabla. Dad was highly influenced by Sharma uncle and hell-bent to follow in his footsteps. For me, tabla was still ok, but I had to learn dholak because tabla classes were full. The sad part was — I had to play dholak in every family function which I absolutely hated.
 
-The worst happened when I cracked School Of Planning And Architecture in Delhi, the best architecture college in the country, but didn’t join because Sharma uncle told dad, “put him into engineering, computer science is in demand.” I joined engineering and the suffering began.
+The worst happened when I cracked 'School Of Planning And Architecture', the best architecture college in the country, but didn’t join because Sharma uncle told dad, “put him into engineering, computer science is in demand.” I joined engineering and the suffering began.
 
 When my architecture friends were studying history and romance which they used in their lives, I was studying chemical bonding. That too in a class where the only girl was not willing to look at us. I mean — how were we supposed to understand the concept of bonding? In the first semester of the second year, I realised the hard truth — when you don’t want to do engineering and you end up doing it, you can learn only two things: one, how to get rid of your google chrome history; and two, how to use google chrome incognito.
 
