@@ -4,8 +4,8 @@ layout: post
 title: Life is full of surprises
 subtitle: Next sixty minutes was the most beautiful time of my life.
 description: Next sixty minutes was the most beautiful time of my life.
-image: /assets/images/post_images/ladoo.jpeg
-optimized_image: /assets/images/post_images/ladoo.jpeg
+image: /assets/images/post_images/ladoo.jpg
+optimized_image: /assets/images/post_images/ladoo.jpg
 author: sarthakgarg
 lang: en
 header-style: text
