@@ -19,7 +19,7 @@ December 13, 2018. I was in a hospital room sitting on a chair, and in front of 
 
 There is nothing more uncertain in this world than life. At one moment it makes you sad, and the very next, happy. I believe, life always gives a surprise when u least expect.
 
-When I was 14 years old, one day I was getting ready for school and by the time I joined my father at the breakfast table, he was done. He didn’t allow me a single bite because I was late, by 5 minutes. My father was very strict and this was one of the reasons why I hated him. And this feeling was mutual, he did not like me either maybe because of what had happened when I was born. 
+When I was 14 years old, one day I was getting ready for school and by the time I joined my father at the breakfast table, he was done. He didn’t allow me a single bite because I was late, by 5 minutes. My father was very strict and this was one of the reasons why I hated him. And this feeling was mutual, he did not like me either, maybe because of what had happened when I was born. 
 
 I was the first boy in my family after eight cousin sisters, so my grandma was extremely happy with the news of my birth. She was so excited to see me that she ran towards the hospital room with full power and banged the door without realising my father was standing behind the door. He was a thin man. He couldn’t bear the attack and fell on the iron bar of my cot. He broke his nose and the news of my birth became a breaking new for him, literally. And since then, in his eyes, there was one only thing for me, hatred.
 
