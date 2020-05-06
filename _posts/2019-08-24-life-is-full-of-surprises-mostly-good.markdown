@@ -2,8 +2,8 @@
 date: 2019-08-24T00:00:00.000Z
 layout: post
 title: Life is full of surprises
-subtitle: Next sixty minutes was the most beautiful time of my life
-description: Next sixty minutes was the most beautiful time of my life
+subtitle: Next sixty minutes was the most beautiful time of my life.
+description: Next sixty minutes was the most beautiful time of my life.
 image: /assets/images/post_images/surprise.png
 optimized_image: /assets/images/post_images/surprise.png
 author: sarthakgarg
@@ -43,6 +43,4 @@ Next seventy seconds was the most difficult time of my life. With every stair, t
 
 I entered her room. The room was colourful and bright. Walls were nicely decorated with family photos all around. A bright sunlight pierced through the floral curtains which along with a pleasant aroma was just enough to upbeat my mood.
 
-To my surprise, she was not alone. She was with Riya. Her best friend, and my school mate who had a crush on me. The laddoo in my heart split into two.
-
-Next sixty minutes was the most beautiful time of my life. I had the best date possible. It was a date with not one, but two beautiful girls. One who liked me and the other whom I liked.
+Next sixty minutes was the most beautiful time of my life. I had the best date possible. It was a date with not one, but two beautiful girls as she was not alone. She was with Riya. Her best friend, and my school mate who had a crush on me. The laddoo in my heart split into two, and I smiled thinking life is so full of surprises, and mostly good :).
