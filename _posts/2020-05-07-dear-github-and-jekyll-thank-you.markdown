@@ -11,19 +11,18 @@ tags:
   - website development
   - jekyll
   - github
+  - netlify
 author: sarthakgarg
 paginate: true
 ---
 Dear [Github](https://github.com/about), [Jekyll](https://jekyllrb.com/), and [Netlify](https://www.netlifycms.org/):
 
-Thank you for giving us [Github Pages](https://pages.github.com/), a great platform where we can build our website/ blog and host it using custom domain for free using Jekyll 
+Thank you for giving us [Github Pages](https://pages.github.com/), a great platform where we can host websites using custom domain for free. [Jekyll](https://jekyllrb.com/) provides markdown based themes that are lightweight and do not require any database to build static websites. And last but not the least, thank you [Netlify](https://www.netlifycms.org/), for making your content management system Open source where we can manage content using an easy-to-use user interface.  
 
+Setting up my blog, [iStandpoint](https://sarthakgarg.com/), was an easy 3 steps process. 
 
+1. Created a public repository in Github,
+2. Downloaded the Netflix Jekyll theme and upload it into the repository
+3. Configured the Netlify account to manage my git repository
 
-Setting up a website was an easy 3 steps process: create a public repository in Github, download a Jekyll theme/ template and upload it into the repository, and configure the Netlify, an open source content management platform for Github.
-
-
-
-I always wanted to not pay for hosting my website. I tried various options such as [Wordpress](https://wordpress.com/pricing/) where you can use your custom domain by paying around $3 per month, or [Weebly](https://www.weebly.com/in/pricing) at $5 per month, or [Wix](https://www.wix.com/upgrade/website) at around 50 cents per month. And apart from shelling out anything from the pocket, I wanted a complete ownership of the code.
-
-Then as always, Github came to me
+It's not that [Wordpress](https://wordpress.org/), [Wix](https://www.wix.com/), or [Weebly](https://www.weebly.com/in) are not great. These website building platforms are awesome, but they come with a fee, and why to pay a penny for hosting your website when you can do it for free.
