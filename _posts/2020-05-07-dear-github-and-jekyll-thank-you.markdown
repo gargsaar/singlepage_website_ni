@@ -37,7 +37,7 @@ Again, the [Jekyll documentation](https://jekyllrb.com/docs/) was so good that I
 
 **DEPLOY** SITE IN NETLIFY,  AND OFF YOU GO
 
-To be honest, Netlify was a bit tricky at first, but once I got a hang of it, I kept going.
+To be honest, Netlify was a bit tricky at first, but once I got a hang, it was smooth.
 
 It's not that [Wordpress](https://wordpress.org/), [Wix](https://www.wix.com/), or [Weebly](https://www.weebly.com/in) are not great for building websites, it's just that, one:  they are not free (need to pay for using custom domain), two: they are not as fast and secure, and most importantly: you don't feel like you own the website code.  So why to pay a penny for hosting websites elsewhere when we can do it for free and that too with the best.
 
