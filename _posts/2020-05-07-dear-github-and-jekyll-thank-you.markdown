@@ -31,7 +31,7 @@ The excellent documentation on the [Github Help](https://help.github.com/en/gith
 
 On the settings page, in the **GitHub Pages** section, there is an option to **Choose a theme**, but frankly, there are a countless other [themes](https://jekyllrb.com/docs/themes/) that are much better. So I choose to use a theme by [Thiago Rossener](https://rossener.com/). I downloaded [Jeklix-template](https://github.com/thiagorossener/jekflix-template) and uploaded all the files in my repository. Next, all I had to do was - edit a few file it to make the theme personal.
 
-I started with **_config.yml** where I updated the #Site Settings, removed a few items under #Social Media Settings, 
+I started with **_config.yml** where I updated the #Site Settings, removed a few items under #Social Media Settings, and updated the [google_analytics](https://analytics.withgoogle.com/) id.
 
 **DEPLOY** SITE IN NETLIFY,  AND OFF YOU GO
 
