@@ -31,16 +31,26 @@ The excellent documentation on the [Github Help](https://help.github.com/en/gith
 
 On the settings page, in the **GitHub Pages** section, there is an option to **Choose a theme**, but frankly, there are a countless other [themes](https://jekyllrb.com/docs/themes/) that are much better. So I choose to use a theme by [Thiago Rossener](https://rossener.com/). I downloaded [Jeklix-template](https://github.com/thiagorossener/jekflix-template) and uploaded all the files in my repository. Next, all I had to do was - edit a few file it to make the theme personal.
 
-I started with **_config.yml** where I updated the #Site Settings, updated [disqus_usename](https://disqus.com/), removed a few items under #Social Media Settings, and updated the [google_analytics](https://analytics.withgoogle.com/) id. Followed by **CNAME** file where I added my custom domain name**.** Created a [markdown](https://www.markdownguide.org/getting-started/) file for myself in the folder **_authors.** Changed favicon and other icons at assets/img/icons, and blog_image.png at assets/img, and I was good to go.
+I started with **_config.yml** where I updated the #Site Settings, updated [disqus_usename](https://disqus.com/), removed a few items under #Social Media Settings, and updated the [google_analytics](https://analytics.withgoogle.com/) id. Followed by **CNAME** file where I added my custom domain name**.** Created a [markdown](https://www.markdownguide.org/getting-started/) file for myself in the folder **_authors.** Changed favicon and other icons at assets/img/icons, and blog_image.png at assets/img, and I was ready to add **_posts**.
 
 Again, the [Jekyll documentation](https://jekyllrb.com/docs/) was so good that I could understand the framework and customise the template further.
 
-**DEPLOY** SITE IN NETLIFY,  AND OFF YOU GO
+**DEPLOY** THE SITE IN NETLIFY,  AND OFF YOU GO
 
-To be honest, Netlify was a bit tricky at first, but once I got a hang, it was smooth.
+To be honest, Netlify was a bit tricky at first, but once I got a hang, it was smooth. I began with creating an account at [Netlify.com](https://www.netlify.com/) and added **New site from Git.**
 
-It's not that [Wordpress](https://wordpress.org/), [Wix](https://www.wix.com/), or [Weebly](https://www.weebly.com/in) are not great for building websites, it's just that, one:  they are not free (need to pay for using custom domain), two: they are not as fast and secure, and most importantly: you don't feel like you own the website code.  So why to pay a penny for hosting websites elsewhere when we can do it for free and that too with the best.
+![netlify-add-new-site-from-git](/assets/images/post_images/netlify-add-new-site.png "netlify-add-new-site-from-git")
 
+Inside app.netlify.com, I configured [Site Settings](https://www.netlify.com/blog/2020/04/02/a-step-by-step-guide-jekyll-4.0-on-netlify/) and [Domain Settings](<Configure external DNS for a custom domain>) for configuring the external DNS for a custom domain. 
 
+App.netlify.com is not the CMS, but a console to manage the site. NetlifyCMS, the interface to create and manage content, was to be accessed at **https://netlify_site_name.netlify_subdomain.app/admin.** 
+
+![netlify-domain-settings](/assets/images/post_images/netlify-domain-settings.png "netlify-domain-settings")
+
+gargsaar.netlify.app/admin
+
+![netlifycms](/assets/images/post_images/netlifycms.png "netlifycms")
+
+I would end with a praise for [Wordpress](https://wordpress.org/), [Wix](https://www.wix.com/), and [Weebly](https://www.weebly.com/in) who are equally great for building websites, it's just that they are not free (need to pay for using custom domain), not as fast and secure, and most importantly, don't give a feel like we own the website code.  So that's why I chose you all, because why to pay a penny for hosting websites elsewhere when we can do it for free and that too with the best.
 
 **Warm Regards,**
