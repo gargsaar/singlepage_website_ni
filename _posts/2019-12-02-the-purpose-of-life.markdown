@@ -2,9 +2,9 @@
 date: 2019-12-02T00:00:00.000Z
 layout: post
 title: The Purpose of Life
-subtitle: We all have our entrances and exits, but that’s not important; what’s
+subtitle: We all have our entrances and exits, but that’s not important, what’s
   important is the purpose
-description: We all have our entrances and exits, but that’s not important;
+description: We all have our entrances and exits, but that’s not important,
   what’s important is the purpose
 image: /assets/images/post_images/purpose.jpeg
 optimized_image: /assets/images/post_images/purpose.jpeg
