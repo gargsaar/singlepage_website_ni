@@ -31,9 +31,13 @@ The excellent documentation on the [Github Help](https://help.github.com/en/gith
 
 On the settings page, in the **GitHub Pages** section, there is an option to **Choose a theme**, but frankly, there are a countless other [themes](https://jekyllrb.com/docs/themes/) that are much better. So I choose to use a theme by [Thiago Rossener](https://rossener.com/). I downloaded [Jeklix-template](https://github.com/thiagorossener/jekflix-template) and uploaded all the files in my repository. Next, all I had to do was - edit a few file it to make the theme personal.
 
-I started with **_config.yml** where I updated the #Site Settings, updated [disqus_usename](https://disqus.com/), removed a few items under #Social Media Settings, and updated the [google_analytics](https://analytics.withgoogle.com/) id. Followed by **CNAME** file where I added my custom domain name**.** Created a [markdown](https://www.markdownguide.org/getting-started/) file for myself in the folder **_authors.** Changed favicon and other icons at assets/img/icons, and blog_image.png at assets/img.
+I started with **_config.yml** where I updated the #Site Settings, updated [disqus_usename](https://disqus.com/), removed a few items under #Social Media Settings, and updated the [google_analytics](https://analytics.withgoogle.com/) id. Followed by **CNAME** file where I added my custom domain name**.** Created a [markdown](https://www.markdownguide.org/getting-started/) file for myself in the folder **_authors.** Changed favicon and other icons at assets/img/icons, and blog_image.png at assets/img, and I was good to go.
+
+Again, the [Jekyll documentation](https://jekyllrb.com/docs/) was so good that I could understand the framework and customise the template further.
 
 **DEPLOY** SITE IN NETLIFY,  AND OFF YOU GO
+
+To be honest, Netlify was a bit tricky at first, but once I got a hang of it, I kept going.
 
 It's not that [Wordpress](https://wordpress.org/), [Wix](https://www.wix.com/), or [Weebly](https://www.weebly.com/in) are not great for building websites, it's just that, one:  they are not free (need to pay for using custom domain), two: they are not as fast and secure, and most importantly: you don't feel like you own the website code.  So why to pay a penny for hosting websites elsewhere when we can do it for free and that too with the best.
 
