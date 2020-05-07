@@ -2,12 +2,10 @@
 date: 2019-09-04T00:00:00.000Z
 layout: post
 title: Not everybody gets a second chance
-subtitle: >-
-  It's difficult when you don't get a second chance, so make the most of first -
-  always
-description: >-
-  It's difficult when you don't get a second chance, so make the most of first -
-  always
+subtitle: It's difficult when you don't get a second chance, so make the most of
+  the first - always
+description: It's difficult when you don't get a second chance, so make the most
+  of the first - always
 image: /assets/images/post_images/sorrow.png
 optimized_image: /assets/images/post_images/sorrow.png
 author: sarthakgarg
