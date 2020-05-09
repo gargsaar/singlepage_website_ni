@@ -37,11 +37,11 @@ Again, the [Jekyll documentation](https://jekyllrb.com/docs/) was so good that I
 
 **DEPLOY** THE SITE IN NETLIFY,  AND OFF YOU GO
 
-To be honest, Netlify was a bit tricky at first, but once I got a hang, it was smooth. I began [here](https://app.netlify.com/start/deploy?), created an account at [Netlify.com](https://www.netlify.com/), and added **New site from Git.**
+There are many [options for deploying the Jekyll site](https://jekyllrb.com/docs/deployment/third-party/) and I just chose to go with Netlify. To be honest, deployment was a bit tricky to understand at first, but once I got a hang, it was smooth. I created an account at [Netlify.com](https://www.netlify.com/) and followed [this](https://www.netlify.com/blog/2015/10/28/a-step-by-step-guide-jekyll-3.0-on-netlify/) post to add Git repo in Netlify and configure the Github**.**
 
 ![netlify-add-new-site-from-git](/assets/images/post_images/netlify-add-new-site.png "netlify-add-new-site-from-git")
 
-Inside **app.netlify.com**, which is a console to manage the site and not the CMS, I configured [Site Settings](https://www.netlify.com/blog/2020/04/02/a-step-by-step-guide-jekyll-4.0-on-netlify/) and [Domain Settings](<Configure external DNS for a custom domain>) for configuring the external DNS for a custom domain. 
+Once the site was built, inside **app.netlify.com**, which is a console to manage the site, I configured [Site Settings](https://www.netlify.com/blog/2020/04/02/a-step-by-step-guide-jekyll-4.0-on-netlify/) and [Domain Settings](<Configure external DNS for a custom domain>) for the external DNS for a custom domain. 
 
 NetlifyCMS, the interface to create and manage content, was available at **https://netlify_site_name.netlify_subdomain.app/admin**. 
 
