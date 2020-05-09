@@ -9,18 +9,14 @@ show_hero: true
 menu:
   - title: Home
     url: /
-  - title: Tags
-    url: /tags
   - title: Categories
     url: /categories
   - title: About
     url: /about
-  - title: Resume
+  - title: Profile
     url: /about_me.html
   - title: Contact
     url: /contact
-  - title: Feed
-    url: /feed.xml
 
 
 # Social Media Settings
