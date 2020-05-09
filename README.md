@@ -16,11 +16,11 @@ The reason I decided to start a blog was to do my bit to give back to all those 
 
 ## Credits
 
-Thank you [Github](https://github.com) for [Github Pages](https://pages.github.com/), [Thiago Rossener](https://rossener.com/) for the wonderful [Jekyll theme](https://github.com/thiagorossener/jekflix-template), and last but not the least, [Netlify](https://www.netlifycms.org/) for the CMS.
+[Github](https://github.com) for [Github Pages](https://pages.github.com/), [Thiago Rossener](https://rossener.com/) for the wonderful [Jekyll theme](https://github.com/thiagorossener/jekflix-template), and last but not the least, [Netlify](https://www.netlifycms.org/) for the CMS.
 
 ## Let's Connect
 
-[Write to me](https://sarthakgarg.com/contact/) | [LinkedIn](https://www.linkedin.com/in/sarthak-garg-0997a418) | [Twitter](https://twitter.com/gargsaar) | [Gmail](mailto:gargsaar@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/sarthak-garg-0997a418), [Twitter](https://twitter.com/gargsaar), [Gmail](mailto:gargsaar@gmail.com), [Write to me](https://sarthakgarg.com/contact/)
 
 
 
