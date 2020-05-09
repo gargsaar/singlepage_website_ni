@@ -31,13 +31,13 @@ The excellent documentation on the [Github Help](https://help.github.com/en/gith
 
 On the settings page, in the **GitHub Pages** section, there is an option to **Choose a theme**, but frankly, there are countless other [themes](https://jekyllrb.com/docs/themes/) that are much better. So I chose to use a theme by [Thiago Rossener](https://rossener.com/). I downloaded [Jeklix-template](https://github.com/thiagorossener/jekflix-template) and uploaded all the files in my repository. Next, all I had to do was - edit a few files to make the theme personal.
 
-I started with **_config.yml** where I updated the #Site Settings, updated [disqus_usename](https://disqus.com/), removed a few items under #Social Media Settings, and updated the [google_analytics](https://analytics.withgoogle.com/) id. Followed by **CNAME** file where I added my custom domain name**.** Created a [markdown](https://www.markdownguide.org/getting-started/) file for myself in the folder **_authors.** Changed favicon and other icons at assets/img/icons, and blog_image.png at assets/img, and I was ready for adding **_posts**.
+I followed the template [wiki](https://github.com/thiagorossener/jekflix-template/wiki/settings), and started with **_config.yml** where I updated the #Site Settings, updated [disqus_usename](https://disqus.com/), removed a few items under #Social Media Settings, and updated the [google_analytics](https://analytics.withgoogle.com/) id. Followed by **CNAME** file where I added my custom domain name**.** Created a [markdown](https://www.markdownguide.org/getting-started/) file for myself in the folder **_authors.** Changed favicon and other icons at assets/img/icons, and blog_image.png at assets/img, and I was ready for adding **_posts**.
 
 Again, the [Jekyll documentation](https://jekyllrb.com/docs/) was so good that I could understand the framework and customise the template further.
 
 **DEPLOY** THE SITE IN NETLIFY,  AND OFF YOU GO
 
-To be honest, Netlify was a bit tricky at first, but once I got a hang, it was smooth. I began with creating an account at [Netlify.com](https://www.netlify.com/) and added **New site from Git.**
+To be honest, Netlify was a bit tricky at first, but once I got a hang, it was smooth. I began [here](https://app.netlify.com/start/deploy?), created an account at [Netlify.com](https://www.netlify.com/), and added **New site from Git.**
 
 ![netlify-add-new-site-from-git](/assets/images/post_images/netlify-add-new-site.png "netlify-add-new-site-from-git")
 
