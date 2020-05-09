@@ -51,7 +51,7 @@ For me, at **gargsaar.netlify.app/admin**.
 
 ![netlifycms](/assets/images/post_images/netlifycms.png "netlifycms")
 
-In the end, I want to say that I've nothing against [Wordpress](https://wordpress.org/), [Wix](https://www.wix.com/), and [Weebly](https://www.weebly.com/in), and they are equally good platforms for building websites. It's just that they are not free (need to pay for using custom domain), not as fast and secure, and most importantly, don't give a feel that we own the code. 
+In the end, I want to say that I've nothing against [Wordpress](https://wordpress.org/), [Wix](https://www.wix.com/), and [Weebly](https://www.weebly.com/in) - they are really good platforms for building websites. It's just that they are not free (need to pay for using custom domain), not as fast and (maybe) secure, but most importantly, they don't give a feel that we own the code. 
 
 So that's why I chose you all, because why to pay a penny for hosting websites elsewhere when we can do it for free!
 
