@@ -25,7 +25,9 @@ Setting up my blog, [iStandpoint](https://sarthakgarg.com/), was an easy 3 step 
 
 **CREATE** A REPOSITORY IN GITHUB
 
-The excellent documentation on the [Github Help](https://help.github.com/en/github/working-with-github-pages/creating-a-github-pages-site) helped me well in getting started. I created the [iStandpoint](https://github.com/gargsaar/iStandpoint) repository which now host [my](https://sarthakgarg.com/) blog, made it public so that I can host my site on Github for free, and used the custom domain bought at [godaddy](https://www.godaddy.com/). (my preferred domain name provider, they make domain management so easy.) 
+The excellent documentation on the [Github Help](https://help.github.com/en/github/working-with-github-pages/creating-a-github-pages-site) helped me well in getting started. I created the [iStandpoint](https://github.com/gargsaar/iStandpoint) repository in Github, which now host [my](https://sarthakgarg.com/) blog, and made the repository public so that I can host my site on Github for free.
+
+For using a custom domain, I had the option to configure the custom domain in Github or Netlify, I chose the [later](https://docs.netlify.com/domains-https/custom-domains/configure-external-dns/). So left the **Custom domain** in Github settings blank.
 
 **UPLOAD** A JEKYLL THEME AND CONFIGURE
 
@@ -43,11 +45,7 @@ There are many [options for deploying the Jekyll site](https://jekyllrb.com/docs
 
 Once the site was built, inside **app.netlify.com**, which is a console to manage the site, I configured [Site Settings](https://www.netlify.com/blog/2020/04/02/a-step-by-step-guide-jekyll-4.0-on-netlify/) and [Domain Settings](<Configure external DNS for a custom domain>) for the external DNS for a custom domain. 
 
-NetlifyCMS, the interface to create and manage content, was available at **https://netlify_site_name.netlify_subdomain.app/admin**. 
-
-![netlify-domain-settings](/assets/images/post_images/netlify-domain-settings.png "netlify-domain-settings")
-
-For me, at **gargsaar.netlify.app/admin**.
+NetlifyCMS, the interface to create and manage content, was available at **netlify_site_name.netlify_subdomain.app/admin** OR **custom_domain/admin**.
 
 ![netlifycms](/assets/images/post_images/netlifycms.png "netlifycms")
 
