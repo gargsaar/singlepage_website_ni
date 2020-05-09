@@ -37,7 +37,7 @@ Again, the [Jekyll documentation](https://jekyllrb.com/docs/) was so good that I
 
 **DEPLOY** THE SITE IN NETLIFY,  AND OFF YOU GO
 
-There are many [options for deploying the Jekyll site](https://jekyllrb.com/docs/deployment/third-party/) and I just chose to go with Netlify. To be honest, deployment was a bit tricky to understand at first, but once I got a hang, it was smooth. I created an account at [Netlify.com](https://www.netlify.com/) and followed [this](https://www.netlify.com/blog/2015/10/28/a-step-by-step-guide-jekyll-3.0-on-netlify/) post to add Git repo in Netlify and configure the Github**.**
+There are many [options for deploying the Jekyll site](https://jekyllrb.com/docs/deployment/third-party/) and I just chose to go with Netlify. To be honest, deployment was a bit tricky to understand at first, but once I got a hang, it was smooth. I created an account at [Netlify.com](https://www.netlify.com/), and followed [this](https://www.netlify.com/blog/2015/10/28/a-step-by-step-guide-jekyll-3.0-on-netlify/) post to add Git repo in Netlify and configure the repo**.**
 
 ![netlify-add-new-site-from-git](/assets/images/post_images/netlify-add-new-site.png "netlify-add-new-site-from-git")
 
