@@ -19,7 +19,7 @@ paginate: true
 
 If you search, you can find God. Searching for 'how to host a website for free' was far too easy and it was because you all exist. So, thank you!
 
-Thank you for [Github Pages](https://pages.github.com/) which allows us to host websites using custom domain for free. [Jekyll](https://jekyllrb.com/), you are awesome! Your markdown file based template based on Ruby framework is not only lightweight, but also database independent that makes it super easy to configure and manage static sites. And last but not the least, [Netlify](https://www.netlifycms.org/), without you, content management on Github would have been a nightmare. Your Open Source Content Management System, with an easy-to-use user interface, is simply the best.  
+Thank you for [Github Pages](https://pages.github.com/) which allows us to host websites using a custom domain for free. [Jekyll](https://jekyllrb.com/), you are awesome! Your markdown file based template based on Ruby framework is not only lightweight, but also database independent that makes it super easy to configure and manage static sites. And last but not the least, [Netlify](https://www.netlifycms.org/), without you, content management on Github would have been a nightmare. Your Open Source Content Management System, with an easy-to-use user interface, is simply the best.  
 
 Setting up my blog, [iStandpoint](https://sarthakgarg.com/), was an easy 3 step process: **Create**, **Upload**, and **Deploy**
 
@@ -35,13 +35,17 @@ On the settings page, in the **GitHub Pages** section, there is an option to **C
 
 I followed the template [wiki](https://github.com/thiagorossener/jekflix-template/wiki/settings), and started with **_config.yml** where I updated the #Site Settings, updated [disqus_usename](https://disqus.com/), removed a few items under #Social Media Settings, and updated the [google_analytics](https://analytics.withgoogle.com/) id. Created a [markdown](https://www.markdownguide.org/getting-started/) file for myself in the folder **_authors.** Changed favicon and other icons at assets/img/icons, and blog_image.png at assets/img, and I was ready for adding **_posts**.
 
+![Website_template_cover](/assets/images/post_images/template_cover.png "Website_template_cover")
+
 Again, the [Jekyll documentation](https://jekyllrb.com/docs/) was so good that I could understand the framework and customise the template further.
 
-**DEPLOY** THE SITE IN NETLIFY,  AND OFF YOU GO
+**DEPLOY** THE SITE IN NETLIFY
 
 There are many [options for deploying the Jekyll site](https://jekyllrb.com/docs/deployment/third-party/) and I just chose to go with Netlify. To be honest, deployment was a bit tricky to understand at first, but once I got a hang, it was smooth. I created an account at [Netlify.com](https://www.netlify.com/), and followed [this](https://www.netlify.com/blog/2015/10/28/a-step-by-step-guide-jekyll-3.0-on-netlify/) post to add Git repo in Netlify and configure the repo**.**
 
 ![netlify-add-new-site-from-git](/assets/images/post_images/netlify-add-new-site.png "netlify-add-new-site-from-git")
+
+And off you go, CONGRATULATIONS! YOU ARE NOW ALIVE ON THE INTERNET.
 
 Once the site was built, inside **app.netlify.com**, which is a console to manage the site, I configured [Site Settings](https://docs.netlify.com/) and [Domain Settings](https://docs.netlify.com/domains-https/custom-domains/configure-external-dns/) for the external DNS for a custom domain. 
 
