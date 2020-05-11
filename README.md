@@ -4,7 +4,7 @@
 
 My [Blog](https://sarthakgarg.com/) powered by [Jekflix](https://jekflix.rossener.com/)
 
-![Blog Cover](https://sarthakgarg.com/assets/img/blog-image.png)
+![Website Cover](https://github.com/gargsaar/iStandpoint/blob/master/assets/img/website_cover.png)
 
 ## About
 
