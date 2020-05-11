@@ -2,8 +2,8 @@
 date: 2020-05-07T11:58:02.000Z
 layout: post
 title: "Dear, Github, Jekyll, and Netlify: Thank You! "
-subtitle: How I host my website for free, and it is way too easy.
-description: How I host my website for free, and it is way too easy.
+subtitle: How I host my website for free, and it's quite easy.
+description: How I host my website for free, and it's quite easy.
 image: /assets/images/post_images/git-jekyll-netlify.png
 optimized_image: /assets/images/post_images/git-jekyll-netlify.png
 category: product
