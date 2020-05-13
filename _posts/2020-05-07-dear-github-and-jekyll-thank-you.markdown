@@ -19,13 +19,13 @@ paginate: true
 
 If you search, you can find God. Searching for 'how to host a website for free' was far too easy and it was because you all exist. So, thank you!
 
-Thank you for [Github Pages](https://pages.github.com/) which allows us to host websites using a custom domain for free. [Jekyll](https://jekyllrb.com/), you are awesome! Your markdown file based template based on Ruby framework is not only lightweight, but also database independent that makes it super easy to configure and manage static sites. And last but not the least, [Netlify](https://www.netlifycms.org/), without you, content management on Github would have been a nightmare. Your Open Source Content Management System, with an easy-to-use user interface, is simply the best.  
+Thank you for [Github Pages](https://pages.github.com/) which allows us to host websites using a custom domain for free. [Jekyll](https://jekyllrb.com/), you are awesome! The markdown file based themes that you provide are not only lightweight, but also database independent that makes it super easy to configure and manage static sites. And last but not the least, [Netlify](https://www.netlifycms.org/), without you, content management on Github would have been a nightmare. Your Open Source Content Management System, with an easy-to-use user interface, is simply the best.  
 
 Setting up my blog, [iStandpoint](https://sarthakgarg.com/), was an easy 3 step process: **Create**, **Upload**, and **Deploy**
 
 **CREATE** A REPOSITORY IN GITHUB
 
-The excellent documentation on the [Github Help](https://help.github.com/en/github/working-with-github-pages/creating-a-github-pages-site) helped me well in getting started. I created the [iStandpoint](https://github.com/gargsaar/iStandpoint) repository in Github, which now host [my](https://sarthakgarg.com/) blog, and made the repository public so that I can host my site on Github for free.
+The excellent documentation on the [Github Help](https://help.github.com/en/github/working-with-github-pages/creating-a-github-pages-site) helped me well in getting started. I created the [iStandpoint](https://github.com/gargsaar/iStandpoint) repository in Github, which now host [my](https://sarthakgarg.com/) blog, and made the repository public, so that I can host my site on Github for free.
 
 For using a custom domain, I had the option to configure the custom domain in Github or Netlify, I chose the [later](https://docs.netlify.com/domains-https/custom-domains/configure-external-dns/). So left the **Custom domain** in Github settings blank.
 
@@ -41,11 +41,9 @@ Again, the [Jekyll documentation](https://jekyllrb.com/docs/) was so good that I
 
 **DEPLOY** THE SITE IN NETLIFY
 
-There are many [options for deploying the Jekyll site](https://jekyllrb.com/docs/deployment/third-party/) and I just chose to go with Netlify. To be honest, deployment was a bit tricky to understand at first, but once I got a hang, it was smooth. I created an account at [Netlify.com](https://www.netlify.com/), and followed [this](https://www.netlify.com/blog/2015/10/28/a-step-by-step-guide-jekyll-3.0-on-netlify/) post to add Git repo in Netlify and configure the repo**.**
+There are many [options for deploying the Jekyll site](https://jekyllrb.com/docs/deployment/third-party/) and I would recommend to go with Netlify, they have made a very complex thing like deployment, very simple. I started by creating an account at [Netlify.com](https://www.netlify.com/), and followed [this](https://www.netlify.com/blog/2015/10/28/a-step-by-step-guide-jekyll-3.0-on-netlify/) post to add Git repo in Netlify and configured the repo**.**
 
 ![netlify-add-new-site-from-git](/assets/images/post_images/netlify-add-new-site.png "netlify-add-new-site-from-git")
-
-And off you go, CONGRATULATIONS! YOU ARE NOW ALIVE ON THE INTERNET.
 
 Once the site was built, inside **app.netlify.com**, which is a console to manage the site, I configured [Site Settings](https://docs.netlify.com/) and [Domain Settings](https://docs.netlify.com/domains-https/custom-domains/configure-external-dns/) for the external DNS for a custom domain. 
 
@@ -53,7 +51,9 @@ NetlifyCMS, the interface to create and manage content, was available at **netli
 
 ![netlifycms](/assets/images/post_images/netlifycms.png "netlifycms")
 
-In the end, I want to say that I've nothing against [Wordpress](https://wordpress.org/), [Wix](https://www.wix.com/), and [Weebly](https://www.weebly.com/in) - they are really good platforms for building websites. It's just that they are not free (need to pay for using custom domain), not as fast and (maybe) secure, but most importantly, they don't give a feel that we own the code. 
+And off you go, Congratulations! YOU ARE NOW ALIVE ON THE INTERNET.
+
+In the end, I want to say that I've nothing against [Wordpress](https://wordpress.org/), [Wix](https://www.wix.com/), and [Weebly](https://www.weebly.com/in) - they are really good platforms for building websites. It's just that they are not free (need to pay for using custom domain), not as fast, and most importantly, they don't give a feel that we own the code. 
 
 So that's why I chose you all, because why to pay a penny for hosting websites elsewhere when we can do it for free!
 
