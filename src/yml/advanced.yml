@@ -1,7 +1,7 @@
 # Advanced Settings
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://sarthakgarg.com" # the base hostname & protocol for your site
-google_analytics: "UA-32990225-2" #hardcoded in stats.html
+baseurl: "/iStandpoint" # the subpath of your site, e.g. /blog
+url: "https://gargsaar.github.io" # the base hostname & protocol for your site
+google_analytics: "" #hardcoded in stats.html
 language: "en"
 categories_folder: category
 sent_message_url: "/contact/message-sent/"
