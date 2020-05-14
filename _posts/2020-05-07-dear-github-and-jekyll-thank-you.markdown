@@ -2,8 +2,8 @@
 date: 2020-05-07T11:58:02.000Z
 layout: post
 title: "Dear, Github, Jekyll, and Netlify: Thank You! "
-subtitle: How I host my website for free, and it's quite easy.
-description: How I host my website for free, and it's quite easy.
+subtitle: How I host my website for free and it's quite easy.
+description: How I host my website for free and it's quite easy.
 image: /assets/images/post_images/git-jekyll-netlify.png
 optimized_image: /assets/images/post_images/git-jekyll-netlify.png
 category: product
@@ -55,6 +55,6 @@ And off you go, Congratulations! YOU ARE NOW ALIVE ON THE INTERNET.
 
 In the end, I want to say that I've nothing against [Wordpress](https://wordpress.org/), [Wix](https://www.wix.com/), and [Weebly](https://www.weebly.com/in) - they are really good platforms for building websites. It's just that they are not free (need to pay for using custom domain), not as fast, and most importantly, they don't give a feel that we own the code. 
 
-So that's why I chose you all, because why to pay a penny for hosting websites elsewhere when we can do it for free!
+So, that's why I chose you all because why to pay a penny for hosting websites elsewhere when we can do it for free!
 
 **Regards,** Fanboy
