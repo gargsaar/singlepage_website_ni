@@ -1,38 +1,83 @@
 <footer>
-    <div class="container">
-      <div class="row">
-        <div class="twelve columns">
-	        <p>"If you can inspire yourself, you can inspire a lot more people around you."</p>
-	        <p class="copyright text-muted">&copy; Sarthak Garg 2020 </p>
-            <!-- SNS Link -->
-            {% include sns-links.html center=true %}
-        </div>
-      </div>
-    </div>
+    <p>
+      {% if site.github_username %}
+        <a href="https://github.com/{{ site.github_username }}" title="Github">
+          <svg><use xlink:href="#icon-github"></use></svg>
+        </a>
+      {% endif %}
+      {% if site.twitter_username %}
+        <a href="https://twitter.com/{{ site.twitter_username }}" title="Twitter">
+          <svg><use xlink:href="#icon-twitter"></use></svg>
+        </a>
+      {% endif %}
+      {% if site.medium_username %}
+        <a href="https://medium.com/@{{ site.medium_username }}" title="Medium">
+          <svg><use xlink:href="#icon-medium"></use></svg>
+        </a>
+      {% endif %}
+      {% if site.instagram_username %}
+        <a href="https://www.instagram.com/{{ site.instagram_username }}" title="Instagram">
+          <svg><use xlink:href="#icon-instagram"></use></svg>
+        </a>
+      {% endif %}
+      {% if site.linkedin_username %}
+        <a href="https://www.linkedin.com/in/{{ site.linkedin_username }}" title="LinkedIn">
+          <svg><use xlink:href="#icon-linkedin"></use></svg>
+        </a>
+      {% endif %}
+    </p>
+
+    {% include links.html %}
+
+    <p>
+      <span>iStandpoint</span> - The Blog of <a href="https://sarthakgarg.com/about_me.html" target="_blank" class="creator">Sarthak Garg</a>
+    </p>
 </footer>
 
-<!-- jQuery -->
-<script src="{{ "/assets/js/jquery.min.js " | prepend: site.baseurl }}"></script>
-
-<!-- Bootstrap Core JavaScript -->
-<!-- Currently, only navbar scroll-down effect at desktop still depends on this -->
-<script src="{{ "/assets/js/bootstrap.min.js " | prepend: site.baseurl }}"></script>
-
-<!-- Custom Theme JavaScript -->
-<script src="{{ "/assets/js/hux-blog.min.js " | prepend: site.baseurl }}"></script>
-
-<!-- ARCHIVE JavaScript -->
-{% if page.title == 'Archive' %}
-<!-- jquery.tagcloud.js -->
-<script>
-    async('{{ "/assets/js/jquery.tagcloud.js" | prepend: site.baseurl }}',function(){
-        $.fn.tagcloud.defaults = {
-            //size: {start: 1, end: 1, unit: 'em'},
-            color: {start: '#bbbbee', end: '#2f93b4'},
-        };
-        $('#tag_cloud a').tagcloud();
-    })
-</script>
-<script src='{{ "/assets/js/archive.js " | prepend: site.baseurl }}'></script>
+{% assign social_urls = '' %}
+{% if site.github_username %}
+    {% assign social_urls = social_urls | append: '"https://github.com/' | append: site.github_username | append: '",' %}
+{% endif %}
+{% if site.twitter_username %}
+    {% assign social_urls = social_urls | append: '"https://twitter.com/' | append: site.twitter_username | append: '",' %}
+{% endif %}
+{% if site.medium_username %}
+    {% assign social_urls = social_urls | append: '"https://medium.com/@' | append: site.medium_username | append: '",' %}
+{% endif %}
+{% if site.instagram_username %}
+    {% assign social_urls = social_urls | append: '"https://www.instagram.com/' | append: site.instagram_username | append: '",' %}
+{% endif %}
+{% if site.linkedin_username %}
+    {% assign social_urls = social_urls | append: '"https://www.linkedin.com/in/' | append: site.linkedin_username | append: '",' %}
 {% endif %}
 
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Organization",
+  "name": "{{ site.name }}",
+  "description": "{{ site.description }}",
+  "url": "{{ site.url }}{{site.baseurl}}/",
+  "logo": {
+      "@type": "ImageObject",
+      "url": "{{ site.url }}{{site.baseurl}}/assets/img/icons/mediumtile.png",
+      "width": "600",
+      "height": "315"
+  },
+  "sameAs": [
+    {{ social_urls | split: "," | join: "," }}
+  ]
+}
+</script>
+
+<!-- Include the script that allows Netlify CMS login -->
+<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+
+<!-- Include the website scripts -->
+<script src="{{ '/assets/js/scripts.min.js' | prepend: site.baseurl }}"></script>
+
+<!-- Include Google Analytics script [moved to _include > head.html]-->
+<!--{% include stats.html %}-->
+
+<!-- Include extra scripts -->
+{% include extra-js.html %}

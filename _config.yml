@@ -1,76 +1,99 @@
-# Site settings
-title: iStandpoint
-SEOTitle: The Blog of Sarthak Garg
-header-img: assets/images/home-bg.jpg
-name: Sarthak Garg
+# Site Settings
+name: iStandpoint
+title: iStandpoint | The Blog of Sarthak Garg
+description: "Informal notes on product management and artificial intelligence. Short stories, that's icing on the cake!"
+tags: [blog, product management, jekyll, github, data science, short stories, startups, motivation, machine learning, artificial intelligence, life lessons]
 email: gargsaar@gmail.com
-description: Personal blog on product management, startups, data science, machine learning, artificial intelligence, and short stories
-keywords: blog, product management, creative writing, short stories, data science, machine learning, artificial intelligence, startup
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://sarthakgarg.com" # the base hostname & protocol for your site, e.g. http://example.com
-
-# Publish posts or collection documents with a future date.
-future: true
-
-#Social Media Settings
-twitter_username: gargsaar
-github_username:  gargsaar
-linkedin_username: sarthak-garg-0997a418
-
-# Disqus settings
 disqus_username: sg-istandpoint
+show_hero: true
+menu:
+  - title: Home
+    url: /
+  - title: Categories
+    url: /category
+  - title: About
+    url: /about
+  - title: Profile
+    url: /about_me.html
+  - title: Contact
+    url: /contact
+
+
+# Social Media Settings
+# Remove the item if you don't need it
+github_username: gargsaar
+twitter_username: gargsaar
+instagram_username: gargsaar
+linkedin_username: sarthak-garg-0997a418
+medium_username: gargsaar
+
+
+# Posts Settings
+show_time_bar: true
+show_modal_on_exit: true
+show_modal_on_finish_post: true
+two_columns_layout: true
+
+
+# Advanced Settings
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://sarthakgarg.com" # the base hostname & protocol for your site
+google_analytics: "UA-32990225-2" #hardcoded in stats.html
+language: "en"
+categories_folder: category
+sent_message_url: "/contact/message-sent/"
 
 
 # Build settings
-# from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
-highlighter: rouge
-permalink: /:categories/:title/
-paginate: 10
-exclude: ["less","node_modules","Gruntfile.js","package.json","README.md","README.zh.md"]
-anchorjs: true  # if you want to customize anchor. check out line:181 of `post.html`
-# If you have timezone issue (e.g. #68) in China, uncomment to use this:
-#timezone: CN  
-
-# Markdown settings
-# replace redcarpet to kramdown,
-# although redcarpet can auto highlight code, the lack of header-id make the catalog impossible, so I switch to kramdown
-# document: http://jekyllrb.com/docs/configuration/#kramdown
 markdown: kramdown
-kramdown:
-  input: GFM                            # use Github Flavored Markdown !important
-  syntax_highlighter_opts:
-    span:
-      line_numbers: false
-    block:
-      line_numbers: true
-      start_line: 1
+highlighter: rouge
+permalink: /:title/
+collections:
+  authors:
+    output: true
+paginate_path: "/page/:num/"
+show_get_theme_btn: false
+use_logo: false
 
-# Gems
-# from PR#40, to support local preview for Jekyll 3.0
-# make sure you have this gem installed
-# `$ gem install jekyll-paginate`
-plugins: [jekyll-paginate]
-paginate: 4
-paginate_path: "/page:num/"
+# Content paginator
+paginate_content:
+  enabled: true
+  debug: false
+  collections:
+    - posts
+  auto: true
+  separator: "--page-break--"
+  permalink: "/:num/"
+  seo_canonical: true
+  properties:
+    part:
+      is_generated: true
+    last:
+      is_generated: true
+    single:
+      is_generated: true
 
-# Google Analytics
-#ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
-#ga_domain: 
+# SASS
+sass:
+  style: compressed
 
-# Sidebar settings
-sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "I'm Sarthak! A startup enthusiast and creative writer. I believe Only thing real is Love."
-sidebar-avatar: /assets/images/6.JPG     # use absolute URL, seeing it's used in both `/` and `/about/`
+# Plugins
+plugins:
+  - jekyll-paginate
+  - jekyll-paginate-content
 
+# Exclude my node related stuff
+exclude: [
+  'package.json',
+  'package-lock.json',
+  'src',
+  'node_modules',
+  'initpost.sh',
+  'Gemfile',
+  'Gemfile.lock',
+  'gulpfile.js',
+  'README.md'
+]
 
-# Featured Tags
-featured-tags: true                     # whether or not using Feature-Tags
-featured-condition-size: 1              # A tag will be featured if the size of it is more than this condition value
-
-
-# Progressive Web Apps
-chrome-tab-theme-color: "#000000"
-service-worker: true
-
-# MathJax rendering for layout:page (e.g. post preview)
-page-mathjax: false
+# Theme
+version: v3.0.2

@@ -1,15 +1,17 @@
+---
+layout: compress
+---
+
 <!DOCTYPE html>
-<html lang="en">
-	
-	{% include head.html %}
-	
-	<!-- hack iOS CSS :active style -->
-	<body ontouchstart="">		
-		{% include header.html %}	
-			{{ content }}
-		{% include footer.html %}
-	
-		{% include scripts.html %}
-	
-	</body>
+<html lang="{{ site.language }}" class="no-js">
+    {% include head.html %}
+    <body class="has-push-menu">
+        {% include svg-icons.html %}
+        {% include header.html %}
+            <section class="content">
+                {{ content }}
+            </section>
+        {% include footer.html %}
+    </body>
 </html>
+
