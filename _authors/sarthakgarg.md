@@ -5,7 +5,7 @@ name: sarthakgarg
 display_name: Sarthak Garg
 position: Author
 bio: >-
-  A startup enthusiast, python fanboy, and creative writer who believes, "we live once, we die once, and the only thing real is love."
+  A startup enthusiast, python fanboy and creative writer who believes, "we live once, we die once, and the only thing real is love."
 github_username: gargsaar
 twitter_username: gargsaar
 instagram_username: gargsaar
