@@ -1,5 +1,3 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/b47998e8-ce95-47e5-8061-2807cfb523b0/deploy-status)](https://app.netlify.com/sites/gargsaar/deploys)
-
 # iStandpoint
 
 My [Blog](https://sarthakgarg.com/) powered by [Jekflix](https://jekflix.rossener.com/)
