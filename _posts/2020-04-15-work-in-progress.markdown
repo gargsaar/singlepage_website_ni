@@ -1,7 +1,7 @@
 ---
 date: 2020-04-13T21:56:56.000Z
 layout: post
-title: work in progress
+title: Creative Writing Thoughts - work in progress
 subtitle: creative ideas
 description: wip - creative ideas
 category: life
