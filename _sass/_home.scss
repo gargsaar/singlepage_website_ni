@@ -2,7 +2,7 @@
   @include mainFont(400);
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  padding-top: rem(80px);
+  padding-top: rem(60px);
 
   @include media(">=sm") {
     padding-top: rem(100px);
