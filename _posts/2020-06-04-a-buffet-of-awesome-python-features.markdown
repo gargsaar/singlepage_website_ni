@@ -1,8 +1,10 @@
 ---
-date: 2020-06-04 08:18:58
+date: 2020-06-04T08:18:58.000Z
 layout: post
-title: A Buffet of Awesome Python Features
-description: A Buffet of Awesome Python Features
+title: 10 Features Every Python Programmer Must Know
+description: 10 Features Every Python Programmer Must Know - A Bookmark
+image: /assets/images/post_images/python-features-programmer-must-know.webp
+optimized_image: /assets/images/post_images/python-features-programmer-must-know.webp
 category: "{{slug}}"
 tags:
   - Python
@@ -21,8 +23,6 @@ SyntaxError: "invalid syntax"
 ```
 
 **2. Leading Dunder: “__var”**
-
-
 
 **3. Single Underscore: “_”**
 
