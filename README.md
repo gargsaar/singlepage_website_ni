@@ -1,6 +1,6 @@
 # iStandpoint
 
-My [Blog](https://sarthakgarg.com/) powered by [Jekflix](https://jekflix.rossener.com/)
+My [Blog](https://sarthakgarg.com/) powered by [Jekyll](https://jekyllrb.com/)
 
 ![Website Cover](https://github.com/gargsaar/iStandpoint/blob/master/assets/img/website_cover.png)
 
@@ -14,7 +14,7 @@ The reason I decided to start a blog was to do my bit to give back to all those 
 
 ## Credits
 
-[Github](https://github.com) for [Github Pages](https://pages.github.com/), [Thiago Rossener](https://rossener.com/) for the wonderful [Jekyll theme](https://github.com/thiagorossener/jekflix-template), and last but not the least, [Netlify](https://www.netlifycms.org/) for the CMS.
+[Github](https://github.com) for [Github Pages](https://pages.github.com/), [Thiago Rossener](https://rossener.com/) for the wonderful [Jekflix theme](https://github.com/thiagorossener/jekflix-template), and last but not the least, [Netlify](https://www.netlifycms.org/) for the CMS.
 
 ## Let's Connect
 
