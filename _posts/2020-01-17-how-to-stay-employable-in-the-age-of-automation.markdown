@@ -30,7 +30,7 @@ Sooner, AI will empower machines to do all these jobs and will increase the unem
 
 It may all sound gloomy, but there is a hope. The change will also be for good. 
 
-In-fact, the whole purpose of technology evolution is to bring the change. A change because of which things would not remain the same. And it has been historically as well. As the technology has evolved, things have changed. [This is how humans have evolved](https://www.preceden.com/timelines/37313-how-did-we-came-to-the-information-age-) from Agriculture age to Information age.
+In-fact, the whole purpose of technology evolution is to bring the change. A change because of which things would not remain the same. And it has been historically as well. As the technology has evolved, things have changed. This is [how humans have evolved](https://www.preceden.com/timelines/37313-how-did-we-came-to-the-information-age-) from Agriculture age to Information age.
 
 The hope is that as we will go far beyond the information age where machines will perform jobs with higher efficiency and reduce the number of jobs in the human labor class. But this migration will be to move humans at the bottom of the pyramid towards the top. Advancements in technology will lead to creation of many more new layer of jobs that did not exist before and will divert humans towards a more fulfilling work environment. However, the skills that would be required for the jobs of future will be completely different.
 
