@@ -6,7 +6,7 @@ title: About
 permalink: /about/
 description: About
 ---
-<img class="img-rounded" src="/assets/images/6.JPG" alt="Sarthak Garg" width="400">
+<img class="img-rounded" src="/assets/images/6.JPG" alt="Sarthak Garg" width="350">
 
 # About
 
