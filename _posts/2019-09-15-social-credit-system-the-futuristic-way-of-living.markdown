@@ -1,5 +1,5 @@
 ---
-date: 2019-01-21T00:00:00.000Z
+date: 2019-09-15T00:00:00.000Z
 layout: post
 title: Social Credit System – The Futuristic Way Of Living
 subtitle: >-
