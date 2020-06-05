@@ -34,7 +34,7 @@ When my architecture friends were studying history and romance which they used i
 
 I somehow completed engineering and as Sharma uncle had said, I got the job. But I, who was initially having creativity, just a few years in IT and I lost all of it. I turned dull and boring like a used underwear.
 
-Then came the moment of awakening.
+[Then came the moment of awakening](https://sarthakgarg.com/the-sun-will-rise-again/).
 
 On a bright Sunday morning when people were trying to break-out of mediocrity, I was sitting on a lousy couch in my living room, browsing youtube videos to serve the normal routine of my ordinary life. After a few useless videos, I came across a TEDx video of a software engineer from my hometown, a tier 2 city in Uttar Pradesh, India, whose startup recently got $30 mn funding. I paused the video, in shock or surprise — whatever that weird feeling was, to absorb the fact — that man was Kunal, my batch mate from engineering.
 
