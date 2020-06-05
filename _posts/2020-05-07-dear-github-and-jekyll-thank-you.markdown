@@ -51,7 +51,7 @@ NetlifyCMS, the interface to create and manage content, was available at **netli
 
 ![netlifycms](/assets/images/post_images/netlifycms.png "netlifycms")
 
-And off you go, Congratulations! YOU ARE NOW ALIVE ON THE INTERNET.
+And off I go, Hurray! I'M NOW [ALIVE](https://sarthakgarg.com/about_me.html) ON THE INTERNET.
 
 In the end, I want to say that I've nothing against [Wordpress](https://wordpress.org/), [Wix](https://www.wix.com/), and [Weebly](https://www.weebly.com/in) - they are really good platforms for building websites. It's just that they are not free (need to pay for using custom domain), not as fast, and most importantly, they don't give a feel that we own the code. 
 
