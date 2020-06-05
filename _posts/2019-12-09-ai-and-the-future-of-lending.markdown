@@ -19,9 +19,9 @@ tags:
   - Lending
 paginate: true
 ---
-Financial Institutions (FIs) are fortunate to be in this time where they have the opportunity to take a giant step forward for creating a long-term strategic impact. As the digitization of financial services continues, they have tremendous opportunities to grow business.  The proliferation of technology along with deep business expertise can help FIs examine their businesses and find answers to complex questions that typically remained unanswered today, for example - how to assess risk.
+Financial Institutions (FIs) are fortunate to be in this time where they have the opportunity to take a giant step forward for creating a long-term strategic impact. As the digitization of financial services continues, they have tremendous opportunities to grow business. The proliferation of technology along with deep business expertise can help FIs examine their businesses and find answers to complex questions that typically remained unanswered today, for example - how to assess risk.
 
-To seize this opportunity, FIs need to have a trust in the technology. Technology such as Machine Learning and Artificial Intelligence  can help them where they have traditionally failed. For example, risk assessment of new-to-bank or thin file customers.
+To seize this opportunity, FIs need to have a trust in the technology. Technology such as [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning) and [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence) can help them where they have traditionally failed. For example, risk assessment of new-to-bank or thin file customers.
 
 Artificial Intelligence can help FIs understand borrower’s characteristics, like honesty, ethics, behavior, and attitude, so that even if the capacity-to-pay is not evident, FIs can lend on the basis of borrower's positive intention to pay. By collecting data from borrowers’ smartphones on their phone usage patterns, type of apps installed, phone make and model, and location patterns, Artificial Intelligence can determine the intent-to-pay.
 
