@@ -22,4 +22,4 @@ We often forget that we have a lot more potential and there are infinite things 
 
 Life is not a hundred meter sprint, but a 'Relay' race whereby we accept the baton from those that passed this way before, do our best, and then attempt to pass the baton on without fumbling it. This is [how mankind has evolved](https://sarthakgarg.com/how-to-stay-employable-in-the-age-of-automation/), one individual, one group, one generation learning from, and building upon what went before. Our job is to, at very least, 'pass the baton'!
 
-PS: It's a real [tiger](http://tigerpark.co.th/) cub, incase u didn't notice it in the picture above :)
+PS: It's a real [tiger](http://tigerpark.co.th/) cub, incase u didn't notice the picture above :)
