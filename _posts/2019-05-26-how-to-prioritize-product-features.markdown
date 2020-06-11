@@ -3,9 +3,8 @@ date: 2019-05-26T00:00:00.000Z
 layout: post
 title: How to prioritize product features
 subtitle: How to prioritize features for agile product development
-description: >-
-  A framework for prioritizing new features into your product by using a simple
-  grid of Business Value versus Implementation Complexity
+description: A framework for prioritizing new features into your product by
+  using a simple grid of Business Value versus Implementation Complexity
 image: /assets/images/post_images/prioritize.png
 optimized_image: /assets/images/post_images/prioritize.png
 author: sarthakgarg
@@ -13,8 +12,7 @@ lang: en
 header-style: text
 category: product
 tags:
-  - Management
-  - Product
+  - Tools
 paginate: true
 ---
 Deciding what features to do in your next product release can be difficult. Being product owners it is our responsibility to decide the highest value features. In this post I've shared a concept helpful in prioritizing features for agile product development.
