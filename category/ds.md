@@ -1,6 +1,6 @@
 ---
 layout: category
 title: Data Science
-slug: ai
+slug: ds
 description: Statistics, Machine Learning and Artificial Intelligence
 ---
