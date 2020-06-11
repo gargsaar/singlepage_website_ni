@@ -17,7 +17,7 @@ Python has so many hidden gems that even knowing a few of them can put you in th
 
 Single and double underscores have a meaning in Python variable and method names. Some of that meaning is merely by convention and intended as a hint to the programmer—and some of it is enforced by the Python interpreter.
 
-In this blog I’ll discuss all the five underscore patterns available in Python, and how they affect the behavior of our Python programs.
+In this blog, I’ll discuss all the five underscore patterns available in Python, and how they affect the behavior of our Python programs.
 
 1. Single Leading Underscore:**_var**
 
