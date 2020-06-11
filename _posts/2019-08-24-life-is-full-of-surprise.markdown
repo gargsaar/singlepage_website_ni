@@ -9,7 +9,7 @@ optimized_image: /assets/images/post_images/ladoo.jpg
 author: sarthakgarg
 lang: en
 header-style: text
-category: life
+category: Life
 tags:
   - Humor
 paginate: true
