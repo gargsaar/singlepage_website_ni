@@ -1,5 +1,5 @@
 ---
-date: 2020-06-11 22:02:17
+date: 2020-06-5 22:02:17
 layout: post
 title: Features every Python Programmer must know
 subtitle: A curated list of features every Python programmer must know.
@@ -8,6 +8,7 @@ image: /assets/images/post_images/python-features-programmer-must-know.webp
 optimized_image: /assets/images/post_images/python-features-programmer-must-know.webp
 category: Python
 tags:
+  - Coding
   - Tools
 author: sarthakgarg
 paginate: true
