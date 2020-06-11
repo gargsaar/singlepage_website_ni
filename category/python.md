@@ -1,6 +1,6 @@
 ---
 layout: category
 title: Python
-slug: "{{slug}}"
+slug: Python
 description: Coding, Python, Command Line
 ---
