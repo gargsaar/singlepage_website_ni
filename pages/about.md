@@ -10,7 +10,7 @@ description: About
 
 # About
 
-Hola! My name is Sarthak...and I've a standpoint. 
+Hola! My name is [Sarthak](https://sarthakgarg.com/about_me.html)...and I've a standpoint. 
 
 [iStandpoint](https://sarthakgarg.com) is my blog. It's a repository of my learnings and ideas from which opinions and decisions are formed. It's my legacy :).
 
@@ -22,4 +22,6 @@ We often forget that we have a lot more potential and there are infinite things 
 
 Life is not a hundred meter sprint, but a 'Relay' race whereby we accept the baton from those that passed this way before, do our best, and then attempt to pass the baton on without fumbling it. This is [how mankind has evolved](https://sarthakgarg.com/how-to-stay-employable-in-the-age-of-automation/), one individual, one group, one generation learning from, and building upon what went before. Our job is to, at very least, 'pass the baton'!
 
-PS: It's a real [tiger](http://tigerpark.co.th/) cub, incase u didn't notice:)
+What I do apart from writing? [Check my Profile](https://sarthakgarg.com/about_me.html).
+
+PS: It's a real [tiger](http://tigerpark.co.th/) cub in the picture above, incase u didn't notice:)
