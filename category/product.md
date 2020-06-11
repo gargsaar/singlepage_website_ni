@@ -1,7 +1,7 @@
 ---
 layout: category
-title: Product Management
-slug: product
+title: Product
+slug: "{{slug}}"
 description: A category for product management related posts.
 ---
 
