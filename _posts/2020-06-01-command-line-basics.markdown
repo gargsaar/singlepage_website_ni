@@ -1,5 +1,5 @@
 ---
-date: 2020-06-04T08:18:58.000Z
+date: 2020-06-01T08:18:58.000Z
 layout: post
 title: Command Line Basics
 subtitle: Mastering the command line is a must for every programmer.
@@ -8,8 +8,8 @@ image: /assets/images/post_images/command-line.jpeg
 optimized_image: /assets/images/post_images/command-line.jpeg
 category: Python
 tags:
-  - Python
-  - Commands
+  - Coding
+  - Tools
 author: sarthakgarg
 paginate: true
 ---
