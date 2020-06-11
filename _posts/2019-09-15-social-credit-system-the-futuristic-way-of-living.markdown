@@ -15,7 +15,7 @@ header-style: text
 category: life
 tags:
   - Technology
-  - AI
+  - Artificial Intelligence
 paginate: true
 ---
 We are living in a world where many of our daily activities are constantly monitored: what we buy at the shops and online; where we are at any given time; who our friends are and how we interact with them; what kind of videos we watch and how long; what bills and taxes we pay (or not); etc, thanks to all the data-collecting behemoths like Google, Facebook, Amazon, Instagram or health-tracking apps such as Fitbit, Apple Watch, etc.
