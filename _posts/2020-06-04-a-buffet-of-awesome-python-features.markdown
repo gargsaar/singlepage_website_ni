@@ -1,7 +1,7 @@
 ---
 date: 2020-06-04T08:18:58.000Z
 layout: post
-title: Command Line Basics Every Programmer Must Know
+title: Command Line Basics
 subtitle: Mastering the command line greatly improves productivity during development.
 description: Mastering the command line greatly improves productivity during development.
 image: /assets/images/post_images/command-line.jpeg
