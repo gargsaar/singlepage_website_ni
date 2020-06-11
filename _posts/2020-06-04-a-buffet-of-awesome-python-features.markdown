@@ -9,6 +9,7 @@ optimized_image: /assets/images/post_images/command-line.jpeg
 category: Python
 tags:
   - Python
+  - Commands
 author: sarthakgarg
 paginate: true
 ---
