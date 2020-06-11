@@ -1,5 +1,5 @@
 ---
-date: 2020-06-5 22:02:17
+date: 2020-06-05T08:18:58.000Z
 layout: post
 title: Features every Python Programmer must know
 subtitle: A curated list of features every Python programmer must know.
