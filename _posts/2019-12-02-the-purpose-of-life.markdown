@@ -11,7 +11,7 @@ optimized_image: /assets/images/post_images/purpose.jpeg
 author: sarthakgarg
 lang: en
 header-style: text
-category: life
+category: Life
 tags:
   - Motivation
   - Humor
