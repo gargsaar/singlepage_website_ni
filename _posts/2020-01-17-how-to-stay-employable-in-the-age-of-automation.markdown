@@ -13,6 +13,7 @@ category: life
 tags:
   - Motivation
   - Artificial Intelligence
+  - Technology
 paginate: true
 ---
 *“A man who can be replaced by a machine, will be.”*
