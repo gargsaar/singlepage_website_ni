@@ -7,7 +7,7 @@ description: A curated list of not so common, but very powerful Python features
   that every Python programmer must know
 image: /assets/images/post_images/python-features-programmer-must-know.webp
 optimized_image: /assets/images/post_images/python-features-programmer-must-know.webp
-category: "{{slug}}"
+category: Python
 tags:
   - Python
 author: sarthakgarg
