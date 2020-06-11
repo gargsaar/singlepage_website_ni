@@ -1,6 +1,6 @@
 ---
 layout: category
 title: Life
-slug: life
+slug: "{{slug}}"
 description: A category for life related or motivational posts.
 ---
