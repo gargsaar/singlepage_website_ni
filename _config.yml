@@ -9,14 +9,12 @@ show_hero: true
 menu:
   - title: Home
     url: /
-  - title: Categories
-    url: /category
   - title: About
     url: /about
   - title: Profile
     url: /about_me.html
-  - title: Resume
-    url: /assets/resume.pdf
+  - title: Categories
+    url: /category
   - title: Contact
     url: /contact
 
