@@ -2,12 +2,10 @@
 date: 2019-12-09T00:00:00.000Z
 layout: post
 title: AI and the future of lending
-subtitle: >-
-  Artificial Intelligence will drive the customer experience throughout the loan
-  life-cycle
-description: >-
-  Artificial Intelligence will find answers to questions unanswered today, what
-  customer thinks and how he behaves?
+subtitle: Artificial Intelligence will drive the customer experience throughout
+  the loan life-cycle
+description: Artificial Intelligence will find answers to questions unanswered
+  today, what customer thinks and how he behaves?
 image: /assets/images/post_images/behavior.jpeg
 optimized_image: /assets/images/post_images/behavior.jpeg
 author: sarthakgarg
@@ -15,8 +13,9 @@ lang: en
 header-style: text
 category: ai
 tags:
-  - Analytics
+  - Credit Scoring
   - Lending
+  - AI
 paginate: true
 ---
 Financial Institutions (FIs) are fortunate to be in this time where they have the opportunity to take a giant step forward for creating a long-term strategic impact. As the digitization of financial services continues, they have tremendous opportunities to grow business. The proliferation of technology along with deep business expertise can help FIs examine their businesses and find answers to complex questions that typically remained unanswered today, for example - how to assess risk.
