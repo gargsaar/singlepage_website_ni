@@ -1,9 +1,8 @@
 ---
-date: 2020-06-11 19:14:44
+date: 2020-06-11T19:14:44.000Z
 layout: post
 title: "Bookmark: Command Line"
-subtitle: Mastering the command line can greatly improve your productivity
-  during development.
+subtitle: Mastering the command line greatly improves productivity during development.
 description: Mastering the command line can greatly improve your productivity
   during development.
 image: /assets/images/post_images/command-line.jpeg
