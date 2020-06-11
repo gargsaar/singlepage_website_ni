@@ -1,10 +1,9 @@
 ---
 date: 2020-06-04T08:18:58.000Z
 layout: post
-title: 10 Features Every Python Programmer Must Know
-subtitle: A curated list of very powerful Python features
-description: A curated list of not so common, but very powerful Python features
-  that every Python programmer must know
+title: Command Line Basics Every Python Programmer Must Know
+subtitle: Mastering the command line greatly improves productivity during development.
+description: Mastering the command line greatly improves productivity during development.
 image: /assets/images/post_images/command-line.jpeg
 optimized_image: /assets/images/post_images/command-line.jpeg
 category: Python
