@@ -6,7 +6,7 @@ subtitle: How I host my website for free and it's quite easy.
 description: How I host my website for free and it's quite easy.
 image: /assets/images/post_images/git-jekyll-netlify.png
 optimized_image: /assets/images/post_images/git-jekyll-netlify.png
-category: product
+category: Product
 tags:
   - Jekyll
   - Github
