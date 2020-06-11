@@ -2,14 +2,13 @@
 date: 2020-06-11T19:14:44.000Z
 layout: post
 title: Features every Python Programmer must know
-subtitle: A curated list features every Python programmer must know.
-description: A curated list features every Python programmer must know.
+subtitle: A curated list of features every Python programmer must know.
+description: A curated list of features every Python programmer must know.
 image: /assets/images/post_images/python-features-programmer-must-know.webp
 optimized_image: /assets/images/post_images/python-features-programmer-must-know.webp
 category: Python
 tags:
-  - Python
-  - Cheatsheet
+  - Tools
 author: sarthakgarg
 paginate: true
 ---
