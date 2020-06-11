@@ -8,10 +8,10 @@ image: /assets/images/post_images/git-jekyll-netlify.png
 optimized_image: /assets/images/post_images/git-jekyll-netlify.png
 category: product
 tags:
-  - web development
-  - jekyll
-  - github
-  - netlify
+  - Jekyll
+  - Github
+  - Netlify
+  - Blog
 author: sarthakgarg
 paginate: true
 ---
