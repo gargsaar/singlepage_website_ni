@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Artificial Intelligence
+title: Data Science
 slug: ai
-description: A category for data science, machine learning, artificial intelligence related posts.
+description: Statistics, Machine Learning and Artificial Intelligence
 ---
