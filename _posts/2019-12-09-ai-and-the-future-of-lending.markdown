@@ -11,7 +11,7 @@ optimized_image: /assets/images/post_images/behavior.jpeg
 author: sarthakgarg
 lang: en
 header-style: text
-category: ds
+category: Data_Science
 tags:
   - Credit Scoring
   - Lending
