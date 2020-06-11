@@ -9,10 +9,10 @@ optimized_image: /assets/images/post_images/automation.jpg
 author: sarthakgarg
 lang: en
 header-style: text
-category: ds
+category: life
 tags:
   - Motivation
-  - AI
+  - Artificial Intelligence
 paginate: true
 ---
 *“A man who can be replaced by a machine, will be.”*
