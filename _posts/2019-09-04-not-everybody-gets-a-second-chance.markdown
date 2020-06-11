@@ -14,6 +14,7 @@ header-style: text
 category: life
 tags:
   - Empathy
+  - Motivation
 paginate: true
 ---
 Rahul works with IBM, New York. It has been 6 years since he moved to the US right after his graduation. He lives with his parents. He hardly speaks to them. Like every year, he was waiting for Tina's call; and like every year, she didn't call. It's his birthday today.
