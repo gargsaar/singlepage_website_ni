@@ -2,8 +2,8 @@
 date: 2020-01-17T00:00:00.000Z
 layout: post
 title: How to stay employable in the age of automation
-subtitle: 'AI will replace humans, but the change will be for good'
-description: 'AI will replace humans, but the change will be for good'
+subtitle: AI will replace humans, but the change will be for good
+description: AI will replace humans, but the change will be for good
 image: /assets/images/post_images/automation.jpg
 optimized_image: /assets/images/post_images/automation.jpg
 author: sarthakgarg
@@ -12,6 +12,7 @@ header-style: text
 category: ai
 tags:
   - Motivation
+  - AI
 paginate: true
 ---
 *“A man who can be replaced by a machine, will be.”*
