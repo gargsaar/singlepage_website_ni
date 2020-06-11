@@ -11,7 +11,7 @@ optimized_image: /assets/images/post_images/sorrow.png
 author: sarthakgarg
 lang: en
 header-style: text
-category: life
+category: Life
 tags:
   - Empathy
   - Motivation
