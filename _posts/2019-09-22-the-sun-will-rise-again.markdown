@@ -12,6 +12,7 @@ header-style: text
 category: life
 tags:
   - Empathy
+  - Motivation
 paginate: true
 ---
 December 13, 2018. I was in a hospital room sitting on a chair, and in front of me, my father was lying. Through tears, I remembered the lesson life had taught me which gave me the strength to sit there.
