@@ -1,9 +1,9 @@
 ---
 date: 2020-06-04T08:18:58.000Z
 layout: post
-title: Command Line Basics Every Programmer Must Know
-subtitle: Mastering the command line greatly improves productivity during development.
-description: Mastering the command line greatly improves productivity during development.
+title: Command Line Basics
+subtitle: Mastering the command line is a must for every programmer.
+description: Mastering the command line is a must for every programmer.
 image: /assets/images/post_images/command-line.jpeg
 optimized_image: /assets/images/post_images/command-line.jpeg
 category: Python
@@ -13,7 +13,9 @@ tags:
 author: sarthakgarg
 paginate: true
 ---
-Interacting with a computer through a command-line interface (CLI) is a powerful technique. Mastering the command line can greatly improve your productivity during development. Below is a list of the most fundamental commands for navigating, manipulating and inspecting files.
+Interacting with a computer through a command-line interface (CLI) is a powerful technique. Mastering the command line can greatly improve your productivity during development. 
+
+Below is a list of the most fundamental commands for navigating, manipulating and inspecting files.
 
 PYTHON
 
