@@ -10,7 +10,7 @@ optimized_image: /assets/images/post_images/prioritize.png
 author: sarthakgarg
 lang: en
 header-style: text
-category: product
+category: Product
 tags:
   - Tools
 paginate: true
