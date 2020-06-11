@@ -11,7 +11,6 @@ lang: en
 header-style: text
 category: life
 tags:
-  - Short Story
   - Empathy
 paginate: true
 ---
