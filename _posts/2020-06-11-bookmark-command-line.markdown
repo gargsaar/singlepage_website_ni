@@ -6,7 +6,7 @@ subtitle: Mastering the command line greatly improves productivity during develo
 description: Mastering the command line can greatly improve your productivity
   during development.
 image: /assets/images/post_images/command-line.jpeg
-category: Python
+category: life
 tags:
   - Python
   - Coding
