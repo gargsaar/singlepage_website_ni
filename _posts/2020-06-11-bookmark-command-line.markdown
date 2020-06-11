@@ -1,7 +1,7 @@
 ---
 date: 2020-06-11T19:14:44.000Z
 layout: post
-title: A curated list of must to know Python features
+title: Features every Python Programmer must know
 subtitle: A curated list features every Python programmer must know.
 description: A curated list features every Python programmer must know.
 image: /assets/images/post_images/python-features-programmer-must-know.webp
