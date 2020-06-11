@@ -13,9 +13,9 @@ lang: en
 header-style: text
 category: life
 tags:
-  - Short Story
   - Motivation
   - Humor
+  - Empathy
 paginate: true
 ---
 William Shakespeare said, “all the world’s a stage, and all the men and women merely players who have their entrances and exits;” It’s a beautiful quote that defines the phenomenon of nature — entrances and exists, but I believe, that’s not important; what’s important is the purpose.
