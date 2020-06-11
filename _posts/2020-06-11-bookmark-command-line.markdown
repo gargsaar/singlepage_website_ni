@@ -1,65 +1,45 @@
 ---
 date: 2020-06-11T19:14:44.000Z
 layout: post
-title: "Bookmark: Command Line"
-subtitle: Mastering the command line greatly improves productivity during development.
-description: Mastering the command line can greatly improve your productivity
-  during development.
-image: /assets/images/post_images/command-line.jpeg
+title: A curated list of must to know Python features
+subtitle: A curated list features every Python programmer must know.
+description: A curated list features every Python programmer must know.
+image: /assets/images/post_images/python-features-programmer-must-know.webp
+optimized_image: /assets/images/post_images/python-features-programmer-must-know.webp
 category: Python
 tags:
   - Python
-  - Coding
   - Cheatsheet
 author: sarthakgarg
 paginate: true
 ---
-Interacting with a computer through a command-line interface (CLI) is a powerful technique. Mastering the command line can greatly improve your productivity during development. Below is a list of the most fundamental commands for navigating, manipulating and inspecting files.
+### UNDERSCORES AND DUNDERS 
 
-PYTHON\
-`Open Python terminal: $ python`\
-`Exit Python terminal: >>> exit() (or [CRTL]D)`\
-`Print the last executed statement: $ _`\
-`Execute a command: $ python -c "print('Real Python')"`
+'dunders' means double underscores
 
-MAC OS\
-`Map Python Version: $ echo "alias python=/usr/local/bin/python3.7" >> ~/.zshrc`\
-`Exit i.e. terminate any current process and start new line: $ ^c (^ = [CTRL])`\
-`Find out the language of the terminal (zsh/bash/sh) : $ echo $0`\
-`Read manual of command: $ man <cmd> ([ENTER] to scroll, q to quit)`\
-\
-VIRTUAL ENV\
-`Create a new virtual environment: $ python -m venv <dir_name>`\
-`Goto <dir_name>/bin, activate: $ source activate (This will prepend the path to “venv” at the beginning of the $PATH variable. )`\
-`Exit the virtual environment: $ deactivate`
+• Single Leading Underscore: **_var**
 
-JUYPTER LAB\
-`Start JupyterLab: $ jupyter lab`
+Use a single underscore  (prefix) before variable name to indicate that the variable is meant for internal use. It is generally not enforced by the Python interpreter and is only meant as a hint to the programmer.
 
-NAVIGATE AND EXPLORE\
-`Print working directory: $ pwd`\
-`Go back to a directory: $ cd ..`\
-`Go two directories back: $ cd ../..`\
-`List the files in a specific directory: $ ls <dir_name>`\
-`Go to Root directory: $ cd /`\
-`Go to Home directory: $ cd [ENTER]`\
-`View items in list view with details: $ ls -l (use -lt or add -t to sort)`\
-`View files with a specific file extension: $ ls *<.extn>`\
-`Current directory: $ .`\
-`Open a file: $ open <file_path>`\
-`View hidden files: $ ls -a`
+• Single Trailing Underscore: **var_**
 
-CREATE FILES AND DIRECTORIES, WORKING WITH FILES\
-`Create a directory: $ mkdir <dir_name>`\
-`Create multiple directories: $ mkdir <dir1> <dir2> <dirN>`\
-`Create a file: $ touch <file_name>`\
-`Read a file: $ cat <file_name>`\
-`Write to a file: $ echo "<text>" >> <file_name> (use > to rewrite the text)`\
-`Create a file in a directory using echo: $ echo "<text>" > <file_name>`\
-`Print text of multiple files together: $ cat <file1> <file2>`\
-`Concatenate content of multiple files in a file: $ cat <file1> <file2> > <file3>`\
-`Move file: $ mv <file_name> <dir_path>`\
-`Rename file: $ mv <file_name> <new_name>`\
-`Copy file: $ cp <copy_file> <copied_file>`\
-`Remove file: $ rm <fine_name> (this will remove file not dir)`\
-`Remove dir: $ rm -rf <dir_name> (r - recursive, f - force)`
+Append Single trailing underscore (postfix) after variable or function name to avoid naming conflicts with Python keywords.
+
+• Double Leading Underscore: **__var**
+
+A double underscore prefix causes the Python interpreter to rewrite the attribute name in order to avoid naming conflicts in subclasses.
+
+This is also called name mangling—the interpreter changes the name of the variable in a way that makes it harder to create collisions when the class is extended. It changes it to: _ClassName__VariableName
+
+• Double Leading and Trailing Underscore: **\_\_var\_\_**
+
+Names that have both leading and trailing double underscores are reserved for special use in the language, and are left unscathed by Python interpreter.
+
+• Single Underscore: **_**
+
+Use a single stand-alone underscore as a name to indicate that a variable is temporary or insignificant. Example:.
+
+```
+for _ in range(5):
+  do_something
+```
