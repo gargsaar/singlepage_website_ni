@@ -9,7 +9,7 @@ optimized_image: /assets/images/post_images/automation.jpg
 author: sarthakgarg
 lang: en
 header-style: text
-category: life
+category: Life
 tags:
   - Motivation
   - Artificial Intelligence
