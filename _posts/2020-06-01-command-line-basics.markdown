@@ -27,7 +27,9 @@ Below is a curated list of the most fundamental commands. Would suggest to bookm
 #### VIRTUAL ENV
 
 * Create a new virtual environment: `$ python -m venv <dir_name>`
-* Goto `<dir_name>/bin` and activate: `$ source activate `(This will prepend the path to “venv” at the beginning of the $PATH variable)
+* Goto `<dir_name>/bin` and activate: `$ source activate`
+
+  (This will prepend the path to “venv” at the beginning of the $PATH variable)
 * Exit the virtual environment: `$ deactivate`
 
 #### NAVIGATE AND EXPLORE
