@@ -15,7 +15,7 @@ paginate: true
 ---
 Interacting with a computer through a command-line interface (CLI) is a powerful technique. Mastering the command line can greatly improve your productivity during development. The best way to do this is to keep a list of selected commands ready for a quick glance whenever you get stuck. 
 
-Below is a curated list of the most fundamental commands. I'll keep on updating the list as I'll mature as a developer. Would suggest you to bookmark this page.
+Below is a curated list of the most fundamental commands. Would suggest you to bookmark this page and I'll keep on updating the list.
 
 #### LINUX TERMINAL
 
