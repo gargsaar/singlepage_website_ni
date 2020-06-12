@@ -19,9 +19,9 @@ Below is a curated list of the most fundamental commands. I'll keep on updating 
 
 #### LINUX TERMINAL
 
-* Read manual of command: `$ man <cmd> ([ENTER] to scroll, q to quit)`
+* Read manual of command: `$ man <cmd>` (\[ENTER] to scroll, q to quit)
 * Find out the language of the terminal (zsh/bash/sh): `$ echo $0`
-* Exit i.e. terminate any current process and start new line: `$ ^c (^ = [CTRL])`
+* Exit i.e. terminate any current process and start new line: `$ ^c` (^ = \[CTRL])
 * Map Python Version (Mac): `$ echo "alias python=/usr/local/bin/python3.7" >> ~/.zshrc`
 
 #### VIRTUAL ENV
@@ -38,11 +38,11 @@ Below is a curated list of the most fundamental commands. I'll keep on updating 
 * List the files in a specific directory: `$ ls <dir_name>`
 * Go to Root directory: `$ cd /`
 * Go to Home directory: `$ cd [ENTER]`
-* View items in list view with details: `$ ls -l (use -lt or add -t to sort)`
+* View items in list view with details: `$ ls -l` (use -lt or add -t to sort)
 * View files with a specific file extension: `$ ls *<.extn>`
 * Current directory: `$ .`
 * Open a file: `$ open <file_path>`
-* Print the last executed statement: $ _
+* Print the last executed statement: `$ _`
 * View hidden files: `$ ls -a`
 
 #### WORKING FILES AND DIRECTORIES
@@ -54,7 +54,7 @@ Below is a curated list of the most fundamental commands. I'll keep on updating 
 * Write to a file: `$ echo "<text>" >> <file_name>` (use > to rewrite the text)
 * Create a file in a directory using echo: `$ echo "<text>" > <file_name>`
 * Print text of multiple files together: `$ cat <file1> <file2>`
-* Concatenate content of multiple files in a file: `$ cat <file1> <file2> > <file3>`
+* Concatenate content of multiple files: `$ cat <file1> <file2> > <file3>`
 * Move file: `$ mv <file_name> <dir_path>`
 * Rename file: `$ mv <file_name> <new_name>`
 * Copy file: `$ cp <copy_file> <copied_file>`
@@ -65,7 +65,7 @@ Below is a curated list of the most fundamental commands. I'll keep on updating 
 
 * Open Python terminal: `$ python`
 * Execute a command: `$ python -c "print('Real Python')"`
-* Exit Python terminal: `>>> exit() (or \[CRTL]D)`
+* Exit Python terminal: `>>> exit()` (or \\[CRTL]D)
 
 #### JUYPTER LAB
 
