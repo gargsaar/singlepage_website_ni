@@ -13,26 +13,21 @@ tags:
 author: sarthakgarg
 paginate: true
 ---
-Python has so many hidden gems that even knowing a few of them can put you in the league of advanced programmers. And one of them is **Underscores and Dunders**.
-
-In this post, I’ll discuss all the five underscore patterns available in Python, and how they affect the behavior of Python programs.
+Python has so many awesome, but unknown features that even knowing a few of them can put you in the league of advanced programmers. One of them is **Underscores and Dunders**.
 
 Single and double underscores have a meaning in Python variable and method names. Some of that meaning is merely by convention and intended as a hint to the programmer—and some of it is enforced by the Python interpreter.
 
+In this post, I’ll discuss all the five underscore patterns available in Python, and how they affect the behavior of Python programs.
+
 1. ### Single Leading Underscore:**_var**
 
-Python doesn't have a strong distinction between "private" and "public" variables like Java does. 
-
-A single underscore (prefix) before variable name can be used to indicate that the variable is meant for internal use. 
+Python doesn't have a strong distinction between "private" and "public" variables like Java does. So, to indicate that a variable is meant for internal use, a single leading underscore (prefix) is used before the variable name.
 
 ```
 Class Pub:
   def __init__(self):
     self.name = 'John Doe'
-    self._age = 16
-    
-u = Pub()
-print(u._age) #allowed, but bad coding ethics
+    self._in = 16 #allowed, but bad coding ethics
 ```
 
 If a leading underscore is used in the variable name, it is generally not enforced by the Python interpreter and is only meant as a hint to the programmer. 
