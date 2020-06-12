@@ -30,6 +30,9 @@ Class Pub:
   def __init__(self):
     self.name = 'John Doe'
     self._age = 16
+    
+u = Pub()
+print(u._age) #allowed, but bad coding ethics
 ```
 
 If a leading underscore is used in the variable name, it is generally not enforced by the Python interpreter and is only meant as a hint to the programmer. 
