@@ -17,25 +17,15 @@ Interacting with a computer through a command-line interface (CLI) is a powerful
 
 Below is a list of the most fundamental commands for navigating, manipulating and inspecting files.
 
-PYTHON
-
-`Open Python terminal: $ python`
-
-`Exit Python terminal: >>> exit() (or [CRTL]D)`
-
-`Print the last executed statement: $ _`
-
-`Execute a command: $ python -c "print('Real Python')"`
-
 MAC OS
 
-`Map Python Version: $ echo "alias python=/usr/local/bin/python3.7" >> ~/.zshrc`
-
-`Exit i.e. terminate any current process and start new line: $ ^c (^ = [CTRL])`
+`Read manual of command: $ man <cmd> ([ENTER] to scroll, q to quit)`
 
 `Find out the language of the terminal (zsh/bash/sh) : $ echo $0`
 
-`Read manual of command: $ man <cmd> ([ENTER] to scroll, q to quit)`
+`Exit i.e. terminate any current process and start new line: $ ^c (^ = [CTRL])`
+
+`Map Python Version: $ echo "alias python=/usr/local/bin/python3.7" >> ~/.zshrc`
 
 VIRTUAL ENV
 
@@ -44,10 +34,6 @@ VIRTUAL ENV
 `Goto <dir_name>/bin, activate: $ source activate (This will prepend the path to “venv” at the beginning of the $PATH variable.)`
 
 `Exit the virtual environment: $ deactivate`
-
-JUYPTER LAB
-
-`Start JupyterLab: $ jupyter lab`
 
 NAVIGATE AND EXPLORE
 
@@ -100,3 +86,17 @@ CREATE FILES AND DIRECTORIES, WORKING WITH FILES
 `Remove file: $ rm <fine_name> (this will remove file not dir)`
 
 `Remove dir: $ rm -rf <dir_name> (r - recursive, f - force)`
+
+PYTHON
+
+`Open Python terminal: $ python`
+
+`Exit Python terminal: >>> exit() (or [CRTL]D)`
+
+`Print the last executed statement: $ _`
+
+`Execute a command: $ python -c "print('Real Python')"`
+
+JUYPTER LAB
+
+`Start JupyterLab: $ jupyter lab`
