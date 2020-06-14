@@ -77,3 +77,9 @@ Below is a curated list of the most fundamental commands. Would suggest to bookm
 * Train model: `$ rasa train`
 * Test assistant: `$ rasa train`
 * Talk to assistant: `$ rasa shell`
+
+#### PIP
+
+* Pip install package: `$ pip install <package-name>`
+* Pip uninstall package: `$ pip uninstall <package-name>`
+* Pip help: `$ pip --help`
