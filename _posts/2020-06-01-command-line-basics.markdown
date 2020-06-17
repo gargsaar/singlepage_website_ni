@@ -15,14 +15,14 @@ paginate: true
 ---
 Interacting with a computer through a command-line interface (CLI) is a powerful technique. Mastering the command line can greatly improve your productivity during development. The best way to do this is to keep a list of selected commands ready for a quick glance whenever you get stuck. 
 
-Below is a curated list of the most fundamental commands. Would suggest to bookmark this page and I'll keep on updating the list.
+Below is a curated list of the most fundamental commands. Would suggest to bookmark this post.
 
 #### LINUX TERMINAL
 
-* Read manual of command: `$ man <cmd>` (\[ENTER] to scroll, q to quit)
+* Read manual of a command: `$ man <cmd>` (\[ENTER] to scroll, q to quit)
 * Find out the language of the terminal (zsh/bash/sh): `$ echo $0`
-* Exit i.e. terminate any current process and start new line: `$ ^c` (^ = \[CTRL])
-* Map Python Version (Mac): `$ echo "alias python=/usr/local/bin/python3.7" >> ~/.zshrc`
+* Exit (terminate) any current process and start a new line: `$ ^c` (^ = \[CTRL])
+* Map Python Version (Mac ZSH): `$ echo "alias python=/usr/local/bin/python3.7" >> ~/.zshrc`
 
 #### VIRTUAL ENV
 
@@ -32,7 +32,7 @@ Below is a curated list of the most fundamental commands. Would suggest to bookm
 
 #### NAVIGATE AND EXPLORE
 
-* Print working directory: `$ pwd`
+* Print the working directory: `$ pwd`
 * Go back to a directory: `$ cd ..`
 * Go two directories back: `$ cd ../..`
 * List the files in a specific directory: `$ ls <dir_name>`
