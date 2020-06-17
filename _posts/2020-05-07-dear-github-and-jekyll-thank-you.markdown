@@ -53,7 +53,7 @@ NetlifyCMS, the interface to create and manage content, was available at **netli
 
 And off I go, Hurray! I'M NOW [ALIVE](https://sarthakgarg.com/about_me.html) ON THE INTERNET.
 
-In the end, I want to say that I've nothing against [Wordpress](https://wordpress.org/), [Wix](https://www.wix.com/), and [Weebly](https://www.weebly.com/in) - they are really good platforms for building websites. It's just that they are not free (need to pay for using custom domain), not as fast, and most importantly, they don't give a feel that we own the code. 
+In the end, I want to say that I've nothing against [Wordpress](https://wordpress.org/), [Wix](https://www.wix.com/), or [Weebly](https://www.weebly.com/in) - they are really good platforms for building websites. It's just that they are not free (need to pay for using custom domain), and most importantly, they don't give a feel that we own the code. 
 
 So, that's why I chose you all because why to pay a penny for hosting websites elsewhere when we can do it for free!
 
