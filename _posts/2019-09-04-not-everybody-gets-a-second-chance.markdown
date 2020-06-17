@@ -31,9 +31,9 @@ He has been wanting for 6 years to speak to her. But when the moment came, he co
 
 He gathered the strength as he knew that this was his only chance.
 
-In a low voice, he said, "I am sorry." Followed by a pause. 
+In a low voice, he said, "I am sorry." 
 
-He resumed, "I feel sorry every day, every moment. Please forgive me."
+After a pause he resumed, "I feel sorry every day, every moment. Please forgive me."
 
 A thought of forgiveness appeared in her heart, but the wound he had given her was too deep to heal. It was always in front of her.
 
