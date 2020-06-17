@@ -38,4 +38,4 @@ The hope is that as we will go far beyond the information age where machines wil
 
 For better or for worse the change is imminent. So to stay relevant in the future or win the battle of employability against machines, humanity as a whole, will have to upgrade like Ashish. **To achieve a sanguine future, we will have to constantly evolve and learn new skills which will be the only way out.**
 
-*"If you are willing to learn, no one can stop you. If you are not, no one can help you."*
+To summarize, I believe the only answer to the question - 'How to stay employable in the age of automation' is - 'You'. If you are willing to learn, no one can stop you. If not, no one can help!
