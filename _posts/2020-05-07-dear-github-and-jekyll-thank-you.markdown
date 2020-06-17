@@ -47,7 +47,7 @@ There are many [options for deploying the Jekyll site](https://jekyllrb.com/docs
 
 Once the site was built, inside **app.netlify.com**, which is a console to manage the site, I configured [Site Settings](https://docs.netlify.com/) and [Domain Settings](https://docs.netlify.com/domains-https/custom-domains/configure-external-dns/) for the external DNS for a custom domain. 
 
-NetlifyCMS, the interface to create and manage content, was available at **netlify_site_name.netlify_subdomain.app/admin** OR **custom_domain/admin**.
+NetlifyCMS, the interface to create and manage content, was available at **netlify_site_name.netlify_subdomain.app/admin**.
 
 ![netlifycms](/assets/images/post_images/netlifycms.png "netlifycms")
 
