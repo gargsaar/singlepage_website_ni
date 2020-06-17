@@ -31,9 +31,9 @@ He has been wanting for 6 years to speak to her. But when the moment came, he co
 
 He gathered the strength as he knew that this was his only chance.
 
-In a low voice, he said, "I am sorry." Followed by a pause. 
+In a low voice, he said, "I am sorry." 
 
-He resumed, "I feel sorry every day, every moment. Please forgive me."
+After a pause he resumed, "I feel sorry every day, every moment. Please forgive me."
 
 A thought of forgiveness appeared in her heart, but the wound he had given her was too deep to heal. It was always in front of her.
 
@@ -41,9 +41,9 @@ In a strong voice she said, "Rahul, I have moved on. Samira wanted to speak to y
 
 The hope of getting her back fainted in a jiffy. His heart wept like a child who catcall for something its parents can't afford.
 
-Ruefully he replied, "I was helpless. Mom and dad were about to commit suicide. I had to choose between you and them. I made a mistake."
+Ruefully he replied, "I was helpless. Mom and dad were about to commit suicide. I had to choose between you and them. And I made a mistake."
 
-"It was a mistake for you, but it ruined my life." She replied.
+"A mistake for you, but it ruined my life." She replied.
 
 "I was 20 when I was pregnant. It wasn’t my baby alone, but only I suffered. I know you love me, but you love your parents more. That's your decision, and this is mine. Sorry, I can't forgive you."
 
@@ -55,7 +55,7 @@ Chocked, he couldn't reply.
 
 Tina took the phone back. "Goodbye Rahul, we need to go."
 
-Soaked in love, he didn’t want the call to end. Quickly, he asked, "how z Samira?"
+Soaked in love, he didn’t want the call to end. Quickly, he asked, "how she looks?"
 
 "What you expect of someone who even shares your birth date. She's mini you." she replied and ended the call.
 
