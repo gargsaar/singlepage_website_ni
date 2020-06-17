@@ -55,7 +55,7 @@ Chocked, he couldn't reply.
 
 Tina took the phone back. "Goodbye Rahul, we need to go."
 
-Soaked in love, he didn’t want the call to end. Quickly, he asked, "how she looks"
+Soaked in love, he didn’t want the call to end. Quickly, he asked, "how she looks?"
 
 "What you expect of someone who even shares your birth date. She's mini you." she replied and ended the call.
 
