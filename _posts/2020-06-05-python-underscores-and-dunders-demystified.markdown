@@ -120,7 +120,12 @@ Hoohoo! _Pubber__address was declared as a global variable, but when declared in
 
 4. ### Leading and Trailing Dunders:**\_\_var\_\_**
 
-Names that have both leading and trailing double underscores are reserved for special use in the language, and are left unscathed by Python interpreter.
+Names that have both leading and trailing double underscores are reserved for special use in the language, and are sometimes referred to as magic methods, things like __init__ for object constructors, or __call__ to make objectscallable.
+
+Python doesn't prohibit you from using names that start and end with double underscores in your own programs, but it is advised to avoid as it may collide with future changes to the Python language.
+
+
+
 
 5. ### Single Underscore:**_**
 
