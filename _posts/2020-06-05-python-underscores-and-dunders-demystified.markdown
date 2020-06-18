@@ -19,7 +19,7 @@ In this post, I’ll discuss all the five underscore patterns available in Pytho
 
 Single and double underscores have a meaning in Python variable and method names. Some of that meaning is merely by convention and intended as a hint to the programmer—and some of it is enforced by the Python interpreter.
 
-1. ### Single Leading Underscore:**_var**
+**1. Single Leading Underscore:_var**
 
 Python doesn't have a strong distinction between "private" and "public" variables like Java does. So, to indicate that a variable is meant for internal use, a single leading underscore (prefix) is used before the variable name.
 
@@ -53,7 +53,7 @@ import pub_shubs #regular import
 pub_shubs._menu_tonight() #No Error
 ```
 
-2. ### Single Trailing Underscore:**var_**
+**2. Single Trailing Underscore: var_**
 
 Append Single trailing underscore (postfix) after variable or function name to avoid naming conflicts with Python keywords.
 
@@ -63,9 +63,9 @@ Class class: #SyntaxError: "invalid syntax"
 Class class_ #No problem
 ```
 
-3. ### Leading Dunders:**__var**
+**3. Leading Dunders: __var**
 
-**'dunders' means double underscores**
+'Dunders' means double underscores.
 
 A double underscore prefix can be used in Python to avoid naming conflicts in subclasses.
 
@@ -131,17 +131,16 @@ Class Pubber:
 
 Hoohoo! _Pubber__address was declared as a global variable, but when declared inside the context of a class, I was able to reference it as it. All because of name mangling.
 
-4. ### Leading and Trailing Dunders:**\_\_var\_\_**
+**4. Leading and Trailing Dunders: \_\_var_\_**
 
-Names that have both leading and trailing double underscores are reserved for special use in the language, and are sometimes referred to as magic methods, things like **init** for object constructors, or **call** to make objects
-callable.
+Names that have both leading and trailing double underscores are reserved for special use in the language, and are sometimes referred to as magic methods, things like \_\_init\_\_ for object constructors, or \_\_call_\_ to make objects callable.
 
 Python doesn't prohibit you from using names that start and end with double underscores in your own 
 programs, but it is advised to avoid as it may collide with future changes to the Python language.
 
 There are close to 100 built-in Dunders in Python. 
 
-5. ### Single Underscore:**_**
+**5. Single Underscore: _**
 
 Use a single stand-alone underscore as a name to indicate that a variable is temporary or insignificant.
 
