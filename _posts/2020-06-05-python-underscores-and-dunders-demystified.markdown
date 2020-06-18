@@ -27,7 +27,7 @@ Python doesn't have a strong distinction between "private" and "public" variable
 Class Pub:
   def __init__(self):
     self.name = 'Bond, James'
-    self._age = 32 #private variable, shhh...don't ask
+    self._age = 33 #private variable, shhh...don't ask
 ```
 
 If a leading underscore is used in the variable name, it is generally not enforced by the Python interpreter and is only meant as a hint to the programmer. 
@@ -68,6 +68,24 @@ Class class_ #No problem
 **'dunders' means double underscores**
 
 A double underscore prefix can be used in Python to avoid naming conflicts in subclasses.
+
+```
+Class Pub:
+  def __init__(self):
+    self.name = 'Bond, James'
+    self._age = 33
+    self.__my_address = 'Mars'
+```
+Let’s take a look at the attributes on this object using the built-in dir()function:
+
+```
+>>> guest = Pub()
+>>> dir(guest)
+['_Pub__my_address', '__class__', '__delattr__', '__dict__','__dir__', '__doc__', '__eq__', '__format__', '__ge__','__getattribute__', '__gt__', '__hash__', '__init__','__le__', '__lt__', '__module__', '__ne__', '__new__','__reduce__', '__reduce_ex__', '__repr__','__setattr__', '__sizeof__', '__str__','__subclasshook__', '__weakref__', '_age', 'name']
+
+```
+
+Did you notice the very first item in the dir list - '_Pub__my_address'? 
 
 This is called name mangling. The Python interpreter changes the name of the variable in a way that makes it harder to create collisions when the class is extended. It changes it to: _ClassName__VariableName
 
