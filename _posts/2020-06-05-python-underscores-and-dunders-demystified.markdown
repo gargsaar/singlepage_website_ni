@@ -24,7 +24,7 @@ Single and double underscores have a meaning in Python variable and method names
 Python doesn't have a strong distinction between "private" and "public" variables like Java does. So, to indicate that a variable is meant for internal use, a single leading underscore (prefix) is used before the variable name.
 
 ```
-Class Pub:
+Class Pubber:
   def __init__(self):
     self.name = 'Bond, James'
     self._age = 33 #private variable, shhh...don't ask
@@ -40,7 +40,7 @@ Leading underscore can be used for defining a private function or a method.
 # pub_shubs.py
 
   def _menu_tonight(): #private function
-    'something special'
+    something_special
 ```
 
 A private function in module if imported as a wildcart will not be accessible. Don't worry, regular import still works. 
@@ -70,24 +70,52 @@ Class class_ #No problem
 A double underscore prefix can be used in Python to avoid naming conflicts in subclasses.
 
 ```
-Class Pub:
+Class Pubber:
   def __init__(self):
     self.name = 'Bond, James'
     self._age = 33
-    self.__my_address = 'Mars'
+    self.__address = 'Mars'
 ```
 Let’s take a look at the attributes on this object using the built-in dir()function:
 
 ```
->>> guest = Pub()
+>>> guest = Pubber()
 >>> dir(guest)
-['_Pub__my_address', '__class__', '__delattr__', '__dict__','__dir__', '__doc__', '__eq__', '__format__', '__ge__','__getattribute__', '__gt__', '__hash__', '__init__','__le__', '__lt__', '__module__', '__ne__', '__new__','__reduce__', '__reduce_ex__', '__repr__','__setattr__', '__sizeof__', '__str__','__subclasshook__', '__weakref__', '_age', 'name']
+['_Pubber__address', '__class__', '__delattr__', '__dict__','__dir__', '__doc__', '__eq__', '__format__', '__ge__','__getattribute__', '__gt__', '__hash__', '__init__','__le__', '__lt__', '__module__', '__ne__', '__new__','__reduce__', '__reduce_ex__', '__repr__','__setattr__', '__sizeof__', '__str__','__subclasshook__', '__weakref__', '_age', 'name']
 
 ```
 
-Did you notice the very first item in the dir list - '_Pub__my_address'? 
+Did you notice the very first item in the dir list - '_Pubber__address'? 
 
 This is called name mangling. The Python interpreter changes the name of the variable in a way that makes it harder to create collisions when the class is extended. It changes it to: _ClassName__VariableName
+
+Now let's see how this variable behaves.
+
+```
+>>> guest.name
+'Bond, James'
+>>> guest.__address
+AttributeError:"'Pubber' object has no attribute '__address'"
+```
+Don'r worry you can still access it:
+```
+>>> guest._Pubber__address
+'Mars'
+```
+Does name mangling also apply to method names? It sure does, try it out!
+
+Now this is going to surprise you:
+```
+_Pubber__address = 'Mars' #global variable
+Class Pubber:
+   def address(self):
+       return __address
+```
+```
+>>> Pubber.address()
+'Mars'
+```
+Hoohoo! _Pubber__address was declared as a global variable, but when declared inside the context of a class, I was able to reference it as it. All because of name mangling.
 
 
 4. ### Leading and Trailing Dunders:**\_\_var\_\_**
@@ -96,9 +124,15 @@ Names that have both leading and trailing double underscores are reserved for sp
 
 5. ### Single Underscore:**_**
 
-Use a single stand-alone underscore as a name to indicate that a variable is temporary or insignificant. Example:.
+Use a single stand-alone underscore as a name to indicate that a variable is temporary or insignificant.
 
 ```
 for _ in range(5):
   do_something
 ```
+You can also use single underscores in unpacking expressions as a "don’t care” variable to ignore particular values.
+```
+>>> beer = ('light', 'bitter', 70, 153)
+>>> color, _, _, calories = beer
+```
+In the code above, I’m unpacking a tuple into separate variables, but I’m only interested in the values for the color and calorie fields.
