@@ -106,7 +106,7 @@ AttributeError:
 "'Pubber' object has no attribute '__address'"
 ```
 
-Don'r worry you can still access it:
+Don't worry you can still access it:
 
 ```
 >>> guest._Pubber__address
@@ -129,11 +129,11 @@ Class Pubber:
 'Mars'
 ```
 
-Hoohoo! _Pubber__address was declared as a global variable, but when declared inside the context of a class, I was able to reference it as it. All because of name mangling.
+Hoohoo! _Pubber__address was declared as a global variable, but when declared inside the context of a class, I was able to reference it as is. How? - because of name mangling.
 
 **4. Leading and Trailing Dunders: \_\_var_\_**
 
-Names that have both leading and trailing double underscores are reserved for special use in the language, and are sometimes referred to as magic methods, things like \_\_init\_\_ for object constructors, or \_\_call_\_ to make objects callable.
+Names that have both leading and trailing double underscores are reserved for special use in the language, and are sometimes referred to as 'Special Methods' or 'Magic Methods' such as \_\_init\_\_ for object constructors, or \_\_call_\_ to make objects callable.
 
 Python doesn't prohibit you from using names that start and end with double underscores in your own 
 programs, but it is advised to avoid as it may collide with future changes to the Python language.
