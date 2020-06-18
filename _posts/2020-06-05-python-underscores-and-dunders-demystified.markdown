@@ -76,13 +76,20 @@ Class Pubber:
     self._age = 33
     self.__address = 'Mars'
 ```
-Let’s take a look at the attributes on this object using the built-in dir()function:
+
+Let’s take a look at the attributes on this object using the built-in dir()
+function:
 
 ```
 >>> guest = Pubber()
 >>> dir(guest)
-['_Pubber__address', '__class__', '__delattr__', '__dict__','__dir__', '__doc__', '__eq__', '__format__', '__ge__','__getattribute__', '__gt__', '__hash__', '__init__','__le__', '__lt__', '__module__', '__ne__', '__new__','__reduce__', '__reduce_ex__', '__repr__','__setattr__', '__sizeof__', '__str__','__subclasshook__', '__weakref__', '_age', 'name']
-
+['_Pubber__address', '__class__', '__delattr__', '__dict__',
+'__dir__', '__doc__', '__eq__', '__format__', '__ge__',
+'__getattribute__', '__gt__', '__hash__', '__init__',
+'__le__', '__lt__', '__module__', '__ne__', '__new__',
+'__reduce__', '__reduce_ex__', '__repr__',
+'__setattr__', '__sizeof__', '__str__',
+'__subclasshook__', '__weakref__', '_age', 'name']
 ```
 
 Did you notice the very first item in the dir list - '_Pubber__address'? 
@@ -95,37 +102,44 @@ Now let's see how this variable behaves.
 >>> guest.name
 'Bond, James'
 >>> guest.__address
-AttributeError:"'Pubber' object has no attribute '__address'"
+AttributeError:
+"'Pubber' object has no attribute '__address'"
 ```
+
 Don'r worry you can still access it:
+
 ```
 >>> guest._Pubber__address
 'Mars'
 ```
+
 Does name mangling also apply to method names? It sure does, try it out!
 
 Now this is going to surprise you:
+
 ```
 _Pubber__address = 'Mars' #global variable
 Class Pubber:
    def address(self):
        return __address
 ```
+
 ```
 >>> Pubber.address()
 'Mars'
 ```
-Hoohoo! _Pubber__address was declared as a global variable, but when declared inside the context of a class, I was able to reference it as it. All because of name mangling.
 
+Hoohoo! _Pubber__address was declared as a global variable, but when declared inside the context of a class, I was able to reference it as it. All because of name mangling.
 
 4. ### Leading and Trailing Dunders:**\_\_var\_\_**
 
-Names that have both leading and trailing double underscores are reserved for special use in the language, and are sometimes referred to as magic methods, things like __init__ for object constructors, or __call__ to make objectscallable.
+Names that have both leading and trailing double underscores are reserved for special use in the language, and are sometimes referred to as magic methods, things like **init** for object constructors, or **call** to make objects
+callable.
 
-Python doesn't prohibit you from using names that start and end with double underscores in your own programs, but it is advised to avoid as it may collide with future changes to the Python language.
+Python doesn't prohibit you from using names that start and end with double underscores in your own 
+programs, but it is advised to avoid as it may collide with future changes to the Python language.
 
-
-
+There are close to 100 built-in Dunders in Python. 
 
 5. ### Single Underscore:**_**
 
@@ -135,12 +149,17 @@ Use a single stand-alone underscore as a name to indicate that a variable is tem
 for _ in range(5):
   do_something
 ```
+
 You can also use single underscores in unpacking expressions as a "don’t care” variable to ignore particular values.
+
 ```
 >>> beer = ('light', 'bitter', 70, 153)
 >>> color, _, _, calories = beer
 ```
-At times, while unpacking a tuple into separate variables, you're only interested in the values for the specific fields. You can use, _.
+
+At times, while unpacking a tuple into separate
+ variables, you're only interested in the values for the specific fields. You can use, _.
+
 ```
 >>> color
 'light'
@@ -149,4 +168,7 @@ At times, while unpacking a tuple into separate variables, you're only interest
 >>> _
 70
 ```
-Besides its use as a temporary variable, “_” is a special variable in most Python REPLs that represents the result of the last expression evaluatedby the interpreter.
+
+Besides its use as a temporary variable, “_” is a special variable in most
+ Python REPLs that represents the result of the last expression evaluated
+by the interpreter.
