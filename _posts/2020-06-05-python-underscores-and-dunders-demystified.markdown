@@ -32,7 +32,7 @@ Class Pubber:
 
 If a leading underscore is used in the variable name, it is generally not enforced by the Python interpreter and is only meant as a hint to the programmer. 
 
-It is like conveying to other programmers - *"Hey, this is not meant to be used outside the interface of this class. Better leave it alone!"*
+It is like conveying to other programmers - "Hey, this is not meant to be used outside the interface of this class. Better leave it alone!"
 
 Leading underscore can be used for defining a private function or a method. 
 
@@ -43,7 +43,7 @@ Leading underscore can be used for defining a private function or a method.
     something_special
 ```
 
-A private function in module if imported as a wildcart will not be accessible. Don't worry, regular import still works. 
+A private function in module if imported as a wildcard will not be accessible. Don't worry, regular import still works. 
 
 ```
 from pub_shubs import * #wildcard import
@@ -55,7 +55,7 @@ pub_shubs._menu_tonight() #No Error
 
 **2. Single Trailing Underscore: var_**
 
-Append Single trailing underscore (postfix) after variable or function name to avoid naming conflicts with Python keywords.
+Append a single trailing underscore (postfix) after variable or function name to avoid naming conflicts with Python keywords.
 
 ```
 Class class: #SyntaxError: "invalid syntax"
@@ -74,7 +74,7 @@ Class Pubber:
   def __init__(self):
     self.name = 'Bond, James'
     self._age = 33
-    self.__address = 'Mars'
+    self.__address = 'Mars' #double underscore prefix
 ```
 
 Let’s take a look at the attributes on this object using the built-in dir()
@@ -92,7 +92,7 @@ function:
 '__subclasshook__', '__weakref__', '_age', 'name']
 ```
 
-Did you notice the very first item in the dir list - '_Pubber__address'? 
+Did you notice the very first item in the dir list? '_Pubber__address'
 
 This is called name mangling. The Python interpreter changes the name of the variable in a way that makes it harder to create collisions when the class is extended. It changes it to: _ClassName__VariableName
 
@@ -129,16 +129,15 @@ Class Pubber:
 'Mars'
 ```
 
-Hoohoo! _Pubber__address was declared as a global variable, but when declared inside the context of a class, I was able to reference it as is. How? - because of name mangling.
+Hoohoo! _Pubber__address was declared as a global variable, but when declared inside the context of a class, I was able to reference it as is. How? Because of name mangling.
 
 **4. Leading and Trailing Dunders: \_\_var_\_**
 
-Names that have both leading and trailing double underscores are reserved for special use in the language, and are sometimes referred to as 'Special Methods' or 'Magic Methods' such as \_\_init\_\_ for object constructors, or \_\_call_\_ to make objects callable.
+Names that have both leading and trailing double underscores are reserved for special use in the language, and are sometimes referred to as 'Special Methods' or 'Magic Methods'.
 
-Python doesn't prohibit you from using names that start and end with double underscores in your own 
-programs, but it is advised to avoid as it may collide with future changes to the Python language.
+There are close to 100 built-in Dunders in Python such as \_\_init\_\_ for object constructors, or \_\_call_\_ to make objects callable. 
 
-There are close to 100 built-in Dunders in Python. 
+Python doesn't prohibit you from using names that start and end with double underscores in your own programs, but it is advised to avoid as it may collide with future changes to the Python language.
 
 **5. Single Underscore: _**
 
@@ -156,8 +155,7 @@ You can also use single underscores in unpacking expressions as a "don’t care�
 >>> color, _, _, calories = beer
 ```
 
-At times, while unpacking a tuple into separate
- variables, you're only interested in the values for the specific fields. You can use, _.
+At times, while unpacking a tuple into separate variables, you're only interested in the values for the specific fields. You can use _.
 
 ```
 >>> color
@@ -167,7 +165,4 @@ At times, while unpacking a tuple into separate
 >>> _
 70
 ```
-
-Besides its use as a temporary variable, “_” is a special variable in most
- Python REPLs that represents the result of the last expression evaluated
-by the interpreter.
+Besides its use as a temporary variable, “_” is a special variable in most Python REPLs that represents the result of the last expression evaluated by the interpreter.
