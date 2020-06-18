@@ -135,4 +135,13 @@ You can also use single underscores in unpacking expressions as a "don’t care�
 >>> beer = ('light', 'bitter', 70, 153)
 >>> color, _, _, calories = beer
 ```
-In the code above, I’m unpacking a tuple into separate variables, but I’m only interested in the values for the color and calorie fields.
+At times, while unpacking a tuple into separate variables, you're only interested in the values for the specific fields. You can use, _.
+```
+>>> color
+'light'
+>>> calories
+'153'
+>>> _
+70
+```
+Besides its use as a temporary variable, “_” is a special variable in most Python REPLs that represents the result of the last expression evaluatedby the interpreter.
