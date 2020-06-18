@@ -13,11 +13,11 @@ tags:
 author: sarthakgarg
 paginate: true
 ---
-Python has so many awesome, but unknown features that even knowing a few of them can put you in the league of advanced programmers. One of them is **Underscores and Dunders**.
-
-Single and double underscores have a meaning in Python variable and method names. Some of that meaning is merely by convention and intended as a hint to the programmer—and some of it is enforced by the Python interpreter.
+Python has so many awesome, but unknown features that even knowing a few of them can put you in the league of advanced programmers. One of them is **Underscores** and **Dunders**.
 
 In this post, I’ll discuss all the five underscore patterns available in Python, and how they affect the behavior of Python programs.
+
+Single and double underscores have a meaning in Python variable and method names. Some of that meaning is merely by convention and intended as a hint to the programmer—and some of it is enforced by the Python interpreter.
 
 1. ### Single Leading Underscore:**_var**
 
@@ -26,17 +26,42 @@ Python doesn't have a strong distinction between "private" and "public" variable
 ```
 Class Pub:
   def __init__(self):
-    self.name = 'John Doe'
-    self._in = 16 #allowed, but bad coding ethics
+    self.name = 'Bond, James'
+    self._age = 32 #private variable, shhh...don't ask
 ```
 
 If a leading underscore is used in the variable name, it is generally not enforced by the Python interpreter and is only meant as a hint to the programmer. 
 
 It is like conveying to other programmers - *"Hey, this is not meant to be used outside the interface of this class. Better leave it alone!"*
 
+Leading underscore can be used for defining a private function or a method. 
+
+```
+# pub_shubs.py
+
+  def _menu_tonight(): #private function
+    'something special'
+```
+
+A private function in module if imported as a wildcart will not be accessible. Don't worry, regular import still works. 
+
+```
+from pub_shubs import * #wildcard import
+_menu_tonight() #NameError: "name '_internal_func' is not defined"
+
+import pub_shubs
+pub_shubs._menu_tonight() #No Error
+```
+
 2. ### Single Trailing Underscore:**var_**
 
 Append Single trailing underscore (postfix) after variable or function name to avoid naming conflicts with Python keywords.
+
+```
+Class class: #SyntaxError: "invalid syntax"
+
+Class class_ #No Error
+```
 
 3. ### Leading Dunders:**__var**
 
