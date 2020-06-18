@@ -2,8 +2,8 @@
 date: 2020-06-05T08:18:58.000Z
 layout: post
 title: Python Underscores and Dunders Demystified
-subtitle: Underscores and Dunders every Python programmer must know.
-description: Underscores and Dunders every Python programmer must know.
+subtitle: How to use Underscores and Dunders, something every Python programmer must know
+description: How to use Underscores and Dunders, something every Python programmer must know
 image: /assets/images/post_images/python-features-programmer-must-know.webp
 optimized_image: /assets/images/post_images/python-features-programmer-must-know.webp
 category: Python
