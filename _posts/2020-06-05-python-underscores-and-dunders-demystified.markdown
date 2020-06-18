@@ -49,7 +49,7 @@ A private function in module if imported as a wildcart will not be accessible. D
 from pub_shubs import * #wildcard import
 _menu_tonight() #NameError: "name '_internal_func' is not defined"
 
-import pub_shubs
+import pub_shubs #regular import
 pub_shubs._menu_tonight() #No Error
 ```
 
@@ -60,16 +60,17 @@ Append Single trailing underscore (postfix) after variable or function name to a
 ```
 Class class: #SyntaxError: "invalid syntax"
 
-Class class_ #No Error
+Class class_ #No problem
 ```
 
 3. ### Leading Dunders:**__var**
 
 **'dunders' means double underscores**
 
-A double underscore prefix causes the Python interpreter to rewrite the attribute name in order to avoid naming conflicts in subclasses.
+A double underscore prefix can be used in Python to avoid naming conflicts in subclasses.
 
-This is also called name mangling—the interpreter changes the name of the variable in a way that makes it harder to create collisions when the class is extended. It changes it to: _ClassName__VariableName
+This is called name mangling. The Python interpreter changes the name of the variable in a way that makes it harder to create collisions when the class is extended. It changes it to: _ClassName__VariableName
+
 
 4. ### Leading and Trailing Dunders:**\_\_var\_\_**
 
