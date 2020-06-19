@@ -13,9 +13,9 @@ tags:
 author: sarthakgarg
 paginate: true
 ---
-Python has so many awesome, but unknown features that even knowing a few of them can put you in the league of advanced programmers. One of them is **Underscores** and **Dunders**.
+Python has so many awesome but unknown features that even knowing a few of them can put you in the league of advanced programmers. One of them is **Underscores** and **Dunders**.
 
-In this post, I’ll discuss all the five underscore patterns available in Python, and how they affect the behavior of Python programs.
+In this post, I’ll discuss all the five underscore patterns available in Python and how they affect the behavior of Python programs.
 
 Single and double underscores have a meaning in Python variable and method names. Some of that meaning is merely by convention and intended as a hint to the programmer—and some of it is enforced by the Python interpreter.
 
@@ -27,14 +27,12 @@ Python doesn't have a strong distinction between "private" and "public" variable
 Class Pubber:
   def __init__(self):
     self.name = 'Bond, James'
-    self._age = 33 #private variable, shhh...don't ask
+    self._age = 33 #private variable, shhh...
 ```
 
-If a leading underscore is used in the variable name, it is generally not enforced by the Python interpreter and is only meant as a hint to the programmer. 
+If a leading underscore is used in the variable name, it is generally not enforced by the Python interpreter and is only meant as a hint to the programmer. It is like conveying to other programmers - "Hey, this is not meant to be used outside the interface of this class. Better leave it alone!"
 
-It is like conveying to other programmers - "Hey, this is not meant to be used outside the interface of this class. Better leave it alone!"
-
-Leading underscore can be used for defining a private function or a method. 
+Leading underscore can be used for defining private function or method names. 
 
 ```
 # pub_shubs.py
@@ -43,7 +41,7 @@ Leading underscore can be used for defining a private function or a method.
     something_special
 ```
 
-A private function in module if imported as a wildcard will not be accessible. Don't worry, regular import still works. 
+A private function in a module will not be accessible if imported as a wildcard. Don't worry, regular import will work. 
 
 ```
 from pub_shubs import * #wildcard import
@@ -55,7 +53,9 @@ pub_shubs._menu_tonight() #No Error
 
 **2. Single Trailing Underscore: var_**
 
-Append a single trailing underscore (postfix) after variable or function name to avoid naming conflicts with Python keywords.
+What if you need to use a keyword for a name? 
+
+Append a single trailing underscore (postfix) after variable, function, or Class name, and you're good to go!. It avoids naming conflicts with Python keywords.
 
 ```
 Class class: #SyntaxError: "invalid syntax"
@@ -141,7 +141,7 @@ Python doesn't prohibit you from using names that start and end with double unde
 
 **5. Single Underscore: _**
 
-Use a single stand-alone underscore as a name to indicate that a variable is temporary or insignificant.
+Last, but not the least, use a single stand-alone underscore as a name to indicate that a variable is temporary or insignificant.
 
 ```
 for _ in range(5):
@@ -155,7 +155,7 @@ You can also use single underscores in unpacking expressions as a "don’t care�
 >>> color, _, _, calories = beer
 ```
 
-At times, while unpacking a tuple into separate variables, you're only interested in the values for the specific fields. You can use _.
+At times, while unpacking a tuple into separate variables, you're only interested in the values for few specific fields. So, you can use '_' for fields you're not interested in :).
 
 ```
 >>> color
@@ -165,4 +165,6 @@ At times, while unpacking a tuple into separate variables, you're only intereste
 >>> _
 70
 ```
-Besides its use as a temporary variable, “_” is a special variable in most Python REPLs that represents the result of the last expression evaluated by the interpreter.
+Besides its use as a temporary variable, “_” is a special variable in most Python [REPLs](https://pythonprogramminglanguage.com/repl/) (Python Interactive Shell) that represents the result of the last expression evaluated by the interpreter.
+
+Hope you will now use Underscores and Dunders more often and in different ways, and will utilize the full potential of this marvellous high-level language programming - Python. 
