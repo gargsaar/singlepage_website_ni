@@ -13,7 +13,7 @@ tags:
 author: sarthakgarg
 paginate: true
 ---
-Python has so many awesome but unknown features that even knowing a few of them can put you in the league of advanced programmers. One of them is **Underscores** and **Dunders**.
+Python has so many awesome, but unknown features that even knowing a few of them can put you in the league of advanced programmers. One of them is **Underscores** & **Dunders**.
 
 In this post, I’ll discuss all the five underscore patterns available in Python and how they affect the behavior of Python programs.
 
@@ -55,7 +55,7 @@ pub_shubs._menu_tonight() #No Error
 
 What if you need to use a keyword for a name? 
 
-Append a single trailing underscore (postfix) after variable, function, or Class name, and you're good to go!. It avoids naming conflicts with Python keywords.
+Append a single trailing underscore (postfix) after variable, function, or Class names, and you're good to go! It avoids naming conflicts with Python keywords.
 
 ```
 Class class: #SyntaxError: "invalid syntax"
@@ -92,7 +92,7 @@ function:
 '__subclasshook__', '__weakref__', '_age', 'name']
 ```
 
-Did you notice the very first item in the dir list? '_Pubber__address'
+Did you notice the very first item in the dir list? -> '_Pubber__address'
 
 This is called name mangling. The Python interpreter changes the name of the variable in a way that makes it harder to create collisions when the class is extended. It changes it to: _ClassName__VariableName
 
@@ -167,4 +167,4 @@ At times, while unpacking a tuple into separate variables, you're only intereste
 ```
 Besides its use as a temporary variable, “_” is a special variable in most Python [REPLs](https://pythonprogramminglanguage.com/repl/) (Python Interactive Shell) that represents the result of the last expression evaluated by the interpreter.
 
-Hope you will now use Underscores and Dunders more often and in different ways, and will utilize the full potential of this marvellous high-level language programming - Python. 
+Hope, you will now use Underscores & Dunders more often and in different ways, and utilize the full potential of this marvellous high-level language programming - Python. 
