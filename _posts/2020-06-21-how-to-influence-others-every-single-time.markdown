@@ -46,6 +46,6 @@ Last but not the least, **the theory of Contrast**, which is my personal favorit
 
 To summarise, I want to emphasise upon the learning that we all need to identify triggers present inside us so that we don't fall into the trap of automatic, but irrational decisioning. We need to realise that how we take decisions is something which can be changed and we can learn how to take better decisions. Decision made on the basis of a comparison will more often likely to be wrong, and we are more likely to influence others when our requests have a logical reasoning or BECAUSE.
 
-For us to be successful, we must learn these tricks because I believe, the most important trait of any successful individual the world has known is his/her ability to influence others.
+For us to be successful, we must learn these tricks because the most important trait of any successful individual the world has known is his/her ability to influence others.
 
 > “Just because something isn't a lie does not mean that it isn't deceptive. A liar knows that he is a liar, but one who speaks mere portions of truth in order to deceive is a craftsman of destruction.” - Criss Jami
