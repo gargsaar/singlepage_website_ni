@@ -14,7 +14,7 @@ tags:
 author: sarthakgarg
 paginate: true
 ---
-We meet different types of people, some are able to influence us while many are not. Some people are so influential that they can sell us the same product or idea that we have rejected to buy a moment ago. Have you ever wondered why?
+We meet different types of people, some are able to influence us while many are not. Some people are so influential that they can sell us the same product or idea that we had rejected to buy for somebody else. Have you ever wondered why?
 
 Next time when you go to buy something at a store, observe your behavior. I mean, once you make a purchase, retrospect, what influenced your buying decision? Let's say you wanted to buy something about which you don’t know much and you relied upon the sales rep to help you. If you bought the item, ask yourself - what motivated you to buy from her? Was that her looks, confidence, the choice of words, or the sequence of the items she showed you? And if you chose not to buy, then too question yourself - why. 
 
@@ -40,11 +40,11 @@ But if the request was something like this:
 
 *“Hi. Can you please allow me to submit the fee before you BECAUSE I'm in a hurry as my mother is not well and waiting outside.”* 
 
-Most likely YES, you would have accepted her request.
+Most likely YES.
 
-Last but not the least, **the theory of Contrast**, which is my personal favourite, says that we tend to like an average thing more when compared with a horrible substitute. And vice-versa, dislike an average thing more, than it deserves to be, when compared with an outshining alternative. To explain this theory, some researchers did an experiment in which they divided men into two groups. One group of men were taken to a room with a TV on which Baywatch was being played, and the second group was in a room with no TV. To the researcher’s astonishment, men in the TV room rated their wife way too low on the parameter of beauty despite the fact that this group of men had more good looking and beautiful wives. But why? No makes for guessing, Pamela Anderson!
+Last but not the least, **the theory of Contrast**, which is my personal favourite, says that we tend to like an average thing more when compared with a horrible substitute. And vice-versa, dislike an average thing more, than it deserves to be, when compared with an outshining alternative. To explain this theory, some researchers did an experiment in which they divided men into two groups. One group of men were taken to a room with a TV on which Baywatch was being played, and the second group was in a room with no TV. To the researcher’s astonishment, men in the TV room rated their wife way too low on the parameter of beauty despite the fact that this group of men had more good looking and beautiful wives. But why? No marks for guessing, Pamela Anderson!
 
-To summarise, I want to emphasise upon the learning that we all need to identify triggers present inside us so that we don't fall into the trap of automatic, but irrational decisioning. We need to realise that how we take decisions is something which can be changed and we can learn how to take better decisions. Decision made on the basis of a comparison will more often likely to be wrong, and we are more likely to influence others when our requests have a logical reasoning or BECAUSE.
+To summarise, I want to emphasise upon the learning that we all need to identify triggers present inside us so that we don't fall into the trap of automatic, but irrational decisioning. We need to realise that how we take decisions is something which we can change and learn how to take better decisions. Decision made on the basis of a comparison will more often likely to be wrong, and we are more likely to influence others when our requests have a logical reasoning or BECAUSE.
 
 For us to be successful, we must learn these tricks because the most important trait of any successful individual the world has known is his/her ability to influence others.
 
