@@ -1,5 +1,5 @@
 ---
-date: 2020-06-21T20:36:04.000Z
+date: 2020-06-15T20:36:04.000Z
 layout: post
 title: How to influence others every single time
 subtitle: The most important trait of successful individuals is their ability to
