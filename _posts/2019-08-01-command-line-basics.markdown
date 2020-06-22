@@ -1,5 +1,5 @@
 ---
-date: 2020-02-01T08:18:58.000Z
+date: 2019-08-01T08:18:58.000Z
 layout: post
 title: Command Line Basics
 subtitle: Mastering the command line is a must for every programmer.
