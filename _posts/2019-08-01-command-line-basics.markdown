@@ -82,4 +82,5 @@ Below is a curated list of the most fundamental commands. Would suggest to bookm
 
 * Pip install package: `$ pip install <package-name>`
 * Pip uninstall package: `$ pip uninstall <package-name>`
+* Pip upgrade package: `$ pip install --upgrade <package-name>`
 * Pip help: `$ pip --help`
