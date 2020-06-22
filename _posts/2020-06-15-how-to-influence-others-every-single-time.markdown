@@ -14,7 +14,7 @@ tags:
 author: sarthakgarg
 paginate: true
 ---
-We meet different types of people, some are able to convince us while many are not. Some people are so convincing that they can sell us the same product or idea that we had rejected to buy for somebody else. Have you ever wondered why?
+We meet different types of people, some are able to convince us while many are not. Some people are so convincing that they can sell us the same product or idea that we had rejected to buy for somebody else. Have you ever wondered why? Is it natural or is there some sort of theory behind it?
 
 Next time when you go to buy something at a store, observe your behavior. I mean, once you make a purchase, retrospect, what influenced your buying decision? Let's say you wanted to buy something about which you don’t know much and you relied upon the sales rep to help you buy. If you bought the item, ask yourself - what motivated you to buy? Was that because of the sales rep, her confidence, the choice of words, or the sequence of the items she showed you? Also if you chose not to buy, then too question yourself - why. 
 
