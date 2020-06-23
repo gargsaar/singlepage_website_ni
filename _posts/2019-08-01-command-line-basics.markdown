@@ -71,10 +71,13 @@ Below is a curated list of the most fundamental commands. Would suggest to bookm
 
 #### PIP
 
-* Pip install package: `$ pip install <package-name>`
-* Pip uninstall package: `$ pip uninstall <package-name>`
-* Pip upgrade package: `$ pip install --upgrade <package-name>`
 * Pip help: `$ pip --help`
+* Pip install package: `$ pip install <package-name>`
+* Install specific development version from Github: `$ python3 -m pip install git+<git_URL>`
+* Pip upgrade package: `$ pip install --upgrade <package-name>`
+* Force install a version if you've already installed: `$ python3 -m pip install --force-reinstall git+<git_URL>`
+* Pip uninstall package: `$ pip uninstall <package-name>`
+
 
 #### JUYPTER LAB
 
