@@ -22,7 +22,6 @@ Below is a curated list of the most fundamental commands. Would suggest to bookm
 * Find out the language of the terminal (zsh/bash/sh): `echo $0`
 * Print the current path: `echo $PATH`
 * Read manual of a command: `man <cmd>` (\[ENTER] to scroll, q to quit)
-* Exit (terminate) any current process and start a new line: `^c` (^ = \[CTRL])
 * Add sudo automatically to the last command: `sudo !!`
 * Give your own name to a command: `alias cls=clear` (This sets up an alias called cls. It will be another name for clear. Alias for a sequence of command to be wrapped in quotes.)
 * Change the password of a user: `sudo passwd <username>`
@@ -32,6 +31,8 @@ Below is a curated list of the most fundamental commands. Would suggest to bookm
 ### SYSTEM INFO AND SETUP
 * Linux System Information: `uname -a` (use `w` to see current logged-in users)
 * Real-time status of system processes: `top` (you can use `ps` also for listing current processes)
+* Kill a process by specifying its PID: `kill`
+* Exit (terminate) any current process and start a new line: `^c` (^ = \[CTRL])
 * Manage System Settings: `sudo systemsetup`
 * Report System Hardware and Software Configurations: `system_profiler`
 * System Security Frameworks: `security`
