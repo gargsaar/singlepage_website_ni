@@ -36,11 +36,6 @@ Below is a curated list of the most fundamental commands. Would suggest to bookm
 * System Security Frameworks: `security`
 * Manage system configuration parameters: `scutil --help` (Ex. `scutil --get HostName`, `sudo scutil --set HostName <Host_Name>`)
 
-### INTERNET
-
-* Download file from internet: `curl -s <URL> > <file_name>` (-s to see the download progress, you can use -o (output) option for saving the file)
-* Youtube video download: `youtube-dl <URL>` (1. install [youtube-dl](https://github.com/ytdl-org/youtube-dl). use `-F` to list available formats, `-f <format_code1>+<format_code..n>` to download specific formats.)
-
 ### WORKING WITH DIRECTORIES
 
 * Print the working directory: `pwd`
@@ -75,6 +70,12 @@ Below is a curated list of the most fundamental commands. Would suggest to bookm
 * To set file permissions: `chmod -R 765 example.txt` (Digits seq for Owner, Groups, & Others. Permissions: 0-No permission; 1-Execute(x); 2-Write(w); 3-Write and execute; 4-Read(r); 5-Read and execute; 6-Read and write; 7-Read, write and execute
 * Compress a file: `gzip -k example.txt`
 * Display file details: `stat <file_name>` 
+
+### ULTIMATE TRICKS
+
+* Youtube video download: `youtube-dl <URL>` (1. install [youtube-dl](https://github.com/ytdl-org/youtube-dl). use `-F` to list available formats, `-f <format_code1>+<format_code..n>` to download specific formats.)
+* Download file from internet: `curl -s <URL> > <file_name>` (-s to see the download progress, you can use -o (output) option for saving the file)
+* Capture an image of the whole or part of the screen: `screencapture -i -p` (for other options, refer `-help`)
 
 ### VIRTUAL ENV
 
