@@ -23,7 +23,7 @@ Below is a curated list of the most fundamental commands. Would suggest to bookm
 * Print the current path: `echo $PATH`
 * Read manual of a command: `man <cmd>` (\[ENTER] to scroll, q to quit)
 * Add sudo automatically to the last command: `sudo !!`
-* Give your own name to a command: `alias cls=clear` (This sets up an alias called cls. It will be another name for clear. Alias for a sequence of command to be wrapped in quotes.)
+* Give your own name to a command: `alias cls=clear` (Alias for a sequence of command to be wrapped in quotes. To make alias permanent, add the commands in .zshrc)
 * Change the password of a user: `sudo passwd <username>`
 * Ping the server: `ping <URL>`
 * Simple text editor: `nano`
@@ -82,6 +82,7 @@ Below is a curated list of the most fundamental commands. Would suggest to bookm
 * Download file from internet: `curl -s <URL> > <file_name>` (-s to see the download progress, you can use -o (output) option for saving the file)
 * Capture an image of the whole or part of the screen: `screencapture -i -p` (for other options, refer `man screencapture`)
 * Convert text to audible speech: `cat myfile.txt | say` (for other options, refer `man say`)
+* Prevent the system from sleeping: `caffeinate -u -t 3600` (caffeinate for 1 hour)
 
 ### VIRTUAL ENV
 
