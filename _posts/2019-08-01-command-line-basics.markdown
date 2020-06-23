@@ -33,6 +33,7 @@ Below is a curated list of the most fundamental commands. Would suggest to bookm
 * Real-time status of system processes: `top` (you can use `ps` also for listing current processes)
 * Manage System Settings: `sudo systemsetup`
 * Report System Hardware and Software Configurations: `system_profiler`
+* System Security Frameworks: `security`
 
 ### INTERNET
 
