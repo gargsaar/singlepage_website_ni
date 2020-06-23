@@ -17,13 +17,13 @@ Interacting with a computer through a command-line interface (CLI) is a powerful
 
 Below is a curated list of the most fundamental commands. Would suggest to bookmark this post.
 
-#### LINUX TERMINAL
+#### GENERAL
 
-* Read manual of a command: `$ man <cmd>` (\[ENTER] to scroll, q to quit)
 * Find out the language of the terminal (zsh/bash/sh): `$ echo $0`
+* Read manual of a command: `$ man <cmd>` (\[ENTER] to scroll, q to quit)
 * Exit (terminate) any current process and start a new line: `$ ^c` (^ = \[CTRL])
+* Print a command: `$ echo "Hello, World!"`
 * Print the last executed statement: `$ _`
-* Map Python Version (Mac ZSH): `$ echo "alias python=/usr/local/bin/python3.7" >> ~/.zshrc`
 
 #### VIRTUAL ENV
 
@@ -67,6 +67,14 @@ Below is a curated list of the most fundamental commands. Would suggest to bookm
 * Open Python terminal: `$ python`
 * Execute a command: `$ python -c "print('Real Python')"`
 * Exit Python terminal: `>>> exit()` (or \\[CRTL]D)
+* Map Python Version (Mac ZSH): `$ echo "alias python=/usr/local/bin/python3.7" >> ~/.zshrc`
+
+#### PIP
+
+* Pip install package: `$ pip install <package-name>`
+* Pip uninstall package: `$ pip uninstall <package-name>`
+* Pip upgrade package: `$ pip install --upgrade <package-name>`
+* Pip help: `$ pip --help`
 
 #### JUYPTER LAB
 
@@ -79,9 +87,4 @@ Below is a curated list of the most fundamental commands. Would suggest to bookm
 * Test assistant: `$ rasa train`
 * Talk to assistant: `$ rasa shell`
 
-#### PIP
 
-* Pip install package: `$ pip install <package-name>`
-* Pip uninstall package: `$ pip uninstall <package-name>`
-* Pip upgrade package: `$ pip install --upgrade <package-name>`
-* Pip help: `$ pip --help`
