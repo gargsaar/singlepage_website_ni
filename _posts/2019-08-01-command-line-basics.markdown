@@ -17,12 +17,13 @@ Interacting with a computer through a command-line interface (CLI) is a powerful
 
 Below is a curated list of the most fundamental commands. Would suggest to bookmark this post.
 
-#### LINUX TERMINAL
+#### GENERAL
 
-* Read manual of a command: `$ man <cmd>` (\[ENTER] to scroll, q to quit)
 * Find out the language of the terminal (zsh/bash/sh): `$ echo $0`
+* Read manual of a command: `$ man <cmd>` (\[ENTER] to scroll, q to quit)
 * Exit (terminate) any current process and start a new line: `$ ^c` (^ = \[CTRL])
-* Map Python Version (Mac ZSH): `$ echo "alias python=/usr/local/bin/python3.7" >> ~/.zshrc`
+* Print a command: `$ echo "Hello, World!"`
+* Print the last executed statement: `$ _`
 
 #### VIRTUAL ENV
 
@@ -33,39 +34,47 @@ Below is a curated list of the most fundamental commands. Would suggest to bookm
 #### NAVIGATE AND EXPLORE
 
 * Print the working directory: `$ pwd`
+* Current directory: `$ .`
 * Go back to a directory: `$ cd ..`
 * Go two directories back: `$ cd ../..`
-* List the files in a specific directory: `$ ls <dir_name>`
 * Go to Root directory: `$ cd /`
 * Go to Home directory: `$ cd [ENTER]`
-* View items in list view with details: `$ ls -l` (use -lt or add -t to sort)
+---
+* View items in list view with details: `$ ls -l` (use -lt or add -t to sort, -1 for list view, -a to list hidden files)
 * View files with a specific file extension: `$ ls *<.extn>`
-* Current directory: `$ .`
-* Open a file: `$ open <file_path>`
-* Print the last executed statement: `$ _`
-* View hidden files: `$ ls -a`
+* List the files in a specific directory: `$ ls <dir_name>`
 
 #### WORKING FILES AND DIRECTORIES
 
 * Create a directory: `$ mkdir <dir_name>`
 * Create multiple directories: `$ mkdir <dir1> <dir2> <dirN>`
+* Remove dir: `$ rm -rf <dir_name>` (r - recursive, f - force)
+---
 * Create a file: `$ touch <file_name>`
-* Read a file: `$ cat <file_name>`
-* Write to a file: `$ echo "<text>" >> <file_name>` (use > to rewrite the text)
 * Create a file in a directory using echo: `$ echo "<text>" > <file_name>`
+* Copy file: `$ cp <copy_file> <copied_file>`
+* Rename file: `$ mv <file_name> <new_name>`
+* Move file: `$ mv <file_name> <dir_path>`
+* Read a file: `$ cat <file_name>`
+* Open a file: `$ open <file_path>`
+* Remove file: `$ rm <fine_name>` (this will remove file not dir)
+* Write to a file: `$ echo "<text>" >> <file_name>` (use > to rewrite the text)
 * Print text of multiple files together: `$ cat <file1> <file2>`
 * Concatenate content of multiple files: `$ cat <file1> <file2> > <file3>`
-* Move file: `$ mv <file_name> <dir_path>`
-* Rename file: `$ mv <file_name> <new_name>`
-* Copy file: `$ cp <copy_file> <copied_file>`
-* Remove file: `$ rm <fine_name>` (this will remove file not dir)
-* Remove dir: `$ rm -rf <dir_name>` (r - recursive, f - force)
 
 #### PYTHON
 
 * Open Python terminal: `$ python`
 * Execute a command: `$ python -c "print('Real Python')"`
 * Exit Python terminal: `>>> exit()` (or \\[CRTL]D)
+* Map Python Version (Mac ZSH): `$ echo "alias python=/usr/local/bin/python3.7" >> ~/.zshrc`
+
+#### PIP
+
+* Pip install package: `$ pip install <package-name>`
+* Pip uninstall package: `$ pip uninstall <package-name>`
+* Pip upgrade package: `$ pip install --upgrade <package-name>`
+* Pip help: `$ pip --help`
 
 #### JUYPTER LAB
 
@@ -78,8 +87,4 @@ Below is a curated list of the most fundamental commands. Would suggest to bookm
 * Test assistant: `$ rasa train`
 * Talk to assistant: `$ rasa shell`
 
-#### PIP
 
-* Pip install package: `$ pip install <package-name>`
-* Pip uninstall package: `$ pip uninstall <package-name>`
-* Pip help: `$ pip --help`
