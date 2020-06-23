@@ -64,12 +64,14 @@ Below is a curated list of the most fundamental commands. Would suggest to bookm
 * Print first few lines of a file: `head example.txt` ('use -n <no_of_lines>, default is 10. use `tail` for printing last lines.)
 * Open a file: `open <file_path>`
 * Remove file: `rm <fine_name>` (this will remove file not dir)
+* Securely remove files or directories: `srm <file_name>`
 * Write to a file: `echo "<text>" >> <file_name>` (use > to rewrite the text)
 * Search: `grep <search_string> <file_name>` (grep can search in multiple files, use wildcard *.<file_extn> instead file name.)
 * Print text of multiple files together: `cat <file1> <file2>`
 * Concatenate content of multiple files: `cat <file1> <file2> > <file3>`
 * To set file permissions: `chmod -R 765 example.txt` (Digits seq for Owner, Groups, & Others. Permissions: 0-No permission; 1-Execute(x); 2-Write(w); 3-Write and execute; 4-Read(r); 5-Read and execute; 6-Read and write; 7-Read, write and execute
 * Compress a file: `gzip -k example.txt`
+* Display file details: `stat <file_name>` 
 
 ### VIRTUAL ENV
 
