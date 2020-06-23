@@ -75,7 +75,8 @@ Below is a curated list of the most fundamental commands. Would suggest to bookm
 
 * Youtube video download: `youtube-dl <URL>` (1. install [youtube-dl](https://github.com/ytdl-org/youtube-dl). use `-F` to list available formats, `-f <format_code1>+<format_code..n>` to download specific formats.)
 * Download file from internet: `curl -s <URL> > <file_name>` (-s to see the download progress, you can use -o (output) option for saving the file)
-* Capture an image of the whole or part of the screen: `screencapture -i -p` (for other options, refer `-help`)
+* Capture an image of the whole or part of the screen: `screencapture -i -p` (for other options, refer `man screencapture`)
+* Convert text to audible speech: `cat myfile.txt | say` (for other options, refer `man say`)
 
 ### VIRTUAL ENV
 
