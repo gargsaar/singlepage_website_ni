@@ -72,6 +72,7 @@ Below is a curated list of the most fundamental commands. Would suggest to bookm
 * To set file permissions: `chmod -R 765 example.txt` (Digits seq for Owner, Groups, & Others. Permissions: 0-No permission; 1-Execute(x); 2-Write(w); 3-Write and execute; 4-Read(r); 5-Read and execute; 6-Read and write; 7-Read, write and execute
 * Compress a file: `gzip -k example.txt`
 * Display file details: `stat <file_name>` 
+* List the metadata attributes for a specified file: `mdls <file_name>`
 
 ### ULTIMATE TRICKS
 
