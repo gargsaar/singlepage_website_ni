@@ -17,7 +17,7 @@ Interacting with a computer through a command-line interface (CLI) is a powerful
 
 Below is a curated list of the most fundamental commands. Would suggest to bookmark this post.
 
-#### GENERAL
+### GENERAL
 
 * Find out the language of the terminal (zsh/bash/sh): `$ echo $0`
 * Read manual of a command: `$ man <cmd>` (\[ENTER] to scroll, q to quit)
@@ -25,13 +25,7 @@ Below is a curated list of the most fundamental commands. Would suggest to bookm
 * Print a command: `$ echo "Hello, World!"`
 * Print the last executed statement: `$ _`
 
-#### VIRTUAL ENV
-
-* Create a new virtual environment: `$ python -m venv <dir_name>`
-* Goto `<dir_name>/bin` and activate: `$ source activate` (This will prepend the path to “venv” at the beginning of the $PATH variable)
-* Exit the virtual environment: `$ deactivate`
-
-#### NAVIGATE AND EXPLORE
+### WORKING FILES AND DIRECTORIES
 
 * Print the working directory: `$ pwd`
 * Current directory: `$ .`
@@ -43,9 +37,7 @@ Below is a curated list of the most fundamental commands. Would suggest to bookm
 * View items in list view with details: `$ ls -l` (use -lt or add -t to sort, -1 for list view, -a to list hidden files)
 * View files with a specific file extension: `$ ls *<.extn>`
 * List the files in a specific directory: `$ ls <dir_name>`
-
-#### WORKING FILES AND DIRECTORIES
-
+---
 * Create a directory: `$ mkdir <dir_name>`
 * Create multiple directories: `$ mkdir <dir1> <dir2> <dirN>`
 * Remove dir: `$ rm -rf <dir_name>` (r - recursive, f - force)
@@ -62,14 +54,20 @@ Below is a curated list of the most fundamental commands. Would suggest to bookm
 * Print text of multiple files together: `$ cat <file1> <file2>`
 * Concatenate content of multiple files: `$ cat <file1> <file2> > <file3>`
 
-#### PYTHON
+### VIRTUAL ENV
+
+* Create a new virtual environment: `$ python -m venv <dir_name>`
+* Goto `<dir_name>/bin` and activate: `$ source activate` (This will prepend the path to “venv” at the beginning of the $PATH variable)
+* Exit the virtual environment: `$ deactivate`
+
+### PYTHON
 
 * Open Python terminal: `$ python`
 * Execute a command: `$ python -c "print('Real Python')"`
 * Exit Python terminal: `>>> exit()` (or \\[CRTL]D)
 * Map Python Version (Mac ZSH): `$ echo "alias python=/usr/local/bin/python3.7" >> ~/.zshrc`
 
-#### PIP
+### PIP
 
 * Pip help: `$ pip --help`
 * Pip install package: `$ pip install <package-name>`
@@ -79,11 +77,11 @@ Below is a curated list of the most fundamental commands. Would suggest to bookm
 * Pip uninstall package: `$ pip uninstall <package-name>`
 
 
-#### JUYPTER LAB
+### JUYPTER LAB
 
 * Start JupyterLab: `$ jupyter lab`
 
-#### RASA
+### RASA
 
 * Create new project: `$ rasa init --no-prompt`
 * Train model: `$ rasa train`
