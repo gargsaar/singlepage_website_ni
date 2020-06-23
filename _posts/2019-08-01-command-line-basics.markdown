@@ -24,7 +24,7 @@ Below is a curated list of the most fundamental commands. Would suggest to bookm
 * Read manual of a command: `man <cmd>` (\[ENTER] to scroll, q to quit)
 * Exit (terminate) any current process and start a new line: `^c` (^ = \[CTRL])
 * Add sudo automatically to the last command: `sudo !!`
-* Give your own name to a command: `alias cls=clear` (This sets up an alias called cls. It will be another name for clear. Alias for a sequence of command to be wrapped in quotes, alias pf="ps -e | grep $1")
+* Give your own name to a command: `alias cls=clear` (This sets up an alias called cls. It will be another name for clear. Alias for a sequence of command to be wrapped in quotes.)
 * Change the password of a user: `sudo passwd <username>`
 * Ping the server: `ping <URL>` 
 * Download file from internet: `curl -s <URL> > <file_name>` (-s to see the download progress, you can use -o (output) option for saving the file)
