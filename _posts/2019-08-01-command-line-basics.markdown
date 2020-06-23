@@ -27,6 +27,7 @@ Below is a curated list of the most fundamental commands. Would suggest to bookm
 * Give your own name to a command: `alias cls=clear` (This sets up an alias called cls. It will be another name for clear. Alias for a sequence of command to be wrapped in quotes.)
 * Change the password of a user: `sudo passwd <username>`
 * Ping the server: `ping <URL>`
+* Simple text editor: `nano`
 
 ### SYSTEM INFO AND SETUP
 * Linux System Information: `uname -a` (use `w` to see current logged-in users)
