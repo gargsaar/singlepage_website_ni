@@ -17,7 +17,7 @@ Interacting with a computer through a command-line interface (CLI) is a powerful
 
 Below is a curated list of the most fundamental commands. Would suggest to bookmark this post.
 
-### GENERAL
+### SETUP
 
 * Find out the language of the terminal (zsh/bash/sh): `$ echo $0`
 * Read manual of a command: `$ man <cmd>` (\[ENTER] to scroll, q to quit)
@@ -25,7 +25,7 @@ Below is a curated list of the most fundamental commands. Would suggest to bookm
 * Print a command: `$ echo "Hello, World!"`
 * Print the last executed statement: `$ _`
 
-### WORKING FILES AND DIRECTORIES
+### WORKING WITH DIRECTORIES
 
 * Print the working directory: `$ pwd`
 * Current directory: `$ .`
@@ -33,15 +33,15 @@ Below is a curated list of the most fundamental commands. Would suggest to bookm
 * Go two directories back: `$ cd ../..`
 * Go to Root directory: `$ cd /`
 * Go to Home directory: `$ cd [ENTER]`
----
-* View items in list view with details: `$ ls -l` (use -lt or add -t to sort, -1 for list view, -a to list hidden files)
-* View files with a specific file extension: `$ ls *<.extn>`
-* List the files in a specific directory: `$ ls <dir_name>`
----
 * Create a directory: `$ mkdir <dir_name>`
 * Create multiple directories: `$ mkdir <dir1> <dir2> <dirN>`
 * Remove dir: `$ rm -rf <dir_name>` (r - recursive, f - force)
----
+
+### WORKING WITH FILES
+
+* View files in directory view with details: `$ ls -l` (use -lt or add -t to sort, -1 for list view, -a to list hidden files)
+* View files with a specific file extension: `$ ls *<.extn>`
+* List the files in a specific directory: `$ ls <dir_name>`
 * Create a file: `$ touch <file_name>`
 * Create a file in a directory using echo: `$ echo "<text>" > <file_name>`
 * Copy file: `$ cp <copy_file> <copied_file>`
@@ -76,7 +76,6 @@ Below is a curated list of the most fundamental commands. Would suggest to bookm
 * Force install a version if you've already installed: `$ python3 -m pip install --force-reinstall git+<git_URL>`
 * Pip uninstall package: `$ pip uninstall <package-name>`
 
-
 ### JUYPTER LAB
 
 * Start JupyterLab: `$ jupyter lab`
@@ -87,5 +86,3 @@ Below is a curated list of the most fundamental commands. Would suggest to bookm
 * Train model: `$ rasa train`
 * Test assistant: `$ rasa train`
 * Talk to assistant: `$ rasa shell`
-
-
