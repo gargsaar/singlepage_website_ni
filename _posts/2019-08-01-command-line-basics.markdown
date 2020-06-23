@@ -20,10 +20,12 @@ Below is a curated list of the most fundamental commands. Would suggest to bookm
 ### SETUP
 
 * Find out the language of the terminal (zsh/bash/sh): `$ echo $0`
+* Print a command: `$ echo "Hello, World!"`
 * Read manual of a command: `$ man <cmd>` (\[ENTER] to scroll, q to quit)
 * Exit (terminate) any current process and start a new line: `$ ^c` (^ = \[CTRL])
-* Print a command: `$ echo "Hello, World!"`
-* Print the last executed statement: `$ _`
+* Add sudo automatically to the last command: `$ sudo !!`
+* Give your own name to a command: `$ alias cls=clear` (This sets up an alias called cls. It will be another name for clear. Alias for a sequence of command to be wrapped in quotes, alias pf="ps -e | grep $1")
+* Download file from internet: `$ curl -s <URL> -o <file_name>` (-s to see the download progress, -o (output) option for saving the file)
 
 ### WORKING WITH DIRECTORIES
 
@@ -47,12 +49,13 @@ Below is a curated list of the most fundamental commands. Would suggest to bookm
 * Copy file: `$ cp <copy_file> <copied_file>`
 * Rename file: `$ mv <file_name> <new_name>`
 * Move file: `$ mv <file_name> <dir_path>`
-* Read a file: `$ cat <file_name>`
+* Read a file: `$ cat <file_name> | less` (Lists the contents of files to the terminal window, faster than Open. Less allows to use up & down keys. Type q to quit from less.)
 * Open a file: `$ open <file_path>`
 * Remove file: `$ rm <fine_name>` (this will remove file not dir)
 * Write to a file: `$ echo "<text>" >> <file_name>` (use > to rewrite the text)
 * Print text of multiple files together: `$ cat <file1> <file2>`
 * Concatenate content of multiple files: `$ cat <file1> <file2> > <file3>`
+* To set file permissions: `$ chmod -R 765 example.txt` (Digits seq for Owner, Groups, & Others. Permissions: 0-No permission; 1-Execute(x); 2-Write(w); 3-Write and execute; 4-Read(r); 5-Read and execute; 6-Read and write; 7-Read, write and execute
 
 ### VIRTUAL ENV
 
