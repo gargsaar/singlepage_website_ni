@@ -37,7 +37,7 @@ Below is a curated list of the most fundamental commands. Would suggest to bookm
 * Report System Hardware and Software Configurations: `system_profiler`
 * System Security Frameworks: `security`
 * Manage system configuration parameters: `scutil --help` (Ex. `scutil --get HostName`, `sudo scutil --set HostName <Host_Name>`)
-* Set an environment variable: `export`
+* Set an environment variable: `env` (you can also use `export`)
 
 ### WORKING WITH DIRECTORIES
 
