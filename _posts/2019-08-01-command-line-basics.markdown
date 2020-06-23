@@ -93,3 +93,7 @@ Below is a curated list of the most fundamental commands. Would suggest to bookm
 * Create new project: `rasa init --no-prompt`
 * Train model: `rasa train`
 * Talk to assistant: `rasa shell`
+
+### ULTIMATE TRICKS
+
+* Youtube video download: `youtube-dl <URL>` (1. install [youtube-dl](https://github.com/ytdl-org/youtube-dl). use `-F` to list available formats, `-f <format_code1>+<format_code..n>` to download specific formats.)
