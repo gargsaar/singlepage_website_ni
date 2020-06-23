@@ -57,6 +57,7 @@ Below is a curated list of the most fundamental commands. Would suggest to bookm
 * Copy file: `cp <copy_file> <copied_file>`
 * Rename file: `mv <file_name> <new_name>`
 * Move file: `mv <file_name> <dir_path>`
+* Remote file copy: `rsync SOURCE DESTINATION`
 * Read a file: `cat <file_name> | less` (Lists the contents of files to the terminal window, faster than Open. Less allows to use up & down keys. Type q to quit from less.)
 * Print first few lines of a file: `head example.txt` ('use -n <no_of_lines>, default is 10. use `tail` for printing last lines.)
 * Open a file: `open <file_path>`
