@@ -27,7 +27,7 @@ Below is a curated list of the most fundamental commands. Would suggest to bookm
 * Give your own name to a command: `alias cls=clear` (This sets up an alias called cls. It will be another name for clear. Alias for a sequence of command to be wrapped in quotes, alias pf="ps -e | grep $1")
 * Change the password of a user: `sudo passwd <username>`
 * Ping the server: `ping <URL>` 
-* Download file from internet: `curl -s <URL> -o <file_name>` (-s to see the download progress, -o (output) option for saving the file)
+* Download file from internet: `curl -s <URL> > <file_name>` (-s to see the download progress, you can use -o (output) option for saving the file)
 * Linux System Information: `uname -a` (use `w` to see current logged-in users)
 * Real-time status of system processes: `top` (you can use `ps` also for listing current processes)
 
