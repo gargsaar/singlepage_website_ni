@@ -17,7 +17,7 @@ Interacting with a computer through a command-line interface (CLI) is a powerful
 
 Below is a curated list of the most fundamental commands. Would suggest to bookmark this post.
 
-### SETUP
+### STARTER
 
 * Find out the language of the terminal (zsh/bash/sh): `echo $0`
 * Print the current path: `echo $PATH`
@@ -26,10 +26,18 @@ Below is a curated list of the most fundamental commands. Would suggest to bookm
 * Add sudo automatically to the last command: `sudo !!`
 * Give your own name to a command: `alias cls=clear` (This sets up an alias called cls. It will be another name for clear. Alias for a sequence of command to be wrapped in quotes.)
 * Change the password of a user: `sudo passwd <username>`
-* Ping the server: `ping <URL>` 
-* Download file from internet: `curl -s <URL> > <file_name>` (-s to see the download progress, you can use -o (output) option for saving the file)
+* Ping the server: `ping <URL>`
+
+### SYSTEM INFO AND SETUP
 * Linux System Information: `uname -a` (use `w` to see current logged-in users)
 * Real-time status of system processes: `top` (you can use `ps` also for listing current processes)
+* Manage System Settings: `sudo systemsetup`
+* Report System Hardware and Software Configurations: `system_profiler`
+
+### INTERNET
+
+* Download file from internet: `curl -s <URL> > <file_name>` (-s to see the download progress, you can use -o (output) option for saving the file)
+* Youtube video download: `youtube-dl <URL>` (1. install [youtube-dl](https://github.com/ytdl-org/youtube-dl). use `-F` to list available formats, `-f <format_code1>+<format_code..n>` to download specific formats.)
 
 ### WORKING WITH DIRECTORIES
 
@@ -93,7 +101,3 @@ Below is a curated list of the most fundamental commands. Would suggest to bookm
 * Create new project: `rasa init --no-prompt`
 * Train model: `rasa train`
 * Talk to assistant: `rasa shell`
-
-### ULTIMATE TRICKS
-
-* Youtube video download: `youtube-dl <URL>` (1. install [youtube-dl](https://github.com/ytdl-org/youtube-dl). use `-F` to list available formats, `-f <format_code1>+<format_code..n>` to download specific formats.)
