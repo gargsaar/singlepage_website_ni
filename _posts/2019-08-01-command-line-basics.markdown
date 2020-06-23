@@ -82,6 +82,7 @@ Below is a curated list of the most fundamental commands. Would suggest to bookm
 * Download file from internet: `curl -s <URL> > <file_name>` (-s to see the download progress, you can use -o (output) option for saving the file)
 * Capture an image of the whole or part of the screen: `screencapture -i -p` (for other options, refer `man screencapture`)
 * Convert text to audible speech: `cat myfile.txt | say` (for other options, refer `man say`)
+* Prevent the system from sleeping: `caffeinate -u -t 3600` (caffeinate for 1 hour)
 
 ### VIRTUAL ENV
 
