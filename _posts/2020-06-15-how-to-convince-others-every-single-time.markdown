@@ -20,7 +20,7 @@ Next time when you go to buy something at a store, observe your behavior. I mean
 
 Another scenario - Imagine you are standing in a queue, let’s say for submitting your daughter's school fee and you need to get back to office as soon as possible. Suddenly, a lady approaches you and requests if she can submit the fee before you. What will you do - allow her?
 
-The answers to these questions can be found in human psychology. Interestingly, there are theories that can explain our behavior. 
+The answers to these questions can be found in human psychology. Interestingly, there are theories that explain our behavior. 
 
 **The Theory of Automatic Triggers** 
 
