@@ -1,5 +1,5 @@
 ---
-date: 2019-12-09T00:00:00.000Z
+date: 2020-03-09T00:00:00.000Z
 layout: post
 title: AI and the future of lending
 subtitle: Artificial Intelligence will drive the customer experience throughout
