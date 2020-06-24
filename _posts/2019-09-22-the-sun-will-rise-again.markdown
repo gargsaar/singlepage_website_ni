@@ -17,7 +17,7 @@ paginate: true
 ---
 December 13, 2018. I was in a hospital room sitting on a chair, and in front of me, my father was lying. Through tears, I remembered the lesson life had taught me which gave me the strength to sit there.
 
-**There is nothing more uncertain in this world than life. At one moment it makes you sad, and the very next, happy. I believe, life always gives a surprise when u least expect.**
+> There is nothing more uncertain in this world than life. At one moment it makes you sad, and the very next, happy. I believe, life always gives a surprise when u least expect.
 
 When I was 14 years old, one day I was getting ready for school and by the time I joined my father at the breakfast table, he was done. He didn’t allow me a single bite because I was late, by 5 minutes. I hated him and this feeling was mutual. He did not like me either, maybe because of what had happened when I was born. 
 
