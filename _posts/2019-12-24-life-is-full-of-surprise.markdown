@@ -1,5 +1,5 @@
 ---
-date: 2019-08-24T00:00:00.000Z
+date: 2019-12-24T00:00:00.000Z
 layout: post
 title: Life is full of surprise
 subtitle: Next sixty minutes was the most beautiful time of my life :).
