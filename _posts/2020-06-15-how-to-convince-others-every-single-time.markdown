@@ -46,4 +46,4 @@ Last but not the least, **the theory of Contrast** says that we tend to like an 
 
 To summarise, for convincing others every single time, we need to find out what could be the automatic triggers inside them, always make a request with a 'because', and try to bring in comparison. And it's essential that we learn these tricks because the most important trait of any successful individual the world has known is his/her ability to convince others.
 
-> “Just because something isn't a lie does not mean that it isn't deceptive. A liar knows that he is a liar, but one who speaks mere portions of truth in order to deceive is a craftsman of destruction.” - Criss Jami
+> Don't blame a clown for acting the clown, ask yourself why you keep going to the circus.
