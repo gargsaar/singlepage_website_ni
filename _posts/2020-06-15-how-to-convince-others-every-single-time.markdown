@@ -22,17 +22,17 @@ Next time when you go to buy something at a store, observe your behavior. I mean
 
 Another scenario - Imagine you are standing in a queue, let’s say for submitting your daughter's school fee and you need to get back to office as soon as possible. Suddenly, a lady approaches you and requests if she can submit the fee before you. What will you do - allow her?
 
-The answers to these questions can be found in human psychology. Interestingly, there are theories that explain our behavior. 
+The answers to these questions can be found in human psychology. Interestingly, there are [theories](https://en.wikipedia.org/wiki/List_of_social_psychology_theories) that explain our behavior. 
 
-**The Theory of Automatic Triggers** 
+**[The Theory of Automatic Triggers](https://scholar.harvard.edu/files/dwegner/files/wheatleywegner.pdf)**
 
-**The Theory of Because** 
+**[The Theory of Reasoning](https://en.wikipedia.org/wiki/Psychology_of_reasoning)** 
 
-**The Theory of Contrast** 
+[**The Theory of Contrast** ](https://psychology.iresearchnet.com/social-psychology/social-cognition/contrast-effects/)
 
 According to **the Theory of Automatic Triggers**, we (humans) have pre-defined triggers present in our brain that influence our decisions, or you can say - it happens automatically. For example, if you belong to a well-off family where you have been taught that every valuable thing has a price, it’s most likely that you will develop an automatic trigger that expensive things are better. So, when you shop for things you don’t know much about, you will choose the most expensive item. Your buying decision will be based upon this one parameter that EXPENSIVE IS BETTER and you will neglect all other considerations. And more often than not, you will be wrong.
 
-The second theory, **the Theory of Because** tells us that we (humans) are very logical, and henceforth, almost all of us are more likely to accept a request when it has a BECAUSE. To get this better, let's go back to the queue scenario. Would you have allowed her to bypass you if she had made a request like this:  
+The second theory, **the Theory of Reasoning** tells us that we (humans) are very logical, and henceforth, almost all of us are more likely to accept a request when it has a BECAUSE. To get this better, let's go back to the queue scenario. Would you have allowed her to bypass you if she had made a request like this:  
 
 *"Hi. Please, can you allow me to submit the fee before you? I'm in a hurry!"* 
 
@@ -46,6 +46,6 @@ Most likely, YES!
 
 Last but not the least, **the Theory of Contrast** says that we tend to like an average thing more when compared to an inferior substitute. Vice-versa, dislike an average thing more, than it deserves, when compared with an outshining alternative. To explain this theory, researchers did an experiment in which they divided men into two groups. One group of men was taken to a room with a TV on which Baywatch was being played, and the second group was in a room with no TV. To the researcher’s astonishment, men in the TV room rated their wife way too low on the parameter of beauty despite the fact that this group of men had very beautiful wives. Why? No marks for guessing, credit goes to Pamela Anderson.
 
-To summarise, for convincing others every single time, we need to find out what could be the automatic triggers inside them, always make a request with a 'because', and try to bring in comparison. And it's essential that we learn these tricks because the most important trait of any successful individual the world has known is his/her ability to convince others.
+To summarise, for convincing others every single time, we need to find out what could be the automatic triggers inside them, always make a request with a BECAUSE in it, and try to bring in comparison. And it's essential that we learn these tricks because the most important trait of any successful individual the world has known is his/her ability to convince others.
 
 > "If you can convince yourself, you can convince a lot more people around you."
