@@ -34,13 +34,13 @@ The second theory, **the theory of Because** tells us that we (humans) are very 
 
 *"Hi. Please, can you allow me to submit the fee before you? I'm in a hurry!"* 
 
-Most certainly, NO. 
+Most certainly, NO! 
 
 Or, if the request was something like this:
 
 *“Hi. Can you please allow me to submit the fee before you BECAUSE I'm in a hurry as my mother is not well and waiting outside.”* 
 
-Most likely, YES.
+Most likely, YES!
 
 Last but not the least, **the theory of Contrast** says that we tend to like an average thing more when compared with a horrible substitute. And vice-versa, dislike an average thing more, than it deserves to be, when compared with an outshining alternative. To explain this theory, some researchers did an experiment in which they divided men into two groups. One group of men were taken to a room with a TV on which Baywatch was being played, and the second group was in a room with no TV. To the researcher’s astonishment, men in the TV room rated their wife way too low on the parameter of beauty despite the fact that this group of men had more beautiful wives. Why? No marks for guessing, Pamela Anderson.
 
