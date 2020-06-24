@@ -9,12 +9,12 @@
         <section class="post {% if site.two_columns_layout %}two-columns{% else %}one-column{% endif %}">
             <article role="article" class="post-content">
                 <p class="post-info">
-                    {% if page.date %}
+                    <!--{% if page.date %}
                         <svg class="icon-calendar" id="date"><use xlink:href="#icon-calendar"></use></svg>
                         <time class="date" datetime="{{ page.date | date_to_xmlschema }}">
                             {% include date.html date=page.date %}
                         </time>
-                    {% endif %}
+                    {% endif %}-->
                     <svg id="clock" class="icon-clock"><use xlink:href="#icon-clock"></use></svg>
                     <span>{{ minutesText }}</span>
                 </p>
