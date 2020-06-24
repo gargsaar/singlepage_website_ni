@@ -14,6 +14,7 @@ tags:
 author: sarthakgarg
 paginate: true
 ---
+> “Ask yourself why you keep going to the circus, credit goes to the clown for acting the clown.”
 
 We meet different types of people, some are able to convince us while many are not. Some people are so convincing that they can sell us the same product or idea that we rejected to buy for somebody else. Have you ever wondered why? 
 
