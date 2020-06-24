@@ -131,11 +131,11 @@ Class Pubber:
 
 Hoohoo! _Pubber__address was declared as a global variable, but when declared inside the context of a class, I was able to reference it as is. How? Because of name mangling.
 
-**4. Leading and Trailing Dunders: \_\_var_\_**
+**4. Leading and Trailing Dunders: \_\_var\_\_**
 
 Names that have both leading and trailing double underscores are reserved for special use in the language, and are sometimes referred to as 'Special Methods' or 'Magic Methods'.
 
-There are close to 100 built-in Dunders in Python such as \_\_init\_\_ for object constructors, or \_\_call_\_ to make objects callable. 
+There are close to 100 [built-in Dunders in Python ](https://docs.python.org/3/reference/datamodel.html#special-method-names)such as \_\_init\_\_ for object constructors, or \_\_call\_\_ to make objects callable. 
 
 Python doesn't prohibit you from using names that start and end with double underscores in your own programs, but it is advised to avoid as it may collide with future changes to the Python language.
 
@@ -165,6 +165,7 @@ At times, while unpacking a tuple into separate variables, you're only intereste
 >>> _
 70
 ```
+
 Besides its use as a temporary variable, “_” is a special variable in most Python [REPLs](https://pythonprogramminglanguage.com/repl/) (Python Interactive Shell) that represents the result of the last expression evaluated by the interpreter.
 
-Hope, you will now use Underscores & Dunders more often and in different ways, and utilize the full potential of this marvellous high-level language programming - Python. 
+Hope, you will now use Underscores & Dunders more often and in different ways, and utilize the full potential of this marvellous high-level language programming - Python.
