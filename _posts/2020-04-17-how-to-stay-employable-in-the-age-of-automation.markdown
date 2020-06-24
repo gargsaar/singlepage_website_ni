@@ -1,5 +1,5 @@
 ---
-date: 2020-01-17T00:00:00.000Z
+date: 2020-04-17T00:00:00.000Z
 layout: post
 title: How to stay employable in the age of automation
 subtitle: AI will replace humans, but the change will be for good
