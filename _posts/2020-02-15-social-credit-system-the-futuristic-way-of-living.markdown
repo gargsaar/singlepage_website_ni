@@ -1,5 +1,5 @@
 ---
-date: 2019-09-15T00:00:00.000Z
+date: 2020-02-15T00:00:00.000Z
 layout: post
 title: Social Credit System – The Futuristic Way Of Living
 subtitle: Social Credit System (SCS) to rate the trustworthiness of citizens -
