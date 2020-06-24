@@ -29,6 +29,7 @@ Below is a curated list of the most fundamental commands. Would suggest to bookm
 * Simple text editor: `nano`
 
 ### SYSTEM INFO AND SETUP
+
 * Linux System Information: `uname -a` (use `w` to see current logged-in users)
 * Real-time status of system processes: `top` (you can use `ps` also for listing current processes)
 * Kill a process by specifying its PID: `kill`
@@ -114,3 +115,5 @@ Below is a curated list of the most fundamental commands. Would suggest to bookm
 * Capture an image of the whole or part of the screen: `screencapture -i -p` (for other options, refer `man screencapture`)
 * Convert text to audible speech: `cat myfile.txt | say` (for other options, refer `man say`)
 * Prevent the system from sleeping: `caffeinate -u -t 3600` (caffeinate for 1 hour)
+
+Not satisfied, need a more comprehensive list? [Check this](https://ss64.com/osx/).
