@@ -46,4 +46,4 @@ Last but not the least, **the Theory of Contrast** says that we tend to like an 
 
 To summarise, for convincing others every single time, we need to find out what could be the automatic triggers inside them, always make a request with a 'because', and try to bring in comparison. And it's essential that we learn these tricks because the most important trait of any successful individual the world has known is his/her ability to convince others.
 
-> "Don't blame a clown for acting the clown, ask yourself why you keep going to the circus."
+> "If you can convince yourself, you can convince a lot more people around you."
