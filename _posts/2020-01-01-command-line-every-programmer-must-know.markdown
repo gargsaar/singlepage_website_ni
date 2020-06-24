@@ -97,6 +97,7 @@ Below is a curated list of the most fundamental commands. Would suggest to bookm
 * Pip upgrade package: `pip install --upgrade <package-name>`
 * Force install a version if you've already installed: `python3 -m pip install --force-reinstall git+<git_URL>`
 * Pip uninstall package: `pip uninstall <package-name>`
+* Pip install by preventing the cached installation: `pip install <pachage_name> --no-cache-dir`
 
 ### JUYPTER LAB (Optional)
 
