@@ -1,7 +1,7 @@
 ---
 date: 2019-08-01T08:18:58.000Z
 layout: post
-title: Command Line Essentials Every Programmer Must Know
+title: Command Line Every Programmer Must Know
 subtitle: Mastering the command line is a must for every programmer.
 description: Mastering the command line is a must for every programmer.
 image: /assets/images/post_images/command-line.jpeg
