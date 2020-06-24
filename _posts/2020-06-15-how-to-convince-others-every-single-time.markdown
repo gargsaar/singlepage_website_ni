@@ -30,7 +30,7 @@ The answers to these questions can be found in human psychology. Interestingly, 
 
 According to **the theory of Automatic Triggers**, we (humans) have pre-defined triggers present in our brain that automatically take our decisions. For example, if you belong to a well-off family where you have been taught that every valuable thing has a price, it’s most likely that you will develop an automatic trigger that expensive things are better. So, when you shop for things you don’t know much about, your buying decision will be based upon this one parameter that EXPENSIVE IS BETTER as you will neglect all other considerations. And more often than not, you will be wrong.
 
-The second theory, **the theory of Because** tells us that we (humans) are very logical. And henceforth, almost all of us are more likely to accept a request when it has a BECAUSE. In the queue scenario, would you have allowed her to bypass you if she had made a request something like this:  
+The second theory, **the theory of Because** tells us that we (humans) are very logical. And henceforth, almost all of us are more likely to accept a request when it has a BECAUSE. In the queue scenario, would you have allowed her to bypass you if she had made a request like this:  
 
 *"Hi. Please can you allow me to submit the fee before you? I'm in a hurry!"* 
 
