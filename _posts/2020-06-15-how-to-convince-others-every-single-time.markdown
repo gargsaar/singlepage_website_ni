@@ -28,22 +28,22 @@ The answers to these questions can be found in human psychology. Interestingly, 
 
 **The theory of Contrast** 
 
-According to **the theory of Automatic Triggers**, we (humans) have pre-defined triggers present in our brain that automatically take our decisions. For example, if you belong to a well-off family where you have been taught that every valuable thing has a price, it’s most likely that you will develop an automatic trigger that expensive things are better. So, when you shop for things you don’t know much about, your buying decision will be based upon this one parameter that EXPENSIVE IS BETTER as you will neglect all other considerations. And more often than not, you will be wrong.
+According to **the theory of Automatic Triggers**, we (humans) have pre-defined triggers present in our brain that automatically take our decisions. For example, if you belong to a well-off family where you have been taught that every valuable thing has a price, it’s most likely that you will develop an automatic trigger that expensive things are better. So, when you shop for things you don’t know much about, you will buy the most expensive thing. Your buying decision will be based upon this one parameter that EXPENSIVE IS BETTER and you will neglect all other considerations. And more often than not, you will be wrong.
 
-The second theory, **the theory of Because** tells us that we (humans) are very logical. And henceforth, almost all of us are more likely to accept a request when it has a BECAUSE. In the queue scenario, would you have allowed her to bypass you if she had made a request something like this:  
+The second theory, **the theory of Because** tells us that we (humans) are very logical. And henceforth, almost all of us are more likely to accept a request when it has a BECAUSE. In the queue scenario, would you have allowed her to bypass you if she had made a request like this:  
 
-*"Hi. Please can you allow me to submit the fee before you? I'm in a hurry!"* 
+*"Hi. Please, can you allow me to submit the fee before you? I'm in a hurry!"* 
 
-Most certainly, NO. 
+Most certainly, NO! 
 
 Or, if the request was something like this:
 
 *“Hi. Can you please allow me to submit the fee before you BECAUSE I'm in a hurry as my mother is not well and waiting outside.”* 
 
-Most likely, YES.
+Most likely, YES!
 
-Last but not the least, **the theory of Contrast** says that we tend to like an average thing more when compared with a horrible substitute. And vice-versa, dislike an average thing more, than it deserves to be, when compared with an outshining alternative. To explain this theory, some researchers did an experiment in which they divided men into two groups. One group of men were taken to a room with a TV on which Baywatch was being played, and the second group was in a room with no TV. To the researcher’s astonishment, men in the TV room rated their wife way too low on the parameter of beauty despite the fact that this group of men had more beautiful wives. Why? No marks for guessing, Pamela Anderson.
+Last but not the least, **the theory of Contrast** says that we tend to like an average thing more when compared with a horrible substitute. And vice-versa, dislike an average thing more, than it deserves to be, when compared with an outshining alternative. To explain this theory, researchers did an experiment in which they divided men into two groups. One group of men were taken to a room with a TV on which Baywatch was being played, and the second group was in a room with no TV. To the researcher’s astonishment, men in the TV room rated their wife way too low on the parameter of beauty despite the fact that this group of men had very beautiful wives. Why? No marks for guessing, Pamela Anderson.
 
 To summarise, for convincing others every single time, we need to find out what could be the automatic triggers inside them, always make a request with a 'because', and try to bring in comparison. And it's essential that we learn these tricks because the most important trait of any successful individual the world has known is his/her ability to convince others.
 
-> “Just because something isn't a lie does not mean that it isn't deceptive. A liar knows that he is a liar, but one who speaks mere portions of truth in order to deceive is a craftsman of destruction.” - Criss Jami
+> "Don't blame a clown for acting the clown, ask yourself why you keep going to the circus."
