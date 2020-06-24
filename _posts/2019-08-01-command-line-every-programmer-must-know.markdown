@@ -105,11 +105,11 @@ Below is a curated list of the most fundamental commands. Would suggest to bookm
 * Force install a version if you've already installed: `python3 -m pip install --force-reinstall git+<git_URL>`
 * Pip uninstall package: `pip uninstall <package-name>`
 
-### JUYPTER LAB
+### JUYPTER LAB (Optional)
 
 * Start JupyterLab: `jupyter lab`
 
-### RASA
+### RASA (Optional)
 
 * Create new project: `rasa init --no-prompt`
 * Train model: `rasa train`
