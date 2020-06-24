@@ -32,7 +32,7 @@ According to **the theory of Automatic Triggers**, we (humans) have pre-defined 
 
 The second theory, **the theory of Because** tells us that we (humans) are very logical. And henceforth, almost all of us are more likely to accept a request when it has a BECAUSE. In the queue scenario, would you have allowed her to bypass you if she had made a request like this:  
 
-*"Hi. Please can you allow me to submit the fee before you? I'm in a hurry!"* 
+*"Hi. Please, can you allow me to submit the fee before you? I'm in a hurry!"* 
 
 Most certainly, NO. 
 
