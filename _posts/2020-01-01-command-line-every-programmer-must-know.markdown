@@ -100,9 +100,10 @@ Below is a curated list of the most fundamental commands. Would suggest to bookm
 * Pip uninstall package: `pip uninstall <package-name>`
 * Pip install by preventing the cached installation: `pip install <pachage_name> --no-cache-dir`
 
-### JUYPTER LAB (Optional)
+### JUYPTER NOTEBOOK (Optional)
 
-* Start JupyterLab: `jupyter lab`
+* Installation: [https://jupyter.org/install](https://jupyter.org/install)
+* Start Jupyter Notebook: `jupyter notebook`
 
 ### RASA (Optional)
 
@@ -112,7 +113,7 @@ Below is a curated list of the most fundamental commands. Would suggest to bookm
 
 ### JEKYLL (Optional)
 
-* Installion guide: [https://jekyllrb.com/docs/](https://jekyllrb.com/docs/)
+* Installion: [https://jekyllrb.com/docs/](https://jekyllrb.com/docs/)
 * Create a new Jekyll site at ./myblog: `jekyll new myblog`
 * Build the site and make it available on a local server: `bundle exec jekyll serve`
 * Browse at http://localhost:4000
