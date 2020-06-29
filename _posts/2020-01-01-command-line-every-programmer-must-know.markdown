@@ -99,6 +99,9 @@ Below is a curated list of the most fundamental commands. Would suggest to bookm
 * Force install a version if you've already installed: `python3 -m pip install --force-reinstall git+<git_URL>`
 * Pip uninstall package: `pip uninstall <package-name>`
 * Pip install by preventing the cached installation: `pip install <pachage_name> --no-cache-dir`
+* List pip packages installed on the env: `pip list`
+* Generate a requirements file: `pip freeze > requirements.txt`
+* Install dependencies from a requirements file: `pip install -r requirements.txt`
 
 ### JUYPTER NOTEBOOK (Optional)
 
