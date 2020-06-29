@@ -104,9 +104,11 @@ Below is a curated list of the most fundamental commands. Would suggest to bookm
 
 * Installation: [https://jupyter.org/install](https://jupyter.org/install)
 * Start Jupyter Notebook: `jupyter notebook`
+* Browse at http://localhost:8888/
 
 ### RASA (Optional)
 
+* Installation: [https://rasa.com/docs/rasa/user-guide/installation/](https://rasa.com/docs/rasa/user-guide/installation/)
 * Create new project: `rasa init --no-prompt`
 * Train model: `rasa train`
 * Talk to assistant: `rasa shell`
