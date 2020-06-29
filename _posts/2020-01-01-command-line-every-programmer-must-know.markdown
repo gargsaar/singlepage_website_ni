@@ -92,6 +92,7 @@ Below is a curated list of the most fundamental commands. Would suggest to bookm
 
 ### PIP
 
+* Pip packages: [https://pypi.org/](https://pypi.org/)
 * Pip install package: `pip install <package-name>`
 * Install specific development version from Github: `python3 -m pip install git+<git_URL>`
 * Pip upgrade package: `pip install --upgrade <package-name>`
@@ -108,6 +109,13 @@ Below is a curated list of the most fundamental commands. Would suggest to bookm
 * Create new project: `rasa init --no-prompt`
 * Train model: `rasa train`
 * Talk to assistant: `rasa shell`
+
+### JEKYLL (Optional)
+
+* Installion guide: [https://jekyllrb.com/docs/](https://jekyllrb.com/docs/)
+* Create a new Jekyll site at ./myblog: `jekyll new myblog`
+* Build the site and make it available on a local server: `bundle exec jekyll serve`
+* Browse at http://localhost:4000
 
 ### ULTIMATE TRICKS
 
