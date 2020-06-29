@@ -114,7 +114,7 @@ Below is a curated list of the most fundamental commands. Would suggest to bookm
 * Installation: [https://rasa.com/docs/rasa/user-guide/installation/](https://rasa.com/docs/rasa/user-guide/installation/)
 * Create new project: `rasa init --no-prompt`
 * Train model: `rasa train`
-* Talk to assistant: `rasa shell`
+* Talk to assistant: `rasa shell nlu`
 
 ### JEKYLL (Optional)
 
