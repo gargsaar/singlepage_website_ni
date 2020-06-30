@@ -1,7 +1,7 @@
 ---
 date: 2020-06-15T20:36:04.000Z
 layout: post
-title: How to convince others every single time
+title: Science behind the skill to convince others
 subtitle: The most important trait of successful individuals is their ability to
   convince others.
 description: The most important trait of successful individuals is their ability
@@ -26,7 +26,7 @@ The answers to these questions can be found in human psychology. Interestingly, 
 
 **[The Theory of Automatic Triggers](https://scholar.harvard.edu/files/dwegner/files/wheatleywegner.pdf)**
 
-It says that we (humans) have pre-defined triggers present in our brain which influence our decisions, or you can say - decisions happen automatically. For example, if you belong to a well-off family where you have been taught that every valuable thing has a price, it’s most likely that you will develop an automatic trigger that expensive things are better. So, when you shop for things you don’t know much about, you will choose the most expensive item. Your buying decision will be based upon this one parameter that EXPENSIVE IS BETTER and you will neglect all other considerations. And more often than not, you will be wrong.
+It says that we (humans) have pre-defined triggers present in our brain which influence our decisions, or you can say - you take some decisions automatically without giving them much thought. For example, if you belong to a well-off family where you have been taught that every valuable thing has a price, it’s most likely that you will develop an automatic trigger that expensive things are better. So, when you shop for things you don’t know much about, you will choose the most expensive item. Your buying decision will be based upon this one parameter that EXPENSIVE IS BETTER and you will neglect all other considerations. And more often than not, you will be wrong.
 
 **[The Theory of Reasoning](https://en.wikipedia.org/wiki/Psychology_of_reasoning)**
 
