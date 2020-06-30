@@ -16,36 +16,44 @@ paginate: true
 ---
 > “Ask yourself why you keep going to the circus, credit goes to the clown for acting the clown.”
 
-We meet different types of people, some are able to convince us while many are not. Some people are so convincing that they can sell us the same product or idea that we rejected to buy for somebody else. Have you ever wondered why? 
+We meet different types of people, some are able to convince us while many are not. Some people are so convincing that they can sell us the same product or idea that we rejected to buy for somebody else just a while ago. Have you ever thought - why? 
 
-Next time when you go to buy something at a store, observe your behavior. I mean, once you make a purchase, retrospect, what influenced your buying decision? Let's say you wanted to buy something about which you don’t know much and you relied upon the sales rep to help you. If you bought the item, ask yourself - what motivated you to buy? Was that because of the sales rep, her confidence, the choice of words, or the sequence of the items she showed you? Also if you chose not to buy, then too question yourself - why. 
+Next time when you go for shopping, analyse your behavior. Once you make a purchase, retrospect, what influenced your buying decision? Let's say you wanted to buy something about which you don’t know much, so you relied upon the sales rep to help you. If you bought the item, ask yourself - what motivated you to buy? Did the sales rep's confidence motivated you, or her choice of words, or the sequence of the items she showed you? If you chose not to buy, then too question yourself - why. 
 
-Another scenario - Imagine you are standing in a queue, let’s say for submitting your daughter's school fee and you need to get back to office as soon as possible. Suddenly, a lady approaches you and requests if she can submit the fee before you. What will you do - allow her?
+In an another scenario imagine you're standing in a queue to submit your daughter's school fee and a lady approaches you with a request to allow her to bypass you. And you have a very important meeting for which you need to get back to the office as soon as possible, so what would you do? Accept her request or not? Again, the point to ponder is how you take these decisions.
 
 The answers to these questions can be found in human psychology. Interestingly, there are [theories](https://en.wikipedia.org/wiki/List_of_social_psychology_theories) that explain our behavior. 
 
-**[The Theory of Automatic Triggers](https://scholar.harvard.edu/files/dwegner/files/wheatleywegner.pdf)**
+**[The Theory of Automatic Actions](https://scholar.harvard.edu/files/dwegner/files/wheatleywegner.pdf)**
 
-It says that we (humans) have pre-defined triggers present in our brain which influence our decisions, or you can say - you take some decisions automatically without giving them much thought. For example, if you belong to a well-off family where you have been taught that every valuable thing has a price, it’s most likely that you will develop an automatic trigger that expensive things are better. So, when you shop for things you don’t know much about, you will choose the most expensive item. Your buying decision will be based upon this one parameter that EXPENSIVE IS BETTER and you will neglect all other considerations. And more often than not, you will be wrong.
+This theory says that we all have some thoughts and behaviours present in our brain that are automatically activated to allow us to do things or decide without having to think conciously. These are automatic thoughts or behaviors that trigger automatic actions. Like when you drive, you need not to think about how to turn the steering wheel or change the gear, it just happens automatically. We develop these thoughts or behaviors gradually as we grow. for example, if you belong to a well-off family where you have been taught that never compromise on quality and all valuable things come with a price, it’s most likely that you will develop a thought that expensive things are better. And this is how you become a bait for the skilled sales executive who knows by your behaviour that you're most certainly under the thought - 'EXPENSIVE IS BETTER'. You would not even realise, but a skilled sales executive can very easily convince you or play with your mind as your brain will trigger the action uncounciously, simulated by the enviornment. 
 
 **[The Theory of Reasoning](https://en.wikipedia.org/wiki/Psychology_of_reasoning)**
 
-It tells us that we (humans) are very logical, and henceforth, almost all of us are more likely to accept a request when it has a BECAUSE. To get this better, let's go back to the queue scenario. Would you have allowed her to bypass you if she had made a request like this:  
+The answer to our second scenario, would you have allowed the lady to break the queue to submit the fee before you even when you were getting late, lies in this concept of this theory. This theory is build upon a notion that we (humans) are very logical, and henceforth, almost all of us are more likely to accept a request when it has a BECAUSE or you can say - a logical reason. This theory is extremely effective and easy to implement, but not known to most of us.
 
-*"Hi. Please, can you allow me to submit the fee before you? I'm in a hurry!"* 
+In the queue scenario, your decision will actually entirely depend upon the way that lady makes the request. So, if the lady knows the theory of reasoning, it most like that you will accept her request.
 
-Most certainly, NO! 
+To absorb this theory, test it out now. Ask yourself what you would have done if she had said this to you:
 
-Or, if the request was something like this:
+*"Hey. Can you please allow me to submit the fee before you? I'm in a hurry!"* 
 
-*“Hi. Can you please allow me to submit the fee before you BECAUSE I'm in a hurry as my mother is not well and waiting outside.”* 
+I don't know what you thought, but its more likely that many of you would have said no. And the simple reason is, why should I allow her, there is no reason.
 
-Most likely, YES!
+But if the request was something like below, its certain that you would have accepted her request.
+
+*“Hey. Can you please allow me to submit the fee before you BECAUSE I'm in a hurry as my mother is not well and waiting outside.”* 
+
+When you feed the reason to the brain, it accepts the request until it has another solid reason to counter the request. Then the brain evaluates both the reasons, and in most cases, comples you to compromise to not hurt others. If there is no reason, the brain will completely ignore the request or reject it outrightly without evaluating it at all. So, now you now what you need to do when you need to convince others to break the queue :).
 
 [**The Theory of Contrast** ](https://psychology.iresearchnet.com/social-psychology/social-cognition/contrast-effects/)
 
-It says that we tend to like an average thing more when compared to an inferior substitute. Vice-versa, dislike an average thing more, than it deserves, when compared with an outshining alternative. To explain this theory, researchers did an experiment in which they divided men into two groups. One group of men was taken to a room with a TV on which Baywatch was being played, and the second group was in a room with no TV. To the researcher’s astonishment, men in the TV room rated their wife way too low on the parameter of beauty despite the fact that this group of men had very beautiful wives. Why? No marks for guessing, credit goes to Pamela Anderson.
+Last but not the least. This theory is my personal favorite. This trick is a little diffcult to implement, but when used success is guaranteed. With this trick in your toolkit, you can convince anybody of anything.
 
-To summarise: For convincing others every single time, we need to find out what could be the automatic triggers inside them, always make a request with a BECAUSE in it, and try to bring in comparison. It's essential that we learn these tricks because the most important trait of any successful individual the world has known is his/her ability to convince others.
+The theory of contrast says that we (humans) are very evaluative in nature and mostly all our decisions are based on comparison or usually relative, rather than absolute. And hence, we tend to like an average thing more when compared to an inferior substitute, and similarly, dislike an average thing more, than it deserves to be disliked, when compared with an outshining alternative. 
 
-> "If you can convince yourself, you can convince a lot more people around you."
+To prove this theory, some researchers did an experiment in which they divided men into two groups. One group of men was taken to a room with a TV on which Baywatch was being played, and the second group was in a room with no TV. To the researcher’s astonishment, men in the TV room rated their wives too low on looks despite the fact that this group of men had very beautiful wives. What would you have done? I bet, you would have done the same. Why? Its not your fault, the credit goes to Pamela Anderson.
+
+To summarise: a highly used skill such as the ability to convince others is something which can be learned. Fortunately, there is no a rocket science behind these, but a science of few logical psychology theories which can be understood easily and used practically. So, next time when you want to convince others, try to predict the thought process of your target that can trigger automatic actions in case you want to sell him/her your product or idea, never make a request without a BECAUSE, and try to bring in comparison to prove your point or get your idea accepted as people will weigh down a bad idea to accept yours even if it is mediocre. 
+
+I belive that the most important trait of any successful individual the world has known is his/her ability to convince others. And, if you can convince yourself, you can convince anybody around you.
