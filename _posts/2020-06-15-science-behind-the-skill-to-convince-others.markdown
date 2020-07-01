@@ -16,7 +16,7 @@ paginate: true
 ---
 > “Ask yourself why you keep going to the circus, credit goes to the clown for acting the clown.”
 
-We meet different types of people, some can convince us while many are not. Some people are so convincing that they can sell us the same product or idea that we rejected to buy for somebody else just a while ago. Have you ever thought - why?
+We meet different types of people, some can convince us while many may not. Some people are so convincing that they can sell us the same product or idea that we rejected to buy for somebody else just a while ago. Have you ever thought - why?
 
 Next time when you go for shopping, analyze your behavior. Once you make a purchase, retrospect what influenced your buying decision? Let’s say you wanted to buy something about which you don’t know much, so you relied upon the sales rep to help you. If you bought the item, ask yourself — what motivated you to buy? Did the sales rep’s confidence motivated you, or her choice of words, or the sequence of the items she showed you? If you chose not to buy, then too question yourself — why.
 
