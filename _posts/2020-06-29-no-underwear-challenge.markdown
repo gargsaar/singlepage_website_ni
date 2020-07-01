@@ -20,7 +20,7 @@ An intricate characteristic of we, humans, in general, is that we don’t value 
 Impossible!
 
 And how often you think about the pain and atrocities from which underwear has to suffer? Underwear is one of those innocent objects in our lives without which we can’t live, but we never give a damn.
-Rewind your life and go back to the moment when you brought home brand new underwear. When you took out the brand new underwear of the packet, it was so fresh, full of energy. But what we, humans, did to it. Poor underwear didn’t even know where it will get into.
+Rewind your life and go back to the moment when you brought home brand new underwear. When you took out the brand new underwear of the packet, it was so fresh, full of energy. But what you did to it. Poor underwear didn’t even know where it will get into.
 
 It enters there and the suffering begins. Fatal bacterias, deadly microbes, horrifying odour, suffocated hairy surroundings, the astronomic jolt of farts, it undergoes every inhumane cruelty possible. It lives with relentless negativity all the time, and some of us don’t even change it every day.
 
