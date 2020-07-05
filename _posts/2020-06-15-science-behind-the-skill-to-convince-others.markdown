@@ -44,7 +44,7 @@ However, if the request was something like below, it is certain that you would h
 
 “Hey. Can you please allow me to submit the fee before you BECAUSE I’m in a little hurry. My mother is not well and I need to take her to the doctor.”
 
-When you feed the reason to the brain, it accepts the request until it has another solid reason to counter the request. In the latter case, the brain evaluates both the reasons and in most cases, compels you to compromise so that you do not hurt others. If there is no reason, the brain will completely ignore the request or reject it outrightly without evaluating it.
+When you feed the reason to the brain, it accepts the request unless it has another solid reason to counter the request. In the latter case, the brain evaluates both the reasons and in most cases, compels you to compromise so that you do not hurt others. If there is no reason, the brain will completely ignore the request or reject it outrightly without evaluating it.
 
 So, now you know what you to do when you need to convince others to break the queue :).
 
@@ -60,4 +60,6 @@ What would you have done? I bet, you would have done the same. Why? It’s not y
 
 To summarise: a highly valuable skill such as the ability to convince others is something which can be learned. Fortunately, there is no rocket science behind this. It's all a science of few logical psychology [theories](https://en.wikipedia.org/wiki/List_of_social_psychology_theories) that can be understood easily and used practically. So, next time when you want to convince others, try to predict the thought process of your target that can trigger automatic actions in case you want to sell him/her your product, never make a request without a 'BECAUSE', and try to bring in comparison to prove your point or get your idea accepted as people will weigh down a bad idea to accept yours even if it is mediocre. 
 
-The most important trait of any successful individual the world has known is his/her ability to convince others, and, if you can convince yourself, you can convince anybody around you!!
+The most important trait of any successful individual the world has known is his/her ability to convince others. 
+
+> If you can convince yourself, you can convince a lot more people around you!!
