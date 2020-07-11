@@ -26,7 +26,6 @@ Below is a curated list of the most fundamental commands. Would suggest to bookm
 * Give your own name to a command: `alias cls=clear` (Alias for a sequence of command to be wrapped in quotes. To make alias permanent, add the commands in .zshrc)
 * Change the password of a user: `sudo passwd <username>`
 * Ping the server: `ping <URL>`
-* Simple text editor: `nano`
 
 ### SYSTEM INFO AND SETUP
 
@@ -78,6 +77,7 @@ Below is a curated list of the most fundamental commands. Would suggest to bookm
 * List the metadata attributes for a specified file: `mdls <file_name>`
 * Download file from internet: `wget <URL>`
 * Unzip file: `unzip <file_name>`
+* Edit a file: `nano <file_name>` (nano is a text editor)
 
 ### VIRTUAL ENV
 
