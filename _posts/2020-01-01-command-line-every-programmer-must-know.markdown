@@ -76,6 +76,8 @@ Below is a curated list of the most fundamental commands. Would suggest to bookm
 * Compress a file: `gzip -k example.txt`
 * Display file details: `stat <file_name>` 
 * List the metadata attributes for a specified file: `mdls <file_name>`
+* Download file from internet: `wget <URL>`
+* Unzip file: `unzip <file_name>`
 
 ### VIRTUAL ENV
 
