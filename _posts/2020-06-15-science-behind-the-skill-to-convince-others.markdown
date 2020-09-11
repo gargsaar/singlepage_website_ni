@@ -28,7 +28,7 @@ Fortunately, there is no rocket science behind this. It's all a science of few p
 
 You can read more about psychology theories [here](https://en.wikipedia.org/wiki/List_of_social_psychology_theories).
 
-**[The Theory of Automatic Actions](https://scholar.harvard.edu/files/dwegner/files/wheatleywegner.pdf)**
+**The Theory of Automatic Actions**
 
 This theory says that we have thoughts present in our brains that automatically trigger our decision without having to think consciously. For example, when you drive, you need not think about how to turn the steering wheel or change the gear, it just happens, automatically.
 
@@ -48,7 +48,7 @@ You may think that you ended up buying what you wanted, but it is his skills tha
 
 You can read more about the theory of automatic actions [here](https://scholar.harvard.edu/files/dwegner/files/wheatleywegner.pdf).
 
-**[The Theory of Reasoning](https://en.wikipedia.org/wiki/Psychology_of_reasoning)**
+**The Theory of Reasoning**
 
 The answer to our second scenario, would you have allowed the lady to break the queue to submit the fee before you, lies in the theory of reasoning. This theory is built upon a notion that we (humans) are very logical, and henceforth, we are more likely to accept a request when it has a 'BECAUSE', I mean - a logical reason.
 This theory is extremely effective, easy to implement, and purely based on common sense (but as you know, common sense is not common).
@@ -71,7 +71,7 @@ Now you know what you to do when you need to convince others to break the queue�
 
 You can read more about the theory of reasoning [here](https://en.wikipedia.org/wiki/Psychology_of_reasoning).
 
-[**The Theory of Contrast** ](https://psychology.iresearchnet.com/social-psychology/social-cognition/contrast-effects/)
+**The Theory of Contrast**
 
 Last, but not least. This theory is my personal favorite. This trick is a little difficult to implement, but when used cleverly, you can convince anybody of anything. It is like Brahmastra, the weapon which can't be defied, success is guaranteed.
 
