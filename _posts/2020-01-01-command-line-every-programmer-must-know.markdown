@@ -120,7 +120,7 @@ Below is a curated list of the most fundamental commands. Would suggest to bookm
 * Run bot locally: `rasa shell`
 * Run interactive bot: `rasa interactive -m models --endpoint endpoints.yml`
 * Run the bot on external channels: `rasa run -p 80`
-* Use Rasa X features for testing and interactive learning: `rasa X`
+* Use Rasa X features for testing and interactive learning: `rasa x`
 
 
 ### JEKYLL (Optional)
