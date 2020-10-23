@@ -117,6 +117,12 @@ Below is a curated list of the most fundamental commands. Would suggest to bookm
 * Create new project: `rasa init --no-prompt`
 * Train model: `rasa train`
 * Talk to assistant: `rasa shell nlu`
+* Run interactive bot: `rasa interactive -m models --endpoint endpoints.yml`
+* Run action server: `python -m rasa_sdk --actions actions`
+* Run bot locally: `rasa shell`
+* Run the bot on external channels: `rasa run -p 80`
+* Use Rasa X features for testing and interactive learning: `rasa X`
+
 
 ### JEKYLL (Optional)
 
