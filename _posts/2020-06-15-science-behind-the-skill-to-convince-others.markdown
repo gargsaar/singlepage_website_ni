@@ -24,9 +24,7 @@ Another scenario. Imagine you're standing in a queue to submit your daughter's s
 
 The point to ponder is how you take these decisions.
 
-Fortunately, there is no rocket science behind this. It's all a science of few psychology theories that can be understood easily and used practically.
-
-You can read more about psychology theories [here](https://en.wikipedia.org/wiki/List_of_social_psychology_theories).
+Fortunately, there is no rocket science behind this. It's all a science of few [psychology theories](https://en.wikipedia.org/wiki/List_of_social_psychology_theories) that can be understood easily and used practically.
 
 **The Theory of Automatic Actions**
 
